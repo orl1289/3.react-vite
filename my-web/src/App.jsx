@@ -13,9 +13,11 @@ function App() {
     <>
 
 {/* <!--------------------- Intro --------------------------------------------------------------> */}
-
+<header>
 <Navbar/>
+</header>
 
+<section>
 
 <div class= "h1 text-center">
 	<h1>
@@ -418,6 +420,8 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+
+</section>	  
     </>
   )
 }
