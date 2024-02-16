@@ -4,7 +4,7 @@ import Navbar from './components/NavBar'
 import Footer from './components/Footer'
 
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
 
@@ -16,7 +16,7 @@ function App() {
 <Navbar/>
 </header>
 
-<section>
+<section className='b-container m-auto'>
 
 <div class= "h1 text-center">
 	<h1>
