@@ -11,12 +11,13 @@ function Navbar() {
           <div className="flex justify-between items-center py-4">
 
             {/*  Inserting the animation*/}
-            <div className="inline-flex">
+            <div className="inline-grid">
         
               <Lottie animationData={animationData}
                 loop={1}
                 autoplay={true}
                 style={{ width: 90, height: 90 }}/>
+              <p className='text-white'> Todos los derechos reservados</p>
             </div>
 
 
@@ -31,7 +32,7 @@ function Navbar() {
                 <li class='bg-blue-900 rounded-full w-30 border-white'>
                     <a href="#" className="text-white hover:text-orange-500">Blog</a>
                 </li>
-                <li className='text-white'> Todos los derechos reservados</li>
+
               </ul>
             </div>
           </div>

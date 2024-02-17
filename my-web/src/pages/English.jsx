@@ -54,10 +54,10 @@ return(
                 <h1 class='font-bold text-4xl '>Education</h1>
             </div>
 
-            <h2 class='h3 p-4 font-semibold list-item list-inside'>University of Vigo
+            <h2 class='text-2xl p-4 font-semibold list-item list-inside'>University of Vigo
                 <p class='italic'> Energy and Sustainability Master's Degree (2023)</p>
             </h2>
-            <h2 class='h3 p-4 font-semibold list-item list-inside'>University of Costa Rica
+            <h2 class='text-2xl p-4 font-semibold list-item list-inside'>University of Costa Rica
                 <p class='italic'> Licence in Chemical Engineering (2019)</p>
             </h2>
 
@@ -232,11 +232,11 @@ return(
                     <h1 class='font-bold p-1 text-4xl '>Languages</h1>
                 </div>
                 <div class='text-primary-600 text-center text-2xl p-4'>
-                    <h2 class='h3 p-1 font-semibold list-item list-inside'> Spanish
+                    <h2 class='text-2xl p-1 font-semibold list-item list-inside'> Spanish
                         <i class='italic'> (Native)</i></h2>
-                    <h2 class='h3 p-1 font-semibold list-item list-inside'> English
+                    <h2 class='text-2xl p-1 font-semibold list-item list-inside'> English
                         <i class='italic'> (Professional)</i></h2>
-                    <h2 class='h3 p-1 font-semibold list-item list-inside'> French
+                    <h2 class='text-2xl p-1 font-semibold list-item list-inside'> French
                         <i class='italic'> (Fluent)</i></h2>
                 </div>
             </div>
@@ -252,7 +252,7 @@ return(
                     <h1 class='font-bold p-1 text-4xl '>Training and Certifications</h1>
                 </div>
                 <div class='text-primary-600 text-centertext-2xl p-4'>
-                    <h2 class='h3 p-1 font-semibold list-item list-inside'> Alianza Francesa de Costa Rica
+                    <h2 class='text-2xl p-1 font-semibold list-item list-inside'> Alianza Francesa de Costa Rica
                         <p class='italic'> DELF Niveau B1 (2012)</p></h2>
                 </div>
             </div>
@@ -266,7 +266,7 @@ return(
                     <h1 class='font-bold p-1 text-4xl '>Seminars</h1>
                 </div>
                 <div class='text-primary-600 text-centertext-2xl p-4'>
-                    <h2 class='h3 p-1 font-semibold list-item list-inside'>XXIV Latin American Congress of Students of Chemical Engineering and Related Careers
+                    <h2 class='text-2xl p-1 font-semibold list-item list-inside'>XXIV Latin American Congress of Students of Chemical Engineering and Related Careers
                         <p class='italic'> National Technological University (Buenos Aires, Argentina) - 2018</p>
                     </h2>
                 </div>
