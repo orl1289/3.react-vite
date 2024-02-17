@@ -1,9 +1,9 @@
 import { useState } from 'react'
-import './App.css'
-import Navbar from './components/NavBar'
-import Footer from './components/Footer'
+import '../App.css'
+import Navbar from '../components/NavBar.jsx'
+import Footer from '../components/Footer.jsx'
 
-function App() {
+function Home() {
 
 
   return (
@@ -404,4 +404,4 @@ function App() {
   )
 }
 
-export default App
+export default Home
