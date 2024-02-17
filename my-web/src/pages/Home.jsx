@@ -377,21 +377,36 @@ function Home() {
 </div>
 {/* <!---------------------Professional interest --------------------------------------------------------------> */}
 
+
 <div class='text-primary-600 text-center p-4 m-2'>
-	<div class='flex justify-center items-center'>
-			<svg class="w-7 h-7 text-primary-600 mt-1 mr-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
-				<path fill-rule="evenodd" d="M7 4a7 7 0 0 1 12 5c0 2.4-1.2 3.9-2.2 5v.1c-1 1.3-1.8 2.2-1.8 3.9 0 .6-.4 1-1 1h-4a1 1 0 0 1-1-1c0-1.6-.8-2.6-1.8-3.9C6.2 12.8 5 11.4 5 9a7 7 0 0 1 2-5Zm2 17c0-.6.4-1 1-1h4a1 1 0 1 1 0 2h-4a1 1 0 0 1-1-1Zm1.6-13.4A2 2 0 0 1 12 7a1 1 0 1 0 0-2 4 4 0 0 0-4 4 1 1 0 0 0 2 0c0-.5.2-1 .6-1.4Z" clip-rule="evenodd"/>
-			</svg>
-			<h1 class= 'font-bold text-4xl p-4 '>Áreas de interés profesional</h1>
-	</div>
-	<div>
-		<div class='grid grid-cols-3 p-2 m-2 text-2xl'>
-		<div>Documento Básico para el Ahorro de Energía</div>
-		<div>Código Técnico de la Edificación</div>
-		<div>El Plan Nacional Integrado de Energía y Clima 2021-2030 (PNIEC)</div>
-	</div>
-	</div>
-</div>
+                <div class='flex justify-center items-center'>
+                    <svg class="w-7 h-7 text-primary-600 mt-1 mr-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
+                        <path fill-rule="evenodd" d="M7 4a7 7 0 0 1 12 5c0 2.4-1.2 3.9-2.2 5v.1c-1 1.3-1.8 2.2-1.8 3.9 0 .6-.4 1-1 1h-4a1 1 0 0 1-1-1c0-1.6-.8-2.6-1.8-3.9C6.2 12.8 5 11.4 5 9a7 7 0 0 1 2-5Zm2 17c0-.6.4-1 1-1h4a1 1 0 1 1 0 2h-4a1 1 0 0 1-1-1Zm1.6-13.4A2 2 0 0 1 12 7a1 1 0 1 0 0-2 4 4 0 0 0-4 4 1 1 0 0 0 2 0c0-.5.2-1 .6-1.4Z" clip-rule="evenodd" />
+                    </svg>
+                    <h1 class='font-bold text-4xl p-4 '>Áreas de interés profesional</h1>
+                </div>
+                <div>
+                    <div class='grid grid-cols-2 p-2 m-2 text-2xl '>
+                    <div class='list-item list-inside'>Optimización de Datos: Dedicado a refinar procesos de datos para mejorar la eficiencia y precisión.</div>
+					<div class='list-item list-inside'>Prácticas Sostenibles: Comprometido con impulsar iniciativas de sostenibilidad para reducir el impacto ambiental.</div>
+					<div class='list-item list-inside'>Liderazgo Colaborativo: Hábil en liderar equipos diversos para lograr objetivos colectivos.</div>
+					<div class='list-item list-inside'>Mejora Continua: Apasionado por optimizar procesos para maximizar la productividad.</div>
+					<div class='list-item list-inside'>Servicio al Cliente Excepcional: Comprometido con brindar un servicio superior a través de soluciones personalizadas.</div>
+					<div class='list-item list-inside'>Gestión Efectiva de Proyectos: Competente en supervisar proyectos desde su inicio hasta su finalización.</div>
+					<div class='list-item list-inside'>Innovación Tecnológica: Entusiasta en integrar tecnología de vanguardia para mejorar operaciones.</div>
+					<div class='list-item list-inside'>Cumplimiento Normativo: Diligente en asegurar el cumplimiento de regulaciones y estándares de la industria.</div>
+					<div class='list-item list-inside'>Aprendizaje Permanente: Comprometido con el desarrollo profesional continuo y el crecimiento.</div>
+					<div class='list-item list-inside'>Planificación Estratégica: Enfocado en iniciativas estratégicas para impulsar el éxito organizacional.</div>
+					<div class='list-item list-inside'>Responsabilidad Social Corporativa (RSC): Comprometido con apoyar iniciativas de RSC mediante prácticas efectivas de gestión de datos, contribuyendo a los objetivos de sostenibilidad corporativa y de impacto social.</div>
+					<div class='list-item list-inside'>Gestión Sostenible de la Cadena de Suministro: Interesado en aplicar principios de gestión de datos para optimizar procesos de la cadena de suministro y mejorar la sostenibilidad en toda la cadena de valor.</div>
+					<div class='list-item list-inside'>Energía Renovable: Interesado en aprovechar técnicas de gestión de datos para optimizar sistemas de energía renovable y promover soluciones energéticas sostenibles.</div>
+					<div class='list-item list-inside'>Reducción de la Huella de Carbono: Comprometido en utilizar enfoques basados en datos para rastrear y reducir las emisiones de carbono, promoviendo la responsabilidad ambiental y la sostenibilidad.</div>
+
+                    </div>
+                </div>
+            </div>
+           
+
 
 {/* <!---------------------Insert animation --------------------------------------------------------------> */}
 

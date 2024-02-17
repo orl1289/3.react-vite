@@ -26,15 +26,17 @@ function Navbar() {
 
             <div className="hidden md:block">
               <ul className="flex space-x-6">
-                <button class='bg-blue-900 rounded-full w-30 border-white'>
-                <Link to="/" className="text-white hover:text-orange-500">CV</Link>
-                </button>
-                <button class='bg-blue-900 rounded-full w-30 border-white text-center'>
-                <Link to="/resume" className="text-white hover:text-orange-500">Resume</Link>
-                </button>
-                <button class='bg-blue-900 rounded-full w-30 border-white'>
-                    <a href="#" className="text-white hover:text-orange-500">Blog</a>
-                </button>
+                
+                <Link to="/" className="text-white hover:text-orange-500">
+                <button class='bg-blue-900 rounded-full w-30 border-white'>CV</button>
+                </Link>
+                
+                <Link to="/resume" className="text-white hover:text-orange-500">
+                <button class='bg-blue-900 rounded-full w-30 border-white'>Resume</button>
+                </Link>
+                <Link to="/" className="text-white hover:text-orange-500">
+                <button class='bg-blue-900 rounded-full w-30 border-white'>Blog</button>
+                </Link>
               </ul>
             </div>
           </div>

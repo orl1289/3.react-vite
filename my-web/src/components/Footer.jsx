@@ -1,6 +1,7 @@
 import React from 'react';
 import Lottie from 'lottie-react'
 import animationData from "../assets/bg-logo.json"
+import { Link } from 'react-router-dom'; // Import Link from React Router
 
 function Navbar() {
     return (
@@ -23,15 +24,15 @@ function Navbar() {
 
             <div className="hidden md:block">
               <ul className="flex space-x-6">
-                <li>
-                    <a href="#" className="text-white hover:text-orange-500">CV</a>
-                </li>
-                <li class='bg-blue-900 rounded-full w-30 border-white text-center'>
-                    <a href="#" className="text-white hover:text-orange-500">Resume</a>
-                </li>
-                <li class='bg-blue-900 rounded-full w-30 border-white'>
-                    <a href="#" className="text-white hover:text-orange-500">Blog</a>
-                </li>
+              <Link to="/" className="text-white hover:text-orange-500">
+                CV
+              </Link>
+              <Link to="/resume" className="text-white hover:text-orange-500">
+               Resume
+              </Link>
+              <Link to="/" className="text-white hover:text-orange-500">
+                Blog
+              </Link>
 
               </ul>
             </div>
