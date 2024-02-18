@@ -24,7 +24,7 @@ function Navbar() {
             </div>
 
 
-            <div className="hidden md:block">
+            <div>
               <ul className="flex space-x-6">
                 
                 <Link to="/" className="text-white hover:text-orange-500">
