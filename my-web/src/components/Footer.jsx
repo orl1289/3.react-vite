@@ -24,15 +24,15 @@ function Navbar() {
 
             <div className="hidden md:block">
               <ul className="flex space-x-6">
-              <Link to="/" className="text-white hover:text-orange-500">
+              <a href="/" className="text-white hover:text-orange-500">
                 CV
-              </Link>
-              <Link to="/resume" className="text-white hover:text-orange-500">
+              </a>
+              <a href="/resume" className="text-white hover:text-orange-500">
                Resume
-              </Link>
-              <Link to="/" className="text-white hover:text-orange-500">
+              </a>
+              <a href="/blog" className="text-white hover:text-orange-500">
                 Blog
-              </Link>
+              </a>
 
               </ul>
             </div>

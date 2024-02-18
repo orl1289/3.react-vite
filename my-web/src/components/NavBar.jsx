@@ -34,7 +34,7 @@ function Navbar() {
                 <Link to="/resume" className="text-white hover:text-orange-500">
                 <button class='bg-blue-900 rounded-full w-30 border-white'>Resume</button>
                 </Link>
-                <Link to="/" className="text-white hover:text-orange-500">
+                <Link to="/blog" className="text-white hover:text-orange-500">
                 <button class='bg-blue-900 rounded-full w-30 border-white'>Blog</button>
                 </Link>
               </ul>

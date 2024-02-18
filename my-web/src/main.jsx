@@ -3,8 +3,10 @@ import ReactDOM from 'react-dom/client'
 import './index.css'
 import Home from './pages/Home.jsx'
 import English from './pages/English.jsx'
+import Blog from './pages/Blog.jsx'
 
 import { createBrowserRouter, RouterProvider,} from "react-router-dom";
+import NotFoundPage from './pages/NotFoundpage.jsx'
 
 
 
@@ -14,10 +16,15 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <Home/>,
+    errorElement: <NotFoundPage/>
   },
   {
     path: "/resume",
     element: <English/>,
+  },
+  {
+    path: "/blog",
+    element: <Blog/>,
   },
 ]);
 

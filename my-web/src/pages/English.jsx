@@ -246,11 +246,20 @@ return(
 
             <div class='text-primary-600 text-center p-4 m-2'>
                 <div class='flex justify-center items-center'>
-                    <svg class="w-7 h-7 text-primary-600 mt-1 mr-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
-                        <path fill-rule="evenodd" d="M7 4a7 7 0 0 1 12 5c0 2.4-1.2 3.9-2.2 5v.1c-1 1.3-1.8 2.2-1.8 3.9 0 .6-.4 1-1 1h-4a1 1 0 0 1-1-1c0-1.6-.8-2.6-1.8-3.9C6.2 12.8 5 11.4 5 9a7 7 0 0 1 2-5Zm2 17c0-.6.4-1 1-1h4a1 1 0 1 1 0 2h-4a1 1 0 0 1-1-1Zm1.6-13.4A2 2 0 0 1 12 7a1 1 0 1 0 0-2 4 4 0 0 0-4 4 1 1 0 0 0 2 0c0-.5.2-1 .6-1.4Z" clip-rule="evenodd" />
-                    </svg>
+                <svg class="w-7 h-7 text-primary-600 mt-1 mr-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
+		        <path fill-rule="evenodd" d="M12 2a3 3 0 0 0-2.1.9l-.9.9a1 1 0 0 1-.7.3H7a3 3 0 0 0-3 3v1.2c0 .3 0 .5-.2.7l-1 .9a3 3 0 0 0 0 4.2l1 .9c.2.2.3.4.3.7V17a3 3 0 0 0 3 3h1.2c.3 0 .5 0 .7.2l.9 1a3 3 0 0 0 4.2 0l.9-1c.2-.2.4-.3.7-.3H17a3 3 0 0 0 3-3v-1.2c0-.3 0-.5.2-.7l1-.9a3 3 0 0 0 0-4.2l-1-.9a1 1 0 0 1-.3-.7V7a3 3 0 0 0-3-3h-1.2a1 1 0 0 1-.7-.2l-.9-1A3 3 0 0 0 12 2Zm3.7 7.7a1 1 0 1 0-1.4-1.4L10 12.6l-1.3-1.3a1 1 0 0 0-1.4 1.4l2 2c.4.4 1 .4 1.4 0l5-5Z" clip-rule="evenodd"/>		  
+		        </svg> 
                     <h1 class='font-bold p-1 text-4xl '>Training and Certifications</h1>
                 </div>
+                
+	        <div class='text-primary-600 text-centertext-2xl p-4'>
+		        <h2 class='text-2xl p-1 font-semibold list-item list-inside'> Measuring Sustainable Development
+			    <p class='italic'> SDG Academy (2024) - edX Verified Certificate</p></h2>
+	        </div>
+	        <div class='text-primary-600 text-centertext-2xl p-4'>
+		        <h2 class='text-2xl p-1 font-semibold list-item list-inside'> AWS Cloud Quest: Cloud Practitioner
+			    <p class='italic'> Amazon Web Services (2023) - Verified Certificate</p></h2>
+	        </div>
                 <div class='text-primary-600 text-centertext-2xl p-4'>
                     <h2 class='text-2xl p-1 font-semibold list-item list-inside'> Alianza Francesa de Costa Rica
                         <p class='italic'> DELF Niveau B1 (2012)</p></h2>
