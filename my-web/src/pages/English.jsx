@@ -47,19 +47,19 @@ return(
 </div>
 
         {/* // <!--------------------- Education --------------------------------------------------------------> */}
-        <div class='text-primary-600 text-center p-4 m-2'>
+        <div class='text-center p-4 m-2'>
 
             <div class='flex justify-center items-center'>
-                <svg class="w-7 h-7 text-primary-600 mt-1 mr-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
+                <svg class="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
                     <path fill-rule="evenodd" d="M6 2a2 2 0 0 0-2 2v15a3 3 0 0 0 3 3h12a1 1 0 1 0 0-2h-2v-2h2c.6 0 1-.4 1-1V4a2 2 0 0 0-2-2h-8v16h5v2H7a1 1 0 1 1 0-2h1V2H6Z" clip-rule="evenodd" />
                 </svg>
-                <h1 class='font-bold text-4xl '>Education</h1>
+                <h1 class='text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl'>Education</h1>
             </div>
 
-            <h2 class='text-2xl p-4 font-semibold list-item list-inside'>University of Vigo
+            <h2 class='text-[1.3rem] p-4 font-semibold list-item list-inside tablet:text-2xl laptop:text-3xl'>University of Vigo
                 <p class='italic'> Energy and Sustainability Master's Degree (2023)</p>
             </h2>
-            <h2 class='text-2xl p-4 font-semibold list-item list-inside'>University of Costa Rica
+            <h2 class='text-[1.3rem] p-4 font-semibold list-item list-inside tablet:text-2xl laptop:text-3xl'>University of Costa Rica
                 <p class='italic'> Licence in Chemical Engineering (2019)</p>
             </h2>
 
