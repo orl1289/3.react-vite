@@ -7,6 +7,7 @@ import Blog from './pages/Blog.jsx'
 
 import { createBrowserRouter, RouterProvider,} from "react-router-dom";
 import NotFoundPage from './pages/NotFoundpage.jsx'
+import Navbar from './components/NavBar.jsx'
 
 
 

@@ -29,14 +29,14 @@ function Navbar() {
               <ul className="flex space-x-6 desktop:">
                 
                 <Link to="/" className="text-white hover:text-orange-500">
-                <button class='text-xs tablet:text-sm laptop:text-base desktop:text-lg bg-blue-900 rounded-full w-30 border-white'>CV</button>
+                <button class='text-sm tablet:text-base laptop:text-lg desktop:text-xl bg-blue-900 rounded-full w-30 border-white'>CV</button>
                 </Link>
                 
                 <Link to="/resume" className="text-white hover:text-orange-500">
-                <button class='text-xs tablet:text-sm laptop:text-base desktop:text-lg bg-blue-900 rounded-full w-30 border-white'>Resume</button>
+                <button class='text-sm tablet:text-base laptop:text-lg desktop:text-xl bg-blue-900 rounded-full w-30 border-white'>Resume</button>
                 </Link>
                 <Link to="/blog" className="text-white hover:text-orange-500">
-                <button class='text-xs tablet:text-sm laptop:text-base desktop:text-lg bg-blue-900 rounded-full w-30 border-white'>Blog</button>
+                <button class='text-sm tablet:text-base laptop:text-lg desktop:text-xl bg-blue-900 rounded-full w-30 border-white'>Blog</button>
                 </Link>
               </ul>
             </div>

@@ -16,14 +16,14 @@ return(
 <Navbar/>
 </header>
 
-<section className='b-container m-auto'>
+<section className='m-auto min-h-screen'>
 <h1> En construcción...</h1>
 <div className="inline-flex">
         
-        <Lottie animationData={animationData}
+        <Lottie className='h-auto max-w-[35rem] tablet:max-w-[45rem] laptop:max-w-[50rem] desktop:max-w-[50rem]' animationData={animationData}
           loop={true}
           autoplay={true}
-          style={{ width: 700, height: 700 }}/>
+          />
       </div>
            
             </section>	

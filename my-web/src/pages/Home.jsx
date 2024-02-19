@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import '../App.css'
 import Navbar from '../components/NavBar.jsx'
 import Footer from '../components/Footer.jsx'
@@ -16,11 +15,11 @@ function Home() {
 <Navbar/>
 </header>
 
-<section className='m-auto'>
+<section className='m-auto p-3'>
 
 <div class=" text-center text-[0.6rem] tablet:text-base laptop:text-xl ">
 	<h1 class="font-bold bg-gradient-to-br from-blue-700 to-green-400 bg-clip-text text-transparent box-decoration-clone">
-	<span className='leading-tight'>
+	<span className='leading-normal'>
 	<p>Ing. Orlando Mata Monge</p>
 	<p>Ingeniero Químico</p>
 	<p>Máster en Energía y Sostenibilidad</p>
@@ -29,7 +28,7 @@ function Home() {
 	
 </div>
 
-<div className='text-xl grid tablet:text-2xl laptop:text-3xl tablet:grid-cols-3'>
+<div className='text-xl m-2 grid tablet:text-2xl laptop:text-3xl tablet:grid-cols-3'>
 		<div className='flex justify-center items-center'>
 		<svg className="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
 		<path fill-rule="evenodd" d="M12 2a8 8 0 0 1 6.6 12.6l-.1.1-.6.7-5.1 6.2a1 1 0 0 1-1.6 0L6 15.3l-.3-.4-.2-.2v-.2A8 8 0 0 1 11.8 2Zm3 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" clip-rule="evenodd"/>
