@@ -307,7 +307,7 @@ function Home() {
 		<h1 class= 'text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl'>Habilidades</h1>
 	</div>
 
-	<div class='text-xl grid tablet:text-2xl laptop:text-3xl tablet:grid-cols-3'>		
+	<div class='text-xl grid tablet:text-2xl tablet:grid-cols-3'>		
 		<div>Resolución de problemas</div>
 		<div>Pensador analítico</div>
 		<div>Resolución colaborativa</div>
@@ -342,7 +342,7 @@ function Home() {
 		<h1 class= 'text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl'>Conocimientos</h1>
 	</div>
 	<h3 class="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl"> Software</h3>
-	<div class='text-xl grid tablet:text-2xl laptop:text-3xl tablet:grid-cols-3'>
+	<div class='text-xl grid tablet:text-2xl tablet:grid-cols-3'>
 			<div>Microsoft Word</div>
 			<div>Microsoft Excel</div>
 			<div>Microsoft Office Power Point</div>
@@ -368,19 +368,19 @@ function Home() {
 			<div>Amazon QuickSight</div>
 	</div>
 	<h3 class="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl"> Lenguajes de programación</h3>
-	<div class='text-xl grid tablet:text-2xl laptop:text-3xl tablet:grid-cols-3'>
+	<div class='text-xl grid tablet:text-2xl tablet:grid-cols-3'>
 			<div>SQL (PostgreSQL)</div>
 			<div>Python</div>
 			<div>Python Libraries: Pandas,Numpy, Matplotlib</div>
 	</div>
 	<h3 class="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">Web development</h3>
-	<div class='text-xl grid tablet:text-2xl laptop:text-3xl tablet:grid-cols-3'>
+	<div class='text-xl grid tablet:text-2xl tablet:grid-cols-3'>
 		<div>CSS</div>
 		<div>HTML</div>
 		<div>Frameworks: Svelte</div>
 	</div>
 	<h3 class="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl"> Marco Legislativo</h3>
-	<div class='text-xl grid tablet:text-2xl laptop:text-3xl tablet:grid-cols-3'>
+	<div class='text-xl grid tablet:text-2xl tablet:grid-cols-3'>
 			<div>Documento Básico para el Ahorro de Energía</div>
 			<div>Código Técnico de la Edificación</div>
 			<div>El Plan Nacional Integrado de Energía y Clima 2021-2030 (PNIEC)</div>
@@ -398,7 +398,7 @@ function Home() {
                     <h1 class='text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl'>Áreas de interés profesional</h1>
                 </div>
                 <div>
-                    <div class='text-xl grid tablet:text-2xl laptop:text-3xl tablet:grid-cols-3'>
+                    <div class='text-xl grid tablet:text-2xl tablet:grid-cols-3'>
                     <div class='list-item list-inside p-2'>Optimización de Datos: Dedicado a refinar procesos de datos para mejorar la eficiencia y precisión.</div>
 					<div class='list-item list-inside p-2'>Prácticas Sostenibles: Comprometido con impulsar iniciativas de sostenibilidad para reducir el impacto ambiental.</div>
 					<div class='list-item list-inside p-2'>Liderazgo Colaborativo: Hábil en liderar equipos diversos para lograr objetivos colectivos.</div>

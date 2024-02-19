@@ -295,7 +295,7 @@ return(
                     <h1 class='text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl'>Skills</h1>
                 </div>
 
-                <div class='text-xl grid tablet:text-2xl laptop:text-3xl tablet:grid-cols-3'>
+                <div class='text-xl grid tablet:text-2xl tablet:grid-cols-3'>
                     <div>Problem-solver</div>
                     <div>Analytical</div>
                     <div>Collaborative team player</div>
@@ -331,7 +331,7 @@ return(
                     <h1 class='text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl'>Knowledge</h1>
                 </div>
                 <h3 class="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl"> Software</h3>
-                <div class='text-xl grid tablet:text-2xl laptop:text-3xl tablet:grid-cols-3'>
+                <div class='text-xl grid tablet:text-2xl tablet:grid-cols-3'>
                     <div>Microsoft Word</div>
                     <div>Microsoft Excel</div>
                     <div>Microsoft Office Power Point</div>
@@ -356,19 +356,19 @@ return(
                     <div>Amazon QuickSight</div>
                 </div>
                 <h3 class='font-bold text-2xl p-2'> Programming languages</h3>
-                <div class='text-xl grid tablet:text-2xl laptop:text-3xl tablet:grid-cols-3'>
+                <div class='text-xl grid tablet:text-2xl tablet:grid-cols-3'>
                     <div>SQL (PostgreSQL)</div>
                     <div>Python</div>
                     <div>Python Libraries: Pandas,Numpy, Matplotlib</div>
                 </div>
                 <h3 class='font-bold text-2xl p-2'>Web development</h3>
-                <div class='text-xl grid tablet:text-2xl laptop:text-3xl tablet:grid-cols-3'>
+                <div class='text-xl grid tablet:text-2xl tablet:grid-cols-3'>
                     <div>CSS</div>
                     <div>HTML</div>
                     <div>Frameworks: Svelte</div>
                 </div>
                 <h3 class='font-bold text-2xl p-2'> Legislative Framework</h3>
-                <div class='text-xl grid tablet:text-2xl laptop:text-3xl tablet:grid-cols-3'>
+                <div class='text-xl grid tablet:text-2xl tablet:grid-cols-3'>
                     <div>Documento Básico para el Ahorro de Energía</div>
                     <div>Código Técnico de la Edificación</div>
                     <div>El Plan Nacional Integrado de Energía y Clima 2021-2030 (PNIEC)</div>
@@ -385,7 +385,7 @@ return(
                     <h1 class='text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl'>Areas of professional interest</h1>
                 </div>
                 <div>
-                    <div class='text-xl grid tablet:text-2xl laptop:text-3xl tablet:grid-cols-3'>
+                    <div class='text-xl grid tablet:text-2xl tablet:grid-cols-3'>
                         <div class='list-item list-inside p-2'>Data Optimization: Dedicated to refining data processes for enhanced efficiency and accuracy</div>
                         <div class='list-item list-inside p-2'>Sustainable Practices: Committed to driving sustainability initiatives to reduce environmental impact.</div>
                         <div class='list-item list-inside p-2'>Collaborative Leadership: Skilled in leading diverse teams to achieve collective goals.</div>
