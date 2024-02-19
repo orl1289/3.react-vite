@@ -29,7 +29,7 @@ function Home() {
 	
 </div>
 
-<div className='text-xl grid tablet:text-lg laptop:text-2xl tablet:grid-cols-3'>
+<div className='text-xl grid tablet:text-2xl laptop:text-3xl tablet:grid-cols-3'>
 		<div className='flex justify-center items-center'>
 		<svg className="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
 		<path fill-rule="evenodd" d="M12 2a8 8 0 0 1 6.6 12.6l-.1.1-.6.7-5.1 6.2a1 1 0 0 1-1.6 0L6 15.3l-.3-.4-.2-.2v-.2A8 8 0 0 1 11.8 2Zm3 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" clip-rule="evenodd"/>
@@ -300,7 +300,7 @@ function Home() {
 
 {/* <!--------------------- Skills --------------------------------------------------------------> */}
 
-<div class='text-primary-600 text-center p-4 m-2'>
+<div class='text-center p-4 m-2'>
 	<div class='flex justify-center items-center p-1'>
 		<svg class="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
 			<path fill-rule="evenodd" d="M9 7V2.2a2 2 0 0 0-.5.4l-4 3.9a2 2 0 0 0-.3.5H9Zm2 0V2h7a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V9h5a2 2 0 0 0 2-2Zm-1 9a1 1 0 1 0-2 0v2a1 1 0 1 0 2 0v-2Zm2-5c.6 0 1 .4 1 1v6a1 1 0 1 1-2 0v-6c0-.6.4-1 1-1Zm4 4a1 1 0 1 0-2 0v3a1 1 0 1 0 2 0v-3Z" clip-rule="evenodd"/>
@@ -308,7 +308,7 @@ function Home() {
 		<h1 class= 'text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl'>Habilidades</h1>
 	</div>
 
-	<div class='grid grid-cols-3 p-2 m-2 text-2xl'>		
+	<div class='text-xl grid tablet:text-2xl laptop:text-3xl tablet:grid-cols-3'>		
 		<div>Resolución de problemas</div>
 		<div>Pensador analítico</div>
 		<div>Resolución colaborativa</div>
@@ -335,15 +335,15 @@ function Home() {
 		
 {/* <!---------------------Knowledge --------------------------------------------------------------> */}
 
-<div class='text-primary-600 text-center p-4 m-2'>
+<div class='text-center p-4 m-2'>
 	<div class='flex justify-center items-center'>
 		<svg class="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
 			<path d="M11 21V2.4a3.5 3.5 0 0 0-4.8 1.8A3.5 3.5 0 0 0 4 8l-.7 1.1-.1.4-.1.3a3.5 3.5 0 0 0 0 1.5A3.9 3.9 0 0 0 2 14v.9l.2.6a3.8 3.8 0 0 0 1 1.4 4 4 0 0 0 .6.5v.1A3.5 3.5 0 0 0 7 21a3.4 3.4 0 0 0 4.2.5 1 1 0 0 1-.2-.5Zm11-7.7v-.1a4 4 0 0 0-1-2 3.4 3.4 0 0 0-.2-1.7V9c-.3-.4-.5-.8-.8-1a3.4 3.4 0 0 0-.6-2.6 4 4 0 0 0-1.6-1.3A3.5 3.5 0 0 0 13 2.4V21c0 .2 0 .4-.2.5A3.4 3.4 0 0 0 17 21a3.5 3.5 0 0 0 3-3.5 5.4 5.4 0 0 0 .7-.5 4.2 4.2 0 0 0 .7-.9l.3-.5.2-.7v-.2a4 4 0 0 0 0-1.4Z"/>
 		  </svg>		  
-		<h1 class= 'font-bold text-4xl p-1'>Conocimientos</h1>
+		<h1 class= 'text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl'>Conocimientos</h1>
 	</div>
-	<h3 class="font-bold text-2xl p-2"> Software</h3>
-	<div class='grid grid-cols-3 p-2 m-2 text-2xl'>
+	<h3 class="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl"> Software</h3>
+	<div class='text-xl grid tablet:text-2xl laptop:text-3xl tablet:grid-cols-3'>
 			<div>Microsoft Word</div>
 			<div>Microsoft Excel</div>
 			<div>Microsoft Office Power Point</div>
@@ -368,20 +368,20 @@ function Home() {
 			<div>AWS Cloud Practitioner</div>
 			<div>Amazon QuickSight</div>
 	</div>
-	<h3 class='font-bold text-2xl p-2'> Lenguajes de programación</h3>
-	<div class='grid grid-cols-3 p-2 m-2 text-2xl'>
+	<h3 class="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl"> Lenguajes de programación</h3>
+	<div class='text-xl grid tablet:text-2xl laptop:text-3xl tablet:grid-cols-3'>
 			<div>SQL (PostgreSQL)</div>
 			<div>Python</div>
 			<div>Python Libraries: Pandas,Numpy, Matplotlib</div>
 	</div>
-	<h3 class='font-bold text-2xl p-2'>Web development</h3>
-	<div class='grid grid-cols-3 p-2 m-2 text-2xl'>
+	<h3 class="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">Web development</h3>
+	<div class='text-xl grid tablet:text-2xl laptop:text-3xl tablet:grid-cols-3'>
 		<div>CSS</div>
 		<div>HTML</div>
 		<div>Frameworks: Svelte</div>
 	</div>
-	<h3 class='font-bold text-2xl p-2'> Marco Legislativo</h3>
-	<div class='grid grid-cols-3 p-2 m-2 text-2xl'>
+	<h3 class="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl"> Marco Legislativo</h3>
+	<div class='text-xl grid tablet:text-2xl laptop:text-3xl tablet:grid-cols-3'>
 			<div>Documento Básico para el Ahorro de Energía</div>
 			<div>Código Técnico de la Edificación</div>
 			<div>El Plan Nacional Integrado de Energía y Clima 2021-2030 (PNIEC)</div>
@@ -391,15 +391,15 @@ function Home() {
 {/* <!---------------------Professional interest --------------------------------------------------------------> */}
 
 
-<div class='text-primary-600 text-center p-4 m-2'>
+<div class='text-center p-4 m-2'>
                 <div class='flex justify-center items-center'>
                     <svg class="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
                         <path fill-rule="evenodd" d="M7 4a7 7 0 0 1 12 5c0 2.4-1.2 3.9-2.2 5v.1c-1 1.3-1.8 2.2-1.8 3.9 0 .6-.4 1-1 1h-4a1 1 0 0 1-1-1c0-1.6-.8-2.6-1.8-3.9C6.2 12.8 5 11.4 5 9a7 7 0 0 1 2-5Zm2 17c0-.6.4-1 1-1h4a1 1 0 1 1 0 2h-4a1 1 0 0 1-1-1Zm1.6-13.4A2 2 0 0 1 12 7a1 1 0 1 0 0-2 4 4 0 0 0-4 4 1 1 0 0 0 2 0c0-.5.2-1 .6-1.4Z" clip-rule="evenodd" />
                     </svg>
-                    <h1 class='font-bold text-4xl p-4 '>Áreas de interés profesional</h1>
+                    <h1 class='text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl'>Áreas de interés profesional</h1>
                 </div>
                 <div>
-                    <div class='grid grid-cols-2 p-2 m-2 text-2xl '>
+                    <div class='text-xl grid tablet:text-2xl laptop:text-3xl tablet:grid-cols-3'>
                     <div class='list-item list-inside p-2'>Optimización de Datos: Dedicado a refinar procesos de datos para mejorar la eficiencia y precisión.</div>
 					<div class='list-item list-inside p-2'>Prácticas Sostenibles: Comprometido con impulsar iniciativas de sostenibilidad para reducir el impacto ambiental.</div>
 					<div class='list-item list-inside p-2'>Liderazgo Colaborativo: Hábil en liderar equipos diversos para lograr objetivos colectivos.</div>
