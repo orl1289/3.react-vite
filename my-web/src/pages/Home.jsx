@@ -101,7 +101,7 @@ function Home() {
 		</div>
 </div>
 	{/* <!-- #1 --> */}
-	<div class='text-primary-600 text-center p-4 m-2'>
+	<div class='text-center p-4 m-2'>
 	<h2 class='text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl'> Team Manager, Data Management en Amazon
 		<i>- (San José, Costa Rica) - Agosto 2021 a agosto 2022</i></h2>
 			  
@@ -221,8 +221,8 @@ function Home() {
 	</div>
 	</div>
 	{/* <!-- #5 --> */}
-	<div class='text-primary-600 text-center p-4 m-2'>
-		<h2 class='text-primary-600 font-semibold text-2xl'>Coordinación Talleres sobre Potabilidad y Tratamiento del agua – Universidad de Costa Rica
+	<div class='text-center p-4 m-2'>
+		<h2 class='text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl'>Coordinación Talleres sobre Potabilidad y Tratamiento del agua – Universidad de Costa Rica
 			<i>- (San José, Costa Rica) - Agosto 2014 a noviembre 2015</i></h2>
 				  
 	<div class='text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20'>
@@ -239,19 +239,19 @@ function Home() {
 
 {/* <!----------------------Languages---------------------------------------------------------------------- --> */}
 
-<div class='text-primary-600 text-center p-4 m-2'>
+<div class='text-center p-4 m-2'>
 	<div class='flex justify-center items-center'>
 		<svg class="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
 		<path stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M4.4 7.7c2 .5 2.4 2.8 3.2 3.8 1 1.4 2 1.3 3.2 2.7 1.8 2.3 1.3 5.7 1.3 6.7M20 15h-1a4 4 0 0 0-4 4v1M8.6 4c0 .8.1 1.9 1.5 2.6 1.4.7 3 .3 3 2.3 0 .3 0 2 1.9 2 2 0 2-1.7 2-2 0-.6.5-.9 1.2-.9H20m1 4a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/>
 		</svg> 
-		<h1 class= 'font-bold p-1 text-4xl '>Idiomas</h1>
+		<h1 class= 'text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl'>Idiomas</h1>
 	</div>
-	<div class='text-primary-600 text-center text-2xl p-4'>
-		<h2 class='h3 p-1 font-semibold list-item list-inside'> Español
+	<div class='text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20'>
+		<h2 class='p-2 font-semibold list-item list-inside'> Español
 		<i class='italic'> (Nativo)</i></h2>
-		<h2 class='h3 p-1 font-semibold list-item list-inside'> Inglés
+		<h2 class='p-2 font-semibold list-item list-inside'> Inglés
 		<i class='italic'> (Profesional)</i></h2>
-		<h2 class='h3 p-1 font-semibold list-item list-inside'> Francés
+		<h2 class='p-2 font-semibold list-item list-inside'> Francés
 		<i class='italic'> (Fluido)</i></h2>
 	</div>
 </div>
@@ -259,38 +259,38 @@ function Home() {
 
 {/* <!-------------------------------Certifications------------------------------------------------------------- --> */}
 
-<div class='text-primary-600 text-center p-4 m-2'>
+<div class='text-center p-4 m-2'>
 	<div class='flex justify-center items-center'>
 		<svg class="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
 		<path fill-rule="evenodd" d="M12 2a3 3 0 0 0-2.1.9l-.9.9a1 1 0 0 1-.7.3H7a3 3 0 0 0-3 3v1.2c0 .3 0 .5-.2.7l-1 .9a3 3 0 0 0 0 4.2l1 .9c.2.2.3.4.3.7V17a3 3 0 0 0 3 3h1.2c.3 0 .5 0 .7.2l.9 1a3 3 0 0 0 4.2 0l.9-1c.2-.2.4-.3.7-.3H17a3 3 0 0 0 3-3v-1.2c0-.3 0-.5.2-.7l1-.9a3 3 0 0 0 0-4.2l-1-.9a1 1 0 0 1-.3-.7V7a3 3 0 0 0-3-3h-1.2a1 1 0 0 1-.7-.2l-.9-1A3 3 0 0 0 12 2Zm3.7 7.7a1 1 0 1 0-1.4-1.4L10 12.6l-1.3-1.3a1 1 0 0 0-1.4 1.4l2 2c.4.4 1 .4 1.4 0l5-5Z" clip-rule="evenodd"/>		  
 		</svg> 
-		<h1 class= 'font-bold p-1 text-4xl '>Cursos y Certificaciones</h1>
+		<h1 class= 'text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl'>Cursos y Certificaciones</h1>
 	</div>
-	<div class='text-primary-600 text-centertext-2xl p-4'>
-		<h2 class='text-2xl p-1 font-semibold list-item list-inside'> Measuring Sustainable Development
+	<div class='text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20'>
+		<h2 class='font-semibold list-item list-inside p-2'> Measuring Sustainable Development
 			<p class='italic'> SDG Academy (2024) - edX Certificado</p></h2>
 	</div>
-	<div class='text-primary-600 text-centertext-2xl p-4'>
-		<h2 class='text-2xl p-1 font-semibold list-item list-inside'> AWS Cloud Quest: Cloud Practitioner
+	<div class='text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20'>
+		<h2 class='font-semibold list-item list-inside p-2'> AWS Cloud Quest: Cloud Practitioner
 			<p class='italic'> Amazon Web Services (2023) - Certificado </p></h2>
 	</div>
-	<div class='text-primary-600 text-centertext-2xl p-4'>
-		<h2 class='text-2xl p-1 font-semibold list-item list-inside'> Alianza Francesa de Costa Rica
+	<div class='text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20'>
+		<h2 class='font-semibold list-item list-inside p-2'> Alianza Francesa de Costa Rica
 			<p class='italic'> DELF Niveau B1 (2012)</p></h2>
 	</div>
 
 </div>
 
 {/* <!-------------------------------Congress------------------------------------------------------------- --> */}
-<div class='text-primary-600 text-center p-4 m-2'>
+<div class='text-center p-4 m-2'>
 	<div class='flex justify-center items-center'>
 		<svg class="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
 			<path d="M17.5 3A3.5 3.5 0 0 0 14 7L8.1 9.8A3.5 3.5 0 0 0 2 12a3.5 3.5 0 0 0 6.1 2.3l6 2.7-.1.5a3.5 3.5 0 1 0 1-2.3l-6-2.7a3.5 3.5 0 0 0 0-1L15 9a3.5 3.5 0 0 0 6-2.4c0-2-1.6-3.5-3.5-3.5Z"/>
 		</svg> 
-		<h1 class= 'font-bold p-1 text-4xl '>Congresos</h1>
+		<h1 class='text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl'>Congresos</h1>
 	</div>
-	<div class='text-primary-600 text-centertext-2xl p-4'>
-		<h2 class='text-2xl p-1 font-semibold list-item list-inside'>XXIV Congreso Latinoamericano de Estudiantes de Ingeniería Química y Carreras Afines
+	<div class='text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20'>
+		<h2 class='font-semibold list-item list-inside p-2'>XXIV Congreso Latinoamericano de Estudiantes de Ingeniería Química y Carreras Afines
 			<p class='italic'> Universidad Tecnológica Nacional (Buenos Aires, Argentina) - 2018</p>
 		   </h2>
 	</div>

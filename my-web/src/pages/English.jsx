@@ -131,7 +131,7 @@ return(
                 </div>
             </div>
             {/* < />!-- #2 --> */}
-            <div class='text-primary-600 text-center p-4 m-2'>
+            <div class='text-center p-4 m-2'>
                 <h2 class='text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl'> Process Lead, Data Management at Amazon
                     <i>- (San José, Costa Rica) - October 2020 to July 2021</i></h2>
 
@@ -169,7 +169,7 @@ return(
                 </div>
             </div>
             {/* < />!-- #3 --> */}
-            <div class='text-primary-600 text-center p-4 m-2'>
+            <div class='text-center p-4 m-2'>
                 <h2 class='text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl'> Sr. Associate, Data Management at Amazon
                     <i>- (San José, Costa Rica) - September 2017 to September 2020</i></h2>
 
@@ -189,7 +189,7 @@ return(
                 </div>
             </div>
             {/* < />!-- #4 --> */}
-            <div class='text-primary-600 text-center p-4 m-2'>
+            <div class='text-center p-4 m-2'>
                 <h2 class='text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl'>Chemistry Laboratory Assistant – University of Costa Rica
                     <i>- (San José, Costa Rica) - August 2015 to March 2017</i></h2>
 
@@ -210,8 +210,8 @@ return(
                 </div>
             </div>
             {/* < />!-- #5 --> */}
-            <div class='text-primary-600 text-center p-4 m-2'>
-                <h2 class='text-primary-600 font-semibold text-2xl'>Potability and Water Treatment Training Coordinator - University of Costa Rica
+            <div class='text-center p-4 m-2'>
+                <h2 class='text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl'>Potability and Water Treatment Training Coordinator - University of Costa Rica
                     <i>- (San José, Costa Rica) - August 2014 to Novembre 2015</i></h2>
 
                 <div class='text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20'>
@@ -226,19 +226,19 @@ return(
 
             {/* <!----------------------Languages---------------------------------------------------------------------- --> */}
 
-            <div class='text-primary-600 text-center p-4 m-2'>
+            <div class='text-center p-4 m-2'>
                 <div class='flex justify-center items-center'>
                     <svg class="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
                         <path stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M4.4 7.7c2 .5 2.4 2.8 3.2 3.8 1 1.4 2 1.3 3.2 2.7 1.8 2.3 1.3 5.7 1.3 6.7M20 15h-1a4 4 0 0 0-4 4v1M8.6 4c0 .8.1 1.9 1.5 2.6 1.4.7 3 .3 3 2.3 0 .3 0 2 1.9 2 2 0 2-1.7 2-2 0-.6.5-.9 1.2-.9H20m1 4a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
                     </svg>
-                    <h1 class='font-bold p-1 text-4xl '>Languages</h1>
+                    <h1 class='text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl'>Languages</h1>
                 </div>
-                <div class='text-primary-600 text-center text-2xl p-4'>
-                    <h2 class='text-2xl p-1 font-semibold list-item list-inside'> Spanish
+                <div class='text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20'>
+                    <h2 class='p-2 font-semibold list-item list-inside'> Spanish
                         <i class='italic'> (Native)</i></h2>
-                    <h2 class='text-2xl p-1 font-semibold list-item list-inside'> English
+                    <h2 class='p-2 font-semibold list-item list-inside'> English
                         <i class='italic'> (Professional)</i></h2>
-                    <h2 class='text-2xl p-1 font-semibold list-item list-inside'> French
+                    <h2 class='p-2 font-semibold list-item list-inside'> French
                         <i class='italic'> (Fluent)</i></h2>
                 </div>
             </div>
@@ -246,38 +246,38 @@ return(
 
             {/* <!-------------------------------Certifications------------------------------------------------------------- --> */}
 
-            <div class='text-primary-600 text-center p-4 m-2'>
-                <div class='flex justify-center items-center'>
-                <svg class="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
-		        <path fill-rule="evenodd" d="M12 2a3 3 0 0 0-2.1.9l-.9.9a1 1 0 0 1-.7.3H7a3 3 0 0 0-3 3v1.2c0 .3 0 .5-.2.7l-1 .9a3 3 0 0 0 0 4.2l1 .9c.2.2.3.4.3.7V17a3 3 0 0 0 3 3h1.2c.3 0 .5 0 .7.2l.9 1a3 3 0 0 0 4.2 0l.9-1c.2-.2.4-.3.7-.3H17a3 3 0 0 0 3-3v-1.2c0-.3 0-.5.2-.7l1-.9a3 3 0 0 0 0-4.2l-1-.9a1 1 0 0 1-.3-.7V7a3 3 0 0 0-3-3h-1.2a1 1 0 0 1-.7-.2l-.9-1A3 3 0 0 0 12 2Zm3.7 7.7a1 1 0 1 0-1.4-1.4L10 12.6l-1.3-1.3a1 1 0 0 0-1.4 1.4l2 2c.4.4 1 .4 1.4 0l5-5Z" clip-rule="evenodd"/>		  
-		        </svg> 
-                    <h1 class='font-bold p-1 text-4xl '>Training and Certifications</h1>
-                </div>
-                
-	        <div class='text-primary-600 text-centertext-2xl p-4'>
-		        <h2 class='text-2xl p-1 font-semibold list-item list-inside'> Measuring Sustainable Development
-			    <p class='italic'> SDG Academy (2024) - edX Verified Certificate</p></h2>
-	        </div>
-	        <div class='text-primary-600 text-centertext-2xl p-4'>
-		        <h2 class='text-2xl p-1 font-semibold list-item list-inside'> AWS Cloud Quest: Cloud Practitioner
-			    <p class='italic'> Amazon Web Services (2023) - Verified Certificate</p></h2>
-	        </div>
-                <div class='text-primary-600 text-centertext-2xl p-4'>
-                    <h2 class='text-2xl p-1 font-semibold list-item list-inside'> Alianza Francesa de Costa Rica
-                        <p class='italic'> DELF Niveau B1 (2012)</p></h2>
-                </div>
-            </div>
+            <div class='text-center p-4 m-2'>
+	<div class='flex justify-center items-center'>
+		<svg class="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
+		<path fill-rule="evenodd" d="M12 2a3 3 0 0 0-2.1.9l-.9.9a1 1 0 0 1-.7.3H7a3 3 0 0 0-3 3v1.2c0 .3 0 .5-.2.7l-1 .9a3 3 0 0 0 0 4.2l1 .9c.2.2.3.4.3.7V17a3 3 0 0 0 3 3h1.2c.3 0 .5 0 .7.2l.9 1a3 3 0 0 0 4.2 0l.9-1c.2-.2.4-.3.7-.3H17a3 3 0 0 0 3-3v-1.2c0-.3 0-.5.2-.7l1-.9a3 3 0 0 0 0-4.2l-1-.9a1 1 0 0 1-.3-.7V7a3 3 0 0 0-3-3h-1.2a1 1 0 0 1-.7-.2l-.9-1A3 3 0 0 0 12 2Zm3.7 7.7a1 1 0 1 0-1.4-1.4L10 12.6l-1.3-1.3a1 1 0 0 0-1.4 1.4l2 2c.4.4 1 .4 1.4 0l5-5Z" clip-rule="evenodd"/>		  
+		</svg> 
+		<h1 class= 'text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl'>Courses and Certifications</h1>
+	</div>
+	<div class='text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20'>
+		<h2 class='font-semibold list-item list-inside p-2'> Measuring Sustainable Development
+			<p class='italic'> SDG Academy (2024) - edX Certificado</p></h2>
+	</div>
+	<div class='text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20'>
+		<h2 class='font-semibold list-item list-inside p-2'> AWS Cloud Quest: Cloud Practitioner
+			<p class='italic'> Amazon Web Services (2023) - Certificado </p></h2>
+	</div>
+	<div class='text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20'>
+		<h2 class='font-semibold list-item list-inside p-2'> Alianza Francesa de Costa Rica
+			<p class='italic'> DELF Niveau B1 (2012)</p></h2>
+	</div>
+
+</div>
 
             {/* <!-------------------------------Congress------------------------------------------------------------- --> */}
-            <div class='text-primary-600 text-center p-4 m-2'>
+            <div class='text-center p-4 m-2'>
                 <div class='flex justify-center items-center'>
                     <svg class="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
                         <path d="M17.5 3A3.5 3.5 0 0 0 14 7L8.1 9.8A3.5 3.5 0 0 0 2 12a3.5 3.5 0 0 0 6.1 2.3l6 2.7-.1.5a3.5 3.5 0 1 0 1-2.3l-6-2.7a3.5 3.5 0 0 0 0-1L15 9a3.5 3.5 0 0 0 6-2.4c0-2-1.6-3.5-3.5-3.5Z" />
                     </svg>
                     <h1 class='font-bold p-1 text-4xl '>Seminars</h1>
                 </div>
-                <div class='text-primary-600 text-centertext-2xl p-4'>
-                    <h2 class='text-2xl p-1 font-semibold list-item list-inside'>XXIV Latin American Congress of Students of Chemical Engineering and Related Careers
+                <div class='text-center p-4'>
+                    <h2 class='p-2 font-semibold list-item list-inside'>XXIV Latin American Congress of Students of Chemical Engineering and Related Careers
                         <p class='italic'> National Technological University (Buenos Aires, Argentina) - 2018</p>
                     </h2>
                 </div>
