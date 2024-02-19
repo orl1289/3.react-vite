@@ -12,38 +12,40 @@ return(
 <Navbar/>
 </header>
 
-<section className='b-container m-auto'>
+<section className='m-auto'>
 
         {/* <!--------------------- Intro --------------------------------------------------------------> */}
-        <div class="h1 text-center">
-            <h1>
-                <span class="font-bold bg-gradient-to-br from-blue-700 to-green-400 bg-clip-text text-transparent box-decoration-clone">Orlando Mata Monge</span>
-            </h1>
-            <h1>
-                <span class="font-bold bg-gradient-to-br from-blue-700 to-green-400 bg-clip-text text-transparent box-decoration-clone">Chemical Engineer</span>
-            </h1>
-            <h1>
-                <span class="font-bold bg-gradient-to-br from-blue-700 to-green-400 bg-clip-text text-transparent box-decoration-clone">Energy and Sustainability Master's Degree</span>
-            </h1>
-            <div class='text-primary-600 font-semibold text-center grid grid-cols-3 p-4 m-2 text-2xl'>
-                <div class='flex justify-center items-center'>
-                    <svg class="w-6 h-6 text-primary-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
-                        <path fill-rule="evenodd" d="M12 2a8 8 0 0 1 6.6 12.6l-.1.1-.6.7-5.1 6.2a1 1 0 0 1-1.6 0L6 15.3l-.3-.4-.2-.2v-.2A8 8 0 0 1 11.8 2Zm3 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" clip-rule="evenodd" />
-                    </svg>
-                    Madrid, 28009</div>
-                <div class='flex justify-center items-center'>
-                    <svg class="w-6 h-6 text-primary-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
-                        <path d="M2 5.6V18c0 1.1.9 2 2 2h16a2 2 0 0 0 2-2V5.6l-.9.7-7.9 6a2 2 0 0 1-2.4 0l-8-6-.8-.7Z" />
-                        <path d="M20.7 4.1A2 2 0 0 0 20 4H4a2 2 0 0 0-.6.1l.7.6 7.9 6 7.9-6 .8-.6Z" />
-                    </svg>
-                    <a href="mailto:orl1289@gmail.com">orl1289@gmail.com</a></div>
-                <div class='flex justify-center items-center'>
-                    <svg class="w-6 h-6 text-primary-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
-                        <path d="M8 4a2.6 2.6 0 0 0-2 .9 6.2 6.2 0 0 0-1.8 6 12 12 0 0 0 3.4 5.5 12 12 0 0 0 5.6 3.4 6.2 6.2 0 0 0 6.6-2.7 2.6 2.6 0 0 0-.7-3L18 12.9a2.7 2.7 0 0 0-3.8 0l-.6.6a.8.8 0 0 1-1.1 0l-1.9-1.8a.8.8 0 0 1 0-1.2l.6-.6a2.7 2.7 0 0 0 0-3.8L10 4.9A2.6 2.6 0 0 0 8 4Z" />
-                    </svg>
-                    +34 692 536587</div>
-            </div>
-        </div>
+        <div class=" text-center text-[0.6rem] tablet:text-base laptop:text-xl ">
+	<h1 class="font-bold bg-gradient-to-br from-blue-700 to-green-400 bg-clip-text text-transparent box-decoration-clone">
+	<span className='leading-tight'>
+	<p>Orlando Mata Monge</p>
+	<p>Chemical Engineer</p>
+	<p>Energy and Sustainability Master's Degree</p>
+	</span>
+	</h1>
+	
+</div>
+
+<div className='text-xl grid tablet:text-lg laptop:text-2xl tablet:grid-cols-3'>
+		<div className='flex justify-center items-center'>
+		<svg className="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
+		<path fill-rule="evenodd" d="M12 2a8 8 0 0 1 6.6 12.6l-.1.1-.6.7-5.1 6.2a1 1 0 0 1-1.6 0L6 15.3l-.3-.4-.2-.2v-.2A8 8 0 0 1 11.8 2Zm3 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" clip-rule="evenodd"/>
+		</svg>		
+		Madrid, 28009
+		</div>
+		<div class='flex justify-center items-center'>
+			<svg class="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
+			<path d="M2 5.6V18c0 1.1.9 2 2 2h16a2 2 0 0 0 2-2V5.6l-.9.7-7.9 6a2 2 0 0 1-2.4 0l-8-6-.8-.7Z"/>
+			<path d="M20.7 4.1A2 2 0 0 0 20 4H4a2 2 0 0 0-.6.1l.7.6 7.9 6 7.9-6 .8-.6Z"/>
+			</svg>			
+			<a href="mailto:orl1289@gmail.com">orl1289@gmail.com</a></div>
+			<div class='flex justify-center items-center'>
+				<svg class="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">
+					<path d="M8 4a2.6 2.6 0 0 0-2 .9 6.2 6.2 0 0 0-1.8 6 12 12 0 0 0 3.4 5.5 12 12 0 0 0 5.6 3.4 6.2 6.2 0 0 0 6.6-2.7 2.6 2.6 0 0 0-.7-3L18 12.9a2.7 2.7 0 0 0-3.8 0l-.6.6a.8.8 0 0 1-1.1 0l-1.9-1.8a.8.8 0 0 1 0-1.2l.6-.6a2.7 2.7 0 0 0 0-3.8L10 4.9A2.6 2.6 0 0 0 8 4Z"/>
+				  </svg>	  
+				+34 692 536587</div>
+</div>
+
         {/* // <!--------------------- Education --------------------------------------------------------------> */}
         <div class='text-primary-600 text-center p-4 m-2'>
 
