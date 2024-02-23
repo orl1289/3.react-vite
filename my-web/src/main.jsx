@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client'
 import './index.css'
 import Home from './pages/Home.jsx'
 import English from './pages/English.jsx'
+import French from './pages/French.jsx'
 import Blog from './pages/Blog.jsx'
 
 import { createBrowserRouter, RouterProvider,} from "react-router-dom";
@@ -20,8 +21,12 @@ const router = createBrowserRouter([
     errorElement: <NotFoundPage/>
   },
   {
-    path: "/resume",
+    path: "/english",
     element: <English/>,
+  },
+  {
+    path: "/french",
+    element: <French/>,
   },
   {
     path: "/blog",
