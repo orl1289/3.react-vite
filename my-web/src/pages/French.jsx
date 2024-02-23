@@ -17,7 +17,7 @@ function French() {
             <span className="leading-normal">
               <p>Orlando Mata Monge</p>
               <p>Ingénieur Chimiste</p>
-              <p>Master en Énergie et Durabilité</p>
+              <p>Master en Énergie et développement durable</p>
             </span>
           </h1>
         </div>
@@ -89,7 +89,10 @@ function French() {
 
           <h2 class="text-[1.3rem] p-4 font-semibold list-item list-inside tablet:text-2xl laptop:text-3xl">
             Université de Vigo
-            <p class="italic"> Master en Énergie et Durabilité (2023)</p>
+            <p class="italic">
+              {" "}
+              Master en Énergie et développement durable (2023)
+            </p>
           </h2>
           <h2 class="text-[1.3rem] p-4 font-semibold list-item list-inside tablet:text-2xl laptop:text-3xl">
             Université du Costa Rica
@@ -120,9 +123,10 @@ function French() {
           {/* < />!-- Edit Experience  --> */}
 
           <h2 class="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-          
             Ingénieur en stage - Voltfer - (Vigo, Espagne)
-            <p><i>Avril 2023 - Mai 2023</i></p>
+            <p>
+              <i>Avril 2023 - Mai 2023</i>
+            </p>
           </h2>
 
           <div class="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
@@ -153,9 +157,9 @@ function French() {
               multiculturel.
             </p>
             <p class="list-item list-inside p-2">
-              Géré les opérations quotidiennes d'une équipe distante de 8
-              personnes et de plus de 70 processus dans le cadre des marchés
-              EMEA et LATAM.
+              Géré les opérations quotidiennes d'une équipe à distance de 8
+              personnes et avec plus de 70 processus dans le catalogue des
+              processus pour les marchés EMEA et LATAM.
             </p>
             <p class="list-item list-inside p-2">
               Déterminé les KPI, les objectifs d'équipe et les stratégies de
@@ -209,46 +213,50 @@ function French() {
 
           <div class="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
             <p class="list-item list-inside p-2">
-              Promoted from Sr. Associate to Process Lead by offering
-              high-volume processing, top performance and fostered
-              collaboration.
+              Promu de Associé Senior à Chef de Processus en offrant un
+              traitement à haut volume, une performance de premier plan et en
+              favorisant la collaboration.
             </p>
             <p class="list-item list-inside p-2">
-              Ensured optimum personnel utilization by allocating tasks timely
-              and efficiently based on their availability and expertise.
+              Assuré une utilisation optimale du personnel en attribuant
+              efficacement et en temps opportun les tâches en fonction de leur
+              disponibilité et de leur expertise.
             </p>
             <p class="list-item list-inside p-2">
-              Monitored the compliance of daily metric values (SLA and other
-              KPI's) through several visualization dashboard tools.
+              Surveillé la conformité des valeurs métriques quotidiennes (SLA et
+              autres KPI) à l'aide de plusieurs outils de visualisation de
+              données.
             </p>
             <p class="list-item list-inside p-2">
-              Coordinated the continuous process improvement proposals under
-              solid data management policies and procedures.
+              Coordonné les propositions d'amélioration continue des processus
+              conformément aux politiques et procédures solides de gestion des
+              données.
             </p>
             <p class="list-item list-inside p-2">
-              Supplied the reporting and information access needs by designing
-              simple and complex queries in the application tool.
+              Répondu aux besoins de rapports et d'accès à l'information en
+              concevant des requêtes simples et complexes dans l'outil
+              d'application.
             </p>
             <p class="list-item list-inside p-2">
-              Conducted the review of defects, difficult cases, and escalations
-              according to the severity impact scale to meet client
-              requirements.
+              Conduit la revue des défauts, des cas difficiles et des escalades
+              selon l'échelle d'impact de la gravité pour répondre aux exigences
+              des clients.
             </p>
             <p class="list-item list-inside p-2">
-              Acted as a point of contact between other internal stakeholders
-              and the team.
+              Agi en tant que point de contact entre d'autres parties prenantes
+              internes et l'équipe.
             </p>
             <p class="list-item list-inside p-2">
-              Established a channel for the update of Standard Operation
-              Procedures, and prioritized training delivery about new changes.
+              Établi un canal pour la mise à jour des procédures opérationnelles
+              standard et priorisé la formation sur les nouveaux changements.
             </p>
             <p class="list-item list-inside p-2">
-              Configured and tested the multi asset tools and process solutions
-              before implementation.
+              Configuré et testé les outils multi-actifs et les solutions de
+              processus avant leur mise en œuvre.
             </p>
             <p class="list-item list-inside p-2">
-              Drafted and responded to claims during and after any process
-              intake or migration.
+              Rédigé et répondu aux réclamations pendant et après toute
+              admission ou migration de processus.
             </p>
           </div>
         </div>
@@ -262,23 +270,27 @@ function French() {
 
           <div class="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
             <p class="list-item list-inside p-2">
-              Ensured high-quality customer service by providing timely and
-              accurate resolution, managing communication and data interactions
-              with stakeholders through the ticketing system.
+              Assuré un service client de haute qualité en fournissant une
+              résolution rapide et précise, en gérant la communication et les
+              interactions de données avec les parties prenantes via le système
+              de ticket.
             </p>
             <p class="list-item list-inside p-2">
-              Managed and optimized transactional processes within PS Oracle
-              (RDBMS), ensuring data accuracy, integrity, and compliance with
-              organizational standards and regulatory requirements.
+              Géré et optimisé les processus transactionnels au sein de PS
+              Oracle (SGBDR), en garantissant l'exactitude, l'intégrité des
+              données et la conformité aux normes organisationnelles et aux
+              exigences réglementaires.
             </p>
             <p class="list-item list-inside p-2">
-              Collaborated cross-functionally with peers to identify
-              requirements, streamline workflows, and optimize processes.
+              Collaboré de manière transversale avec les pairs pour identifier
+              les besoins, rationaliser les flux de travail et optimiser les
+              processus.
             </p>
             <p class="list-item list-inside p-2">
-              Demonstrated a strong commitment to personal and professional
-              growth by actively seeking opportunities to learn and taking on
-              new responsibilities as they arose.
+              Démontré un fort engagement envers la croissance personnelle et
+              professionnelle en recherchant activement des opportunités
+              d'apprentissage et en assumant de nouvelles responsabilités au fur
+              et à mesure de leur apparition.
             </p>
           </div>
         </div>
@@ -288,25 +300,26 @@ function French() {
             Chemistry Laboratory Assistant – University of Costa Rica
             <i>- (San José, Costa Rica) - Août 2015 - Mars 2017</i>
           </h2>
-
           <div class="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
             <p class="list-item list-inside p-2">
-              Prepared and delivered lectures to students, providing both
-              theoretical knowledge and practical demonstrations to enhance
-              understanding in accordance with the course program.
+              Préparé et dispensé des cours aux étudiants, fournissant à la fois
+              des connaissances théoriques et des démonstrations pratiques pour
+              améliorer la compréhension conformément au programme de cours.
             </p>
             <p class="list-item list-inside p-2">
-              Supervised the laboratory sessions ensuring adherence to safety
-              protocols and proper handling of equipment and materials.
+              Supervisé les séances de laboratoire en veillant au respect des
+              protocoles de sécurité et à la manipulation appropriée de
+              l'équipement et des matériaux.
             </p>
             <p class="list-item list-inside p-2">
-              Provided one-on-one assistance during laboratory the sessions,
-              offering guidance and support to enhance their learning
-              experience.
+              Fourni une assistance individuelle pendant les séances de
+              laboratoire, offrant des conseils et un soutien pour améliorer
+              leur expérience d'apprentissage.
             </p>
             <p class="list-item list-inside p-2">
-              Collaborated with faculty members to assign tests and scoring
-              them, and to measure student progress and overall comprehension.
+              Collaboré avec les membres du corps enseignant pour attribuer des
+              tests et les noter, et pour mesurer la progression des étudiants
+              et la compréhension globale.
             </p>
           </div>
         </div>
@@ -320,16 +333,17 @@ function French() {
 
           <div class="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
             <p class="list-item list-inside p-2">
-              Supervised the training of the local offices in charge of the
-              aqueduct and sanitary sewer systems, to reduce the risk of
-              microbial contamination and non-compliance with national
-              regulations, as part of my University Community Work.{" "}
+              Supervisé la formation des bureaux locaux en charge des réseaux
+              d'aqueduc et d'égouts sanitaires, afin de réduire le risque de
+              contamination microbienne et de non-conformité aux réglementations
+              nationales, dans le cadre de mon Travail Communautaire
+              Universitaire.
             </p>
             <p class="list-item list-inside p-2">
-              Evaluated the quality of drinking water in terms of chemical
-              parameters such as COD, hardness and presence of nitrate and
-              phosphate from various locations, to ensure compliance with local
-              regulations.
+              Évalué la qualité de l'eau potable en termes de paramètres
+              chimiques tels que le DCO, la dureté et la présence de nitrates et
+              de phosphates à divers endroits, afin de garantir la conformité
+              avec les réglementations locales.
             </p>
           </div>
         </div>
@@ -432,7 +446,7 @@ function French() {
               <path d="M17.5 3A3.5 3.5 0 0 0 14 7L8.1 9.8A3.5 3.5 0 0 0 2 12a3.5 3.5 0 0 0 6.1 2.3l6 2.7-.1.5a3.5 3.5 0 1 0 1-2.3l-6-2.7a3.5 3.5 0 0 0 0-1L15 9a3.5 3.5 0 0 0 6-2.4c0-2-1.6-3.5-3.5-3.5Z" />
             </svg>
             <h1 class="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
-              Seminars
+              Séminaires
             </h1>
           </div>
           <div class="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
@@ -471,27 +485,27 @@ function French() {
           </div>
 
           <div class="text-xl grid tablet:text-2xl tablet:grid-cols-3">
-            <div>Problem-solver</div>
-            <div>Analytical</div>
-            <div>Collaborative team player</div>
-            <div>Team work</div>
-            <div>Costumer focused</div>
-            <div>Self-motivated</div>
-            <div>Planner and conceptualizer</div>
-            <div>Autonomous and proactive</div>
-            <div>Efective written and oral communication</div>
-            <div>Attentive to detail</div>
-            <div>Good listener</div>
-            <div>Deadline conscious</div>
+            <div>Résolveur de problèmes</div>
+            <div>Analitique</div>
+            <div>Joueur d'équipe collaboratif</div>
+            <div>Travail d'équipe</div>
+            <div>Centré sur le client</div>
+            <div>Auto-motivé</div>
+            <div>Planificateur et concepteur</div>
+            <div>Autonome et proactif</div>
+            <div>Communication écrite et orale efficace</div>
+            <div>Attentif aux détails</div>
+            <div>Bon auditeur</div>
+            <div>Conscient des délais</div>
             <div>Adaptable</div>
-            <div>Troubleshooter</div>
-            <div>Process-oriented</div>
+            <div>Résolveur de problèmes</div>
+            <div>Orienté vers les processus</div>
             <div>Entrepreneurial</div>
-            <div>Learning oriented</div>
-            <div>Data visualization tools</div>
-            <div>Used to work in a multicultural environment</div>
-            <div>Data extraction and reporting</div>
-            <div>Writting of technical documentation</div>
+            <div>Orienté vers l'apprentissage</div>
+            <div>Outils de visualisation de données</div>
+            <div>Habitué à travailler dans un environnement multiculturel</div>
+            <div>Extraction et reporting de données</div>
+            <div>Rédaction de documentation technique</div>
           </div>
         </div>
 
@@ -585,66 +599,67 @@ function French() {
           <div>
             <div class="text-xl grid tablet:text-2xl tablet:grid-cols-3">
               <div class="list-item list-inside p-2">
-                Data Optimization: Dedicated to refining data processes for
-                enhanced efficiency and accuracy
+                Optimisation des données : Dévoué à affiner les processus de
+                données pour une efficacité et une précision accrues.
               </div>
               <div class="list-item list-inside p-2">
-                Sustainable Practices: Committed to driving sustainability
-                initiatives to reduce environmental impact.
+                Pratiques durables : Engagé à promouvoir les initiatives de
+                durabilité pour réduire l'impact environnemental.
               </div>
               <div class="list-item list-inside p-2">
-                Collaborative Leadership: Skilled in leading diverse teams to
-                achieve collective goals.
+                Leadership collaboratif : Compétent dans la direction d'équipes
+                diversifiées pour atteindre des objectifs collectifs.
               </div>
               <div class="list-item list-inside p-2">
-                Continuous Improvement: Passionate about streamlining processes
-                to maximize productivity.
+                Amélioration continue : Passionné par l'optimisation des
+                processus pour maximiser la productivité.
               </div>
               <div class="list-item list-inside p-2">
-                Exceptional Customer Service: Committed to delivering superior
-                service through tailored solutions.
+                Service client exceptionnel : Engagé à fournir un service
+                supérieur grâce à des solutions sur mesure.
               </div>
               <div class="list-item list-inside p-2">
-                Effective Project Management: Proficient in overseeing projects
-                from inception to completion.{" "}
+                Gestion efficace de projets : Compétent dans la supervision des
+                projets de leur conception à leur achèvement.
               </div>
               <div class="list-item list-inside p-2">
-                Technological Innovation: Enthusiastic about integrating
-                cutting-edge tech for improved operations.
+                Innovation technologique : Enthousiaste à l'idée d'intégrer des
+                technologies de pointe pour améliorer les opérations.
               </div>
               <div class="list-item list-inside p-2">
-                Regulatory Adherence: Diligent in ensuring compliance with
-                industry regulations and standards.
+                Respect de la réglementation : Rigoureux dans l'assurance du
+                respect des réglementations et normes de l'industrie.
               </div>
               <div class="list-item list-inside p-2">
-                Lifelong Learning: Committed to ongoing professional development
-                and growth.
+                Apprentissage tout au long de la vie : Engagé dans le
+                développement professionnel continu et la croissance.
               </div>
               <div class="list-item list-inside p-2">
-                Strategic Planning: Focused on strategic initiatives to drive
-                organizational success.{" "}
+                Planification stratégique : Axé sur les initiatives stratégiques
+                pour stimuler le succès organisationnel.
               </div>
               <div class="list-item list-inside p-2">
-                Corporate Social Responsibility (CSR): Committed to supporting
-                CSR initiatives through effective data management practices,
-                contributing to corporate sustainability and social impact
-                goals.{" "}
+                Responsabilité sociale d'entreprise (RSE) : Engagé à soutenir
+                les initiatives de RSE grâce à des pratiques efficaces de
+                gestion des données, contribuant à la durabilité d'entreprise et
+                aux objectifs d'impact social.
               </div>
               <div class="list-item list-inside p-2">
-                {" "}
-                Sustainable Supply Chain Management: Interested in applying data
-                management principles to optimize supply chain processes and
-                enhance sustainability throughout the value chain
+                Gestion durable de la chaîne d'approvisionnement : Intéressé à
+                appliquer des principes de gestion des données pour optimiser
+                les processus de la chaîne d'approvisionnement et renforcer la
+                durabilité tout au long de la chaîne de valeur.
               </div>
               <div class="list-item list-inside p-2">
-                Renewable Energy: Interested in leveraging data management
-                techniques to optimize renewable energy systems and promote
-                sustainable energy solutions.{" "}
+                Énergie renouvelable : Intéressé à exploiter les techniques de
+                gestion des données pour optimiser les systèmes d'énergie
+                renouvelable et promouvoir des solutions énergétiques durables.
               </div>
               <div class="list-item list-inside p-2">
-                Carbon Footprint Reduction: Committed to utilizing data-driven
-                approaches to track and reduce carbon emissions, promoting
-                environmental responsibility and sustainability.
+                Réduction de l'empreinte carbone : Engagé à utiliser des
+                approches basées sur les données pour suivre et réduire les
+                émissions de carbone, favorisant la responsabilité
+                environnementale et la durabilité.
               </div>
             </div>
           </div>
