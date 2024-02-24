@@ -11,8 +11,8 @@ function Home() {
       </header>
 
       <section className="m-auto p-3">
-        <div class=" text-center text-[0.6rem] tablet:text-base laptop:text-xl ">
-          <h1 class="font-bold bg-gradient-to-br from-blue-700 to-green-400 bg-clip-text text-transparent box-decoration-clone">
+        <div className=" text-center text-[0.6rem] tablet:text-base laptop:text-xl ">
+          <h1 className="font-bold bg-gradient-to-br from-blue-700 to-green-400 bg-clip-text text-transparent box-decoration-clone">
             <span className="leading-normal">
               <p>Ing. Orlando Mata Monge</p>
               <p>Ingeniero Químico</p>
@@ -39,9 +39,9 @@ function Home() {
             Madrid, 28009
           </div>
 
-          <div class="flex justify-center items-center">
+          <div className="flex justify-center items-center">
             <svg
-              class="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]"
+              className="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               fill="currentColor"
@@ -52,9 +52,9 @@ function Home() {
             </svg>
             <a href="mailto:orl1289@gmail.com">orl1289@gmail.com</a>
           </div>
-          <div class="flex justify-center items-center">
+          <div className="flex justify-center items-center">
             <svg
-              class="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]"
+              className="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               fill="currentColor"
@@ -68,8 +68,8 @@ function Home() {
 
         {/* --------------------- Education --------------------------------------------------------------> */}
 
-        <div class="text-center p-4 m-2">
-          <div class="flex justify-center items-center">
+        <div className="text-center p-4 m-2">
+          <div className="flex justify-center items-center">
             <svg
               className="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]"
               aria-hidden="true"
@@ -83,26 +83,26 @@ function Home() {
                 clip-rule="evenodd"
               />
             </svg>
-            <h1 class="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
+            <h1 className="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
               Formación Académica
             </h1>
           </div>
 
-          <h2 class="text-[1.3rem] p-4 font-semibold list-item list-inside tablet:text-2xl laptop:text-3xl">
+          <h2 className="text-[1.3rem] p-4 font-semibold list-item list-inside tablet:text-2xl laptop:text-3xl">
             Universidad de Vigo
-            <p class="italic"> Máster en Energía y Sostenibilidad (2023)</p>
+            <p className="italic"> Máster en Energía y Sostenibilidad (2023)</p>
           </h2>
-          <h2 class="text-[1.3rem] p-4 font-semibold list-item list-inside tablet:text-2xl laptop:text-3xl">
+          <h2 className="text-[1.3rem] p-4 font-semibold list-item list-inside tablet:text-2xl laptop:text-3xl">
             Universidad de Costa Rica
-            <p class="italic"> Licenciatura en Ingeniería Química (2019)</p>
+            <p className="italic"> Licenciatura en Ingeniería Química (2019)</p>
           </h2>
         </div>
 
         {/* <!--------------------- Experience --------------------------------------------------------------> */}
-        <div class="text-center p-4 m-2">
-          <div class="flex justify-center items-center">
+        <div className="text-center p-4 m-2">
+          <div className="flex justify-center items-center">
             <svg
-              class="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]"
+              className="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               fill="currentColor"
@@ -114,14 +114,14 @@ function Home() {
                 clip-rule="evenodd"
               />
             </svg>
-            <h1 class="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
+            <h1 className="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
               Experiencia Profesional
             </h1>
           </div>
 
           {/* <!-- Edit Experience  --> */}
 
-          <h2 class="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
+          <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             {" "}
             Ingeniero Interno
             <p>
@@ -132,13 +132,13 @@ function Home() {
             </p>
           </h2>
 
-          <div class="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
-            <p class="list-item list-inside p-2">
+          <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
+            <p className="list-item list-inside p-2">
               Participé en tareas relacionadas con el diseño de sistemas
               fotovoltaicos para autoconsumo doméstico e industrial, como parte
               de la práctica profesional.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Brindé apoyo al área comercial recopilando información a través de
               una prospección de potenciales clientes en polígonos comerciales
               de la zonas de Pontevedra, y alrededores.
@@ -146,8 +146,8 @@ function Home() {
           </div>
         </div>
         {/* <!-- #1 --> */}
-        <div class="text-center p-4 m-2">
-          <h2 class="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
+        <div className="text-center p-4 m-2">
+          <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             Team Manager, Data Management en Amazon
             <p>
               <i>Amazon</i>
@@ -157,50 +157,50 @@ function Home() {
             </p>
           </h2>
 
-          <div class="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
-            <p class="list-item list-inside p-2">
+          <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
+            <p className="list-item list-inside p-2">
               Reporté directamente a la oficina corporativa ubicada en diferente
               geografía y zona horaria, en un entorno multicultural.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Lideré de un equipo remoto conformado por 8 personas con más de 70
               procesos en el catálogo, para los mercados de EMEA y LATAM.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Determiné indicadores de desempeño (KPI's), objetivos, estrategias
               y metas de alto nivel para el negocio operativo.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Presenté informes de datos quincenales a la alta dirección para la
               revisión de métricas de desempeño del equipo y otros puntos clave.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Gestioné proyectos relacionados con la recepción o migración de
               procesos, basados en el catálogo de servicios en alcance.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Preparé las evaluaciones de desempeño y las revisiones de talento
               del equipo anuales, con base en los hallazgos del análisis
               mensual, retroalimentación y oportunidades de mejora.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Creé e implementé mecanismos para anticipar las necesidades de
               demanda y asegurar la disponibilidad de personal.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Recluté y supervisé nuevos miembros del equipo en áreas de
               conocimiento de producto y servicio al cliente.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Enseñé y ayudé a desarrollar el potencial de miembros del equipo,
               delegando asignaciones y proyectos acorde con sus habilidades e
               intereses.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Anticipé la implementación exitosa de herramientas, información y
               recursos para el equipo.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Desarrollé oportunidades efectivas de redes profesionales
               participando en foros/proyectos según correspondía, y asistí a
               reuniones regulares de miembros profesionales con la gerencia de
@@ -209,8 +209,8 @@ function Home() {
           </div>
         </div>
         {/* <!-- #2 --> */}
-        <div class="text-primary-600 text-center p-4 m-2">
-          <h2 class="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
+        <div className="text-primary-600 text-center p-4 m-2">
+          <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             Process Lead, Data Management
             <p>
               <i>Amazon</i>
@@ -220,51 +220,51 @@ function Home() {
             </p>
           </h2>
 
-          <div class="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
-            <p class="list-item list-inside p-2">
+          <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
+            <p className="list-item list-inside p-2">
               Promovido de Sr. Associate al ofrecer un alto rendimiento
               procesando un gran volumen de transacciones, y el fomento de la
               colaboración en el equipo.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Garanticé la óptima utilización del personal a diario al asignar
               las tareas eficientemente con base en su disponibilidad y
               experiencia.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Realicé el monitoreo diario asegurando el cumplimiento de las
               métricas diarias (SLA y otros KPI) a través de varias herramientas
               de visualización.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Coordiné las propuestas de mejora continua de los procesos bajo
               sólidas políticas y procedimientos de gestión de datos.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Satisfice las necesidades de acceso a la información y generación
               de reportes mediante el diseño de consultas simples y complejas en
               la aplicación.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Supervisé la revisión de defectos, casos difíciles y escalaciones
               acorde con la escala de impacto de severidad para cumplir con los
               requisitos del cliente
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Ejercí el rol de punto de contacto interno y externo para las
               acciones del equipo relacionadas con los procedimientos de
               operación estándar.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Establecí los medios efectivos para la actualización de los
               Procedimientos Operativos Estándar y prioricé la formación sobre
               los nuevos cambios.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Configuré y evalué nuestras herramientas y soluciones de proceso
               antes de su implementación.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Redacté respuestas a reclamos durante y después de cualquier
               proyecto de adquisición o migración.
             </p>
@@ -272,8 +272,8 @@ function Home() {
         </div>
         {/* <!-- #3 --> */}
 
-        <div class="text-primary-600 text-center p-4 m-2">
-          <h2 class="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
+        <div className="text-primary-600 text-center p-4 m-2">
+          <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             {" "}
             Sr. Associate, Data Management
             <p>
@@ -284,23 +284,23 @@ function Home() {
             </p>
           </h2>
 
-          <div class="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
-            <p class="list-item list-inside p-2">
+          <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
+            <p className="list-item list-inside p-2">
               Aseguré un servicio al cliente de alta calidad proporcionando una
               resolución oportuna, gestionando la comunicación e interacción a
               través del sistema de tickets.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Gestioné y optimicé procesos transaccionales dentro de PS Oracle
               (RDBMS), garantizando la precisión de los datos, la integridad y
               el cumplimiento de los estándares organizativos y requisitos
               regulatorios.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Colaboré de manera interfuncional con colegas para identificar
               requisitos, optimizar flujos de trabajo y procesos.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Demostré un fuerte compromiso con el crecimiento personal y
               profesional buscando activamente oportunidades para aprender y
               asumir nuevas responsabilidades a medida que surgían.
@@ -308,8 +308,8 @@ function Home() {
           </div>
         </div>
         {/* <!-- #4 --> */}
-        <div class="text-primary-600 text-center p-4 m-2">
-          <h2 class="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
+        <div className="text-primary-600 text-center p-4 m-2">
+          <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             Asistente de Laboratorio de Química
             <p>
               <i>Universidad de Costa Rica</i>
@@ -319,23 +319,23 @@ function Home() {
             </p>
           </h2>
 
-          <div class="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
-            <p class="list-item list-inside p-2">
+          <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
+            <p className="list-item list-inside p-2">
               Preparé y impartí conferencias a los estudiantes, proporcionando
               tanto conocimientos teóricos como demostraciones prácticas para
               mejorar la comprensión de acuerdo con el programa del curso.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Supervisé las sesiones de laboratorio asegurando el cumplimiento
               de los protocolos de seguridad y el manejo adecuado de equipos y
               materiales.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Brindé asistencia individual durante las sesiones de laboratorio,
               ofreciendo orientación y apoyo para mejorar su experiencia de
               aprendizaje.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Colaboré con miembros del cuerpo docente para asignar pruebas y
               calificarlas, y medir el progreso general y la comprensión del
               estudiante.
@@ -343,8 +343,8 @@ function Home() {
           </div>
         </div>
         {/* <!-- #5 --> */}
-        <div class="text-center p-4 m-2">
-          <h2 class="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
+        <div className="text-center p-4 m-2">
+          <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             Coordinación de Talleres sobre Potabilidad y Tratamiento del agua
             <p>
               <i>Universidad de Costa Rica</i>
@@ -354,14 +354,14 @@ function Home() {
             </p>
           </h2>
 
-          <div class="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
-            <p class="list-item list-inside p-2">
+          <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
+            <p className="list-item list-inside p-2">
               Impartí capacitaciones sobre contaminación microbiana y el
               incumplimiento de la normativa nacional en acueducto y
               alcantarillado sanitarios; análisis químico del agua y sus
               resultados.
             </p>
-            <p class="list-item list-inside p-2">
+            <p className="list-item list-inside p-2">
               Evalué la calidad del agua potable en términos de parámetros
               químicos como DQO, dureza y presencia de nitrato y fosfato de
               varias localidades, para asegurar el cumplimiento de las
@@ -372,10 +372,10 @@ function Home() {
 
         {/* <!----------------------Languages---------------------------------------------------------------------- --> */}
 
-        <div class="text-center p-4 m-2">
-          <div class="flex justify-center items-center">
+        <div className="text-center p-4 m-2">
+          <div className="flex justify-center items-center">
             <svg
-              class="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]"
+              className="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               fill="currentColor"
@@ -388,35 +388,35 @@ function Home() {
                 d="M4.4 7.7c2 .5 2.4 2.8 3.2 3.8 1 1.4 2 1.3 3.2 2.7 1.8 2.3 1.3 5.7 1.3 6.7M20 15h-1a4 4 0 0 0-4 4v1M8.6 4c0 .8.1 1.9 1.5 2.6 1.4.7 3 .3 3 2.3 0 .3 0 2 1.9 2 2 0 2-1.7 2-2 0-.6.5-.9 1.2-.9H20m1 4a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"
               />
             </svg>
-            <h1 class="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
+            <h1 className="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
               Idiomas
             </h1>
           </div>
-          <div class="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
-            <h2 class="p-2 font-semibold list-item list-inside">
+          <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
+            <h2 className="p-2 font-semibold list-item list-inside">
               {" "}
               Español
-              <i class="italic"> (Nativo)</i>
+              <i className="italic"> (Nativo)</i>
             </h2>
-            <h2 class="p-2 font-semibold list-item list-inside">
+            <h2 className="p-2 font-semibold list-item list-inside">
               {" "}
               Inglés
-              <i class="italic"> (Profesional)</i>
+              <i className="italic"> (Profesional)</i>
             </h2>
-            <h2 class="p-2 font-semibold list-item list-inside">
+            <h2 className="p-2 font-semibold list-item list-inside">
               {" "}
               Francés
-              <i class="italic"> (Fluido)</i>
+              <i className="italic"> (Fluido)</i>
             </h2>
           </div>
         </div>
 
         {/* <!-------------------------------Certifications------------------------------------------------------------- --> */}
 
-        <div class="text-center p-4 m-2">
-          <div class="flex justify-center items-center">
+        <div className="text-center p-4 m-2">
+          <div className="flex justify-center items-center">
             <svg
-              class="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]"
+              className="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               fill="currentColor"
@@ -428,38 +428,38 @@ function Home() {
                 clip-rule="evenodd"
               />
             </svg>
-            <h1 class="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
+            <h1 className="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
               Cursos y Certificaciones
             </h1>
           </div>
-          <div class="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
-            <h2 class="font-semibold list-item list-inside p-2">
+          <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
+            <h2 className="font-semibold list-item list-inside p-2">
               {" "}
               Measuring Sustainable Development
-              <p class="italic"> SDG Academy (2024) - edX Certificado</p>
+              <p className="italic"> SDG Academy (2024) - edX Certificado</p>
             </h2>
           </div>
-          <div class="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
-            <h2 class="font-semibold list-item list-inside p-2">
+          <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
+            <h2 className="font-semibold list-item list-inside p-2">
               {" "}
               AWS Cloud Quest: Cloud Practitioner
-              <p class="italic"> Amazon Web Services (2023) - Certificado </p>
+              <p className="italic"> Amazon Web Services (2023) - Certificado </p>
             </h2>
           </div>
-          <div class="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
-            <h2 class="font-semibold list-item list-inside p-2">
+          <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
+            <h2 className="font-semibold list-item list-inside p-2">
               {" "}
               Alianza Francesa de San José
-              <p class="italic"> DELF Niveau B1 (2012)</p>
+              <p className="italic"> DELF Niveau B1 (2012)</p>
             </h2>
           </div>
         </div>
 
         {/* <!-------------------------------Congress------------------------------------------------------------- --> */}
-        <div class="text-center p-4 m-2">
-          <div class="flex justify-center items-center">
+        <div className="text-center p-4 m-2">
+          <div className="flex justify-center items-center">
             <svg
-              class="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]"
+              className="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               fill="currentColor"
@@ -467,15 +467,15 @@ function Home() {
             >
               <path d="M17.5 3A3.5 3.5 0 0 0 14 7L8.1 9.8A3.5 3.5 0 0 0 2 12a3.5 3.5 0 0 0 6.1 2.3l6 2.7-.1.5a3.5 3.5 0 1 0 1-2.3l-6-2.7a3.5 3.5 0 0 0 0-1L15 9a3.5 3.5 0 0 0 6-2.4c0-2-1.6-3.5-3.5-3.5Z" />
             </svg>
-            <h1 class="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
+            <h1 className="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
               Congresos
             </h1>
           </div>
-          <div class="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
-            <h2 class="font-semibold list-item list-inside p-2">
+          <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
+            <h2 className="font-semibold list-item list-inside p-2">
               XXIV Congreso Latinoamericano de Estudiantes de Ingeniería Química
               y Carreras Afines
-              <p class="italic">
+              <p className="italic">
                 {" "}
                 Universidad Tecnológica Nacional (Buenos Aires, Argentina) -
                 2018
@@ -486,10 +486,10 @@ function Home() {
 
         {/* <!--------------------- Skills --------------------------------------------------------------> */}
 
-        <div class="text-center p-4 m-2">
-          <div class="flex justify-center items-center p-1">
+        <div className="text-center p-4 m-2">
+          <div className="flex justify-center items-center p-1">
             <svg
-              class="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]"
+              className="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               fill="currentColor"
@@ -501,12 +501,12 @@ function Home() {
                 clip-rule="evenodd"
               />
             </svg>
-            <h1 class="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
+            <h1 className="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
               Habilidades
             </h1>
           </div>
 
-          <div class="text-xl grid tablet:text-2xl tablet:grid-cols-3">
+          <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
             <div>Resolución de problemas</div>
             <div>Pensador analítico</div>
             <div>Resolución colaborativa</div>
@@ -532,10 +532,10 @@ function Home() {
 
         {/* <!---------------------Knowledge --------------------------------------------------------------> */}
 
-        <div class="text-center p-4 m-2">
-          <div class="flex justify-center items-center">
+        <div className="text-center p-4 m-2">
+          <div className="flex justify-center items-center">
             <svg
-              class="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]"
+              className="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               fill="currentColor"
@@ -543,15 +543,15 @@ function Home() {
             >
               <path d="M11 21V2.4a3.5 3.5 0 0 0-4.8 1.8A3.5 3.5 0 0 0 4 8l-.7 1.1-.1.4-.1.3a3.5 3.5 0 0 0 0 1.5A3.9 3.9 0 0 0 2 14v.9l.2.6a3.8 3.8 0 0 0 1 1.4 4 4 0 0 0 .6.5v.1A3.5 3.5 0 0 0 7 21a3.4 3.4 0 0 0 4.2.5 1 1 0 0 1-.2-.5Zm11-7.7v-.1a4 4 0 0 0-1-2 3.4 3.4 0 0 0-.2-1.7V9c-.3-.4-.5-.8-.8-1a3.4 3.4 0 0 0-.6-2.6 4 4 0 0 0-1.6-1.3A3.5 3.5 0 0 0 13 2.4V21c0 .2 0 .4-.2.5A3.4 3.4 0 0 0 17 21a3.5 3.5 0 0 0 3-3.5 5.4 5.4 0 0 0 .7-.5 4.2 4.2 0 0 0 .7-.9l.3-.5.2-.7v-.2a4 4 0 0 0 0-1.4Z" />
             </svg>
-            <h1 class="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
+            <h1 className="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
               Conocimientos
             </h1>
           </div>
-          <h3 class="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">
+          <h3 className="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">
             {" "}
             Software
           </h3>
-          <div class="text-xl grid tablet:text-2xl tablet:grid-cols-3">
+          <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
             <div>Microsoft Word</div>
             <div>Microsoft Excel</div>
             <div>Microsoft Office Power Point</div>
@@ -576,28 +576,28 @@ function Home() {
             <div>AWS Cloud Practitioner</div>
             <div>Amazon QuickSight</div>
           </div>
-          <h3 class="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">
+          <h3 className="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">
             {" "}
             Lenguajes de programación
           </h3>
-          <div class="text-xl grid tablet:text-2xl tablet:grid-cols-3">
+          <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
             <div>SQL (PostgreSQL)</div>
             <div>Python</div>
             <div>Python Libraries: Pandas,Numpy, Matplotlib</div>
           </div>
-          <h3 class="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">
+          <h3 className="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">
             Web development
           </h3>
-          <div class="text-xl grid tablet:text-2xl tablet:grid-cols-3">
+          <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
             <div>CSS</div>
             <div>HTML</div>
             <div>Frameworks: Svelte</div>
           </div>
-          <h3 class="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">
+          <h3 className="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">
             {" "}
             Marco Legislativo
           </h3>
-          <div class="text-xl grid tablet:text-2xl tablet:grid-cols-3">
+          <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
             <div>Documento Básico para el Ahorro de Energía</div>
             <div>Código Técnico de la Edificación</div>
             <div>
@@ -607,10 +607,10 @@ function Home() {
         </div>
         {/* <!---------------------Professional interest --------------------------------------------------------------> */}
 
-        <div class="text-center p-4 m-2">
-          <div class="flex justify-center items-center">
+        <div className="text-center p-4 m-2">
+          <div className="flex justify-center items-center">
             <svg
-              class="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]"
+              className="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               fill="currentColor"
@@ -622,70 +622,70 @@ function Home() {
                 clip-rule="evenodd"
               />
             </svg>
-            <h1 class="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
+            <h1 className="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
               Áreas de interés profesional
             </h1>
           </div>
           <div>
-            <div class="text-xl grid tablet:text-2xl tablet:grid-cols-3">
-              <div class="list-item list-inside p-2">
+            <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
+              <div className="list-item list-inside p-2">
                 Optimización de Datos: Dedicado a refinar procesos de datos para
                 mejorar la eficiencia y precisión.
               </div>
-              <div class="list-item list-inside p-2">
+              <div className="list-item list-inside p-2">
                 Prácticas Sostenibles: Comprometido con impulsar iniciativas de
                 sostenibilidad para reducir el impacto ambiental.
               </div>
-              <div class="list-item list-inside p-2">
+              <div className="list-item list-inside p-2">
                 Liderazgo Colaborativo: Hábil en liderar equipos diversos para
                 lograr objetivos colectivos.
               </div>
-              <div class="list-item list-inside p-2">
+              <div className="list-item list-inside p-2">
                 Mejora Continua: Apasionado por optimizar procesos para
                 maximizar la productividad.
               </div>
-              <div class="list-item list-inside p-2">
+              <div className="list-item list-inside p-2">
                 Servicio al Cliente Excepcional: Comprometido con brindar un
                 servicio superior a través de soluciones personalizadas.
               </div>
-              <div class="list-item list-inside p-2">
+              <div className="list-item list-inside p-2">
                 Gestión Efectiva de Proyectos: Competente en supervisar
                 proyectos desde su inicio hasta su finalización.
               </div>
-              <div class="list-item list-inside p-2">
+              <div className="list-item list-inside p-2">
                 Innovación Tecnológica: Entusiasta en integrar tecnología de
                 vanguardia para mejorar operaciones.
               </div>
-              <div class="list-item list-inside p-2">
+              <div className="list-item list-inside p-2">
                 Cumplimiento Normativo: Diligente en asegurar el cumplimiento de
                 regulaciones y estándares de la industria.
               </div>
-              <div class="list-item list-inside p-2">
+              <div className="list-item list-inside p-2">
                 Aprendizaje Permanente: Comprometido con el desarrollo
                 profesional continuo y el crecimiento.
               </div>
-              <div class="list-item list-inside p-2">
+              <div className="list-item list-inside p-2">
                 Planificación Estratégica: Enfocado en iniciativas estratégicas
                 para impulsar el éxito organizacional.
               </div>
-              <div class="list-item list-inside p-2">
+              <div className="list-item list-inside p-2">
                 Responsabilidad Social Corporativa (RSC): Comprometido con
                 apoyar iniciativas de RSC mediante prácticas efectivas de
                 gestión de datos, contribuyendo a los objetivos de
                 sostenibilidad corporativa y de impacto social.
               </div>
-              <div class="list-item list-inside p-2">
+              <div className="list-item list-inside p-2">
                 Gestión Sostenible de la Cadena de Suministro: Interesado en
                 aplicar principios de gestión de datos para optimizar procesos
                 de la cadena de suministro y mejorar la sostenibilidad en toda
                 la cadena de valor.
               </div>
-              <div class="list-item list-inside p-2">
+              <div className="list-item list-inside p-2">
                 Energía Renovable: Interesado en aprovechar técnicas de gestión
                 de datos para optimizar sistemas de energía renovable y promover
                 soluciones energéticas sostenibles.
               </div>
-              <div class="list-item list-inside p-2">
+              <div className="list-item list-inside p-2">
                 Reducción de la Huella de Carbono: Comprometido en utilizar
                 enfoques basados en datos para rastrear y reducir las emisiones
                 de carbono, promoviendo la responsabilidad ambiental y la
