@@ -9,7 +9,7 @@ import Footer from "../components/Footer.jsx";
 import Lottie from "lottie-react";
 import animationData from "../assets/rocket.json";
 
-import forest from "../assets/pexels-gustavo-fring-4254167.jpg";
+
 
 function Blog() {
   return (

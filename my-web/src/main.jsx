@@ -9,6 +9,7 @@ import Blog from "./pages/Blog.jsx";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import NotFoundPage from "./pages/NotFoundpage.jsx";
+import NavBar from "./components/NavBar.jsx";
 
 //Here I created the router
 
