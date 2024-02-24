@@ -3,7 +3,7 @@ import Lottie from "lottie-react";
 import animationData from "../assets/bg-logo.json";
 import { Link } from "react-router-dom"; // Import Link from React Router
 
-function Navbar() {
+function NavBar() {
   return (
     <nav className="bg-blue-900 sticky top-0 left-0 right-0 w-full">
       <div className="container mx-auto px-4">
@@ -53,4 +53,4 @@ function Navbar() {
     </nav>
   );
 }
-export default Navbar;
+export default NavBar;

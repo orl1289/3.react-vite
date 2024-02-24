@@ -1,8 +1,10 @@
 import React from "react";
 import "../App.css";
-import Navbar from "../components/NavBar.jsx";
+import NavBar from "../components/NavBar.jsx";
 import Footer from "../components/Footer.jsx";
-import Card from "../components/Card.jsx";
+
+// !New component
+// import Card from "../components/Card.jsx";
 
 import Lottie from "lottie-react";
 import animationData from "../assets/rocket.json";
@@ -13,7 +15,7 @@ function Blog() {
   return (
     <>
       <header>
-        <Navbar />
+        <NavBar />
       </header>
 
       <section className="m-auto min-h-screen">

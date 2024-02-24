@@ -1,5 +1,5 @@
 import "../App.css";
-import Navbar from "../components/NavBar.jsx";
+import NavBar from "../components/NavBar.jsx";
 import Footer from "../components/Footer.jsx";
 
 function Home() {
@@ -7,7 +7,7 @@ function Home() {
     <>
       {/* <!--------------------- Intro --------------------------------------------------------------> */}
       <header>
-        <Navbar />
+        <NavBar />
       </header>
 
       <section className="m-auto p-3">

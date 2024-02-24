@@ -1,13 +1,13 @@
 import React from "react";
 import "../App.css";
-import Navbar from "../components/NavBar.jsx";
+import NavBar from "../components/NavBar.jsx";
 import Footer from "../components/Footer.jsx";
 
 function English() {
   return (
     <>
       <header>
-        <Navbar />
+        <NavBar />
       </header>
 
       <section className="m-auto">
