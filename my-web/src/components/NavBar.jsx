@@ -36,9 +36,10 @@ function Navbar() {
                 <button class='text-sm tablet:text-base laptop:text-lg desktop:text-xl bg-blue-900 rounded-full w-30 border-white'>English</button>
                 </Link>
 
-                <Link to="/french" className="text-white hover:text-orange-500">
+              {/*//! This needs to be updated as soon as the French section is ready  */}
+                {/* <Link to="/french" className="text-white hover:text-orange-500">
                 <button class='text-sm tablet:text-base laptop:text-lg desktop:text-xl bg-blue-900 rounded-full w-30 border-white'>Français</button>
-                </Link>
+                </Link> */}
 
                 <Link to="/blog" className="text-white hover:text-orange-500">
                 <button class='text-sm tablet:text-base laptop:text-lg desktop:text-xl bg-blue-900 rounded-full w-30 border-white'>Blog</button>
