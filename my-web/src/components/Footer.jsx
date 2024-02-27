@@ -10,7 +10,7 @@ function Navbar() {
           {/*  Inserting the animation*/}
           <div className="inline-grid">
             <Lottie
-              className="h-auto max-w-[5rem] tablet:max-w-[8rem] laptop:max-w-[10rem] desktop:max-w-[13rem]"
+              className="h-auto max-w-[3rem] tablet:max-w-[5rem] laptop:max-w-[7rem]"
               animationData={animationData}
               loop={1}
               autoplay={true}

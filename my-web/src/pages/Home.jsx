@@ -443,7 +443,10 @@ function Home() {
             <h2 className="font-semibold list-item list-inside p-2">
               {" "}
               AWS Cloud Quest: Cloud Practitioner
-              <p className="italic"> Amazon Web Services (2023) - Certificado </p>
+              <p className="italic">
+                {" "}
+                Amazon Web Services (2023) - Certificado{" "}
+              </p>
             </h2>
           </div>
           <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
@@ -591,7 +594,8 @@ function Home() {
           <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
             <div>CSS</div>
             <div>HTML</div>
-            <div>Frameworks: Svelte</div>
+            <div>Javascript</div>
+            <div>Libraries: React, Svelte</div>
           </div>
           <h3 className="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">
             {" "}
@@ -630,7 +634,7 @@ function Home() {
             <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
               <div className="list-item list-inside p-2">
                 Optimización de Datos: Dedicado a refinar procesos de datos para
-                mejorar la eficiencia y precisión.
+                mejorar la eficiencia y la toma de decisiones.
               </div>
               <div className="list-item list-inside p-2">
                 Prácticas Sostenibles: Comprometido con impulsar iniciativas de
@@ -645,16 +649,16 @@ function Home() {
                 maximizar la productividad.
               </div>
               <div className="list-item list-inside p-2">
-                Servicio al Cliente Excepcional: Comprometido con brindar un
-                servicio superior a través de soluciones personalizadas.
+                Servicio al Cliente: Comprometido con brindar un servicio
+                superior a través de soluciones personalizadas.
               </div>
               <div className="list-item list-inside p-2">
                 Gestión Efectiva de Proyectos: Competente en supervisar
                 proyectos desde su inicio hasta su finalización.
               </div>
               <div className="list-item list-inside p-2">
-                Innovación Tecnológica: Entusiasta en integrar tecnología de
-                vanguardia para mejorar operaciones.
+                Innovación Tecnológica: Entusiasta en integrar la tecnología de
+                y mejorar y oprimiazar operaciones.
               </div>
               <div className="list-item list-inside p-2">
                 Cumplimiento Normativo: Diligente en asegurar el cumplimiento de
@@ -681,15 +685,15 @@ function Home() {
                 la cadena de valor.
               </div>
               <div className="list-item list-inside p-2">
-                Energía Renovable: Interesado en aprovechar técnicas de gestión
-                de datos para optimizar sistemas de energía renovable y promover
+                Energías Renovables: Interesado en aprovechar técnicas de diseño
+                para optimizar sistemas de energía renovable y promover
                 soluciones energéticas sostenibles.
               </div>
               <div className="list-item list-inside p-2">
                 Reducción de la Huella de Carbono: Comprometido en utilizar
-                enfoques basados en datos para rastrear y reducir las emisiones
-                de carbono, promoviendo la responsabilidad ambiental y la
-                sostenibilidad.
+                enfoques basados en soluciones para rastrear y reducir las
+                emisiones de carbono, promoviendo la responsabilidad ambiental y
+                la sostenibilidad.
               </div>
             </div>
           </div>

@@ -5,19 +5,19 @@ import { Link } from "react-router-dom"; // Import Link from React Router
 
 function NavBar() {
   return (
-    <nav className="bg-blue-900 sticky top-0 left-0 right-0 w-full">
-      <div className="container mx-auto px-4">
+    <nav className="bg-blue-900 sticky z-10 top-0 left-0 right-0 box-border w-full">
+      <div className="mx-auto px-4">
         <div className="flex justify-between items-center py-4">
           {/*  Inserting the animation*/}
-          <div className="grid items-center tablet:inline-flex">
+          <div className="h-full grid items-center tablet:inline-flex">
             <Lottie
-              className="h-auto max-w-[5rem] tablet:max-w-[8rem] laptop:max-w-[10rem] desktop:max-w-[13rem]"
+              className="max-w-[3rem] tablet:max-w-[5rem] laptop:max-w-[7rem]"
               animationData={animationData}
               loop={1}
               autoplay={true}
             />
 
-            <p class=" text-2xl tablet:text-4xl laptop:text-6xl desktop:text-8xl font-bold bg-gradient-to-br from-blue-700 to-green-400 bg-clip-text text-transparent">
+            <p class=" text-2xl tablet:text-3xl laptop:text-6xl font-bold bg-gradient-to-br from-blue-700 to-green-400 bg-clip-text text-transparent">
               OMM
             </p>
           </div>

@@ -573,7 +573,8 @@ function English() {
           <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
             <div>CSS</div>
             <div>HTML</div>
-            <div>Frameworks: Svelte</div>
+            <div>Javascript</div>
+            <div>Libraries: React, Svelte</div>
           </div>
           <h3 className="font-bold text-2xl p-2"> Legislative Framework</h3>
           <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
