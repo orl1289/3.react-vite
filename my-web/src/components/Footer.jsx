@@ -4,7 +4,7 @@ import animationData from "../assets/bg-logo.json";
 
 function Navbar() {
   return (
-    <nav className="bg-blue-900 sticky top-0 left-0 right-0 w-full">
+    <nav className="bg-current sticky top-0 left-0 right-0 w-full">
       <div className=" mx-auto px-4">
         <div className="flex justify-between items-center py-4">
           {/*  Inserting the animation*/}

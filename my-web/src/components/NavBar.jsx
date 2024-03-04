@@ -5,7 +5,7 @@ import { Link } from "react-router-dom"; // Import Link from React Router
 
 function NavBar() {
   return (
-    <nav className="bg-blue-900 sticky z-10 top-0 left-0 right-0 box-border w-full">
+    <nav className=" bg-current sticky z-10 top-0 left-0 right-0 box-border w-full">
       <div className="mx-auto px-4">
         <div className="flex justify-between items-center py-4">
           {/*  Inserting the animation*/}
@@ -25,24 +25,24 @@ function NavBar() {
           <div>
             <ul className="flex space-x-6 desktop:">
               <Link to="/" className="text-white hover:text-orange-500">
-                <button class="text-sm tablet:text-base laptop:text-lg desktop:text-xl bg-blue-900 rounded-full w-30 border-white">
+                <button class="text-sm tablet:text-base laptop:text-lg desktop:text-xl bg-inherit rounded-full w-30 border-white">
                   Español
                 </button>
               </Link>
 
               <Link to="/english" className="text-white hover:text-orange-500">
-                <button class="text-sm tablet:text-base laptop:text-lg desktop:text-xl bg-blue-900 rounded-full w-30 border-white">
+                <button class="text-sm tablet:text-base laptop:text-lg desktop:text-xl bg-inherit rounded-full w-30 border-white">
                   English
                 </button>
               </Link>
 
               {/*//! This needs to be updated as soon as the French section is ready  */}
               {/* <Link to="/french" className="text-white hover:text-orange-500">
-                <button class='text-sm tablet:text-base laptop:text-lg desktop:text-xl bg-blue-900 rounded-full w-30 border-white'>Français</button>
+                <button class='text-sm tablet:text-base laptop:text-lg desktop:text-xl bg-inherit rounded-full w-30 border-white'>Français</button>
                 </Link> */}
 
               <Link to="/blog" className="text-white hover:text-orange-500">
-                <button class="text-sm tablet:text-base laptop:text-lg desktop:text-xl bg-blue-900 rounded-full w-30 border-white">
+                <button class="text-sm tablet:text-base laptop:text-lg desktop:text-xl bg-inherit rounded-full w-30 border-white">
                   Blog
                 </button>
               </Link>
