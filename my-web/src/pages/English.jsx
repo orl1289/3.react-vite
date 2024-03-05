@@ -143,6 +143,11 @@ function English() {
               Pontevedra and the surrounding areas and kept record of these
               potential clients.
             </p>
+            <p className="list-item list-inside p-2">
+              Enhanced proficiency in calculating production estimates from
+              meteorological data sources, technical drawing, design techniques,
+              norms and regulations within the renewable industry.
+            </p>
           </div>
         </div>
         {/* < />!-- #1 --> */}
@@ -164,7 +169,9 @@ function English() {
             </p>
             <p className="list-item list-inside p-2">
               Managed day-to-day operations of a remote team of 8 people and +70
-              processes in scope for EMEA and LATAM markets.
+              processes in scope for EMEA and LATAM markets, navigating
+              increased complexity due to processes spanning Italian, French,
+              and Spanish.
             </p>
             <p className="list-item list-inside p-2">
               Determined KPI’s, team objectives and higher-level strategies for
@@ -243,6 +250,11 @@ function English() {
               Conducted the review of defects, difficult cases, and escalations
               according to the severity impact scale to meet client
               requirements.
+            </p>
+            <p className="list-item list-inside p-2">
+              Performed root cause analysis techniques (RCA), investigating
+              discrepancies in processes to uncover weaknesses and implement
+              corrective actions.
             </p>
             <p className="list-item list-inside p-2">
               Acted as a point of contact between other internal stakeholders
@@ -430,7 +442,10 @@ function English() {
             <h2 className="font-semibold list-item list-inside p-2">
               {" "}
               AWS Cloud Quest: Cloud Practitioner
-              <p className="italic"> Amazon Web Services (2023) - Certificate </p>
+              <p className="italic">
+                {" "}
+                Amazon Web Services (2023) - Certificate{" "}
+              </p>
             </h2>
           </div>
           <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
@@ -573,7 +588,7 @@ function English() {
           <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
             <div>CSS</div>
             <div>HTML</div>
-            <div>Javascript</div>
+            <div>JavaScript</div>
             <div>Libraries: React, Svelte</div>
           </div>
           <h3 className="font-bold text-2xl p-2"> Legislative Framework</h3>
@@ -640,14 +655,6 @@ function English() {
               <div className="list-item list-inside p-2">
                 Regulatory Adherence: Diligent in ensuring compliance with
                 industry regulations and standards.
-              </div>
-              <div className="list-item list-inside p-2">
-                Lifelong Learning: Committed to ongoing professional development
-                and growth.
-              </div>
-              <div className="list-item list-inside p-2">
-                Strategic Planning: Focused on strategic initiatives to drive
-                organizational success.{" "}
               </div>
               <div className="list-item list-inside p-2">
                 Corporate Social Responsibility (CSR): Committed to supporting

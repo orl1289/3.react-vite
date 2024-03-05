@@ -143,6 +143,12 @@ function Home() {
               una prospección de potenciales clientes en polígonos comerciales
               de la zonas de Pontevedra, y alrededores.
             </p>
+            <p className="list-item list-inside p-2">
+              Apliqué competencias en el cálculo de estimaciones de producción a
+              partir de fuentes de datos meteorológicos, dibujo técnico,
+              técnicas de diseño, normas y regulaciones dentro de la industria
+              de energía renovable.
+            </p>
           </div>
         </div>
         {/* <!-- #1 --> */}
@@ -164,7 +170,9 @@ function Home() {
             </p>
             <p className="list-item list-inside p-2">
               Lideré de un equipo remoto conformado por 8 personas con más de 70
-              procesos en el catálogo, para los mercados de EMEA y LATAM.
+              procesos en el catálogo, para los mercados de EMEA y LATAM,
+              navegando una mayor complejidad debido al uso de los idiomas
+              italiano, francés y español.
             </p>
             <p className="list-item list-inside p-2">
               Determiné indicadores de desempeño (KPI's), objetivos, estrategias
@@ -249,6 +257,11 @@ function Home() {
               Supervisé la revisión de defectos, casos difíciles y escalaciones
               acorde con la escala de impacto de severidad para cumplir con los
               requisitos del cliente
+            </p>
+            <p className="list-item list-inside p-2">
+              Apliqué técnicas de análisis de causa raíz (RCA) para investigar
+              discrepancias en los procesos, descubrir debilidades e implementar
+              acciones correctivas.
             </p>
             <p className="list-item list-inside p-2">
               Ejercí el rol de punto de contacto interno y externo para las
@@ -594,7 +607,7 @@ function Home() {
           <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
             <div>CSS</div>
             <div>HTML</div>
-            <div>Javascript</div>
+            <div>JavaScript</div>
             <div>Libraries: React, Svelte</div>
           </div>
           <h3 className="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">
@@ -663,14 +676,6 @@ function Home() {
               <div className="list-item list-inside p-2">
                 Cumplimiento Normativo: Diligente en asegurar el cumplimiento de
                 regulaciones y estándares de la industria.
-              </div>
-              <div className="list-item list-inside p-2">
-                Aprendizaje Permanente: Comprometido con el desarrollo
-                profesional continuo y el crecimiento.
-              </div>
-              <div className="list-item list-inside p-2">
-                Planificación Estratégica: Enfocado en iniciativas estratégicas
-                para impulsar el éxito organizacional.
               </div>
               <div className="list-item list-inside p-2">
                 Responsabilidad Social Corporativa (RSC): Comprometido con
