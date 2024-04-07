@@ -11,7 +11,9 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import NotFoundPage from "./pages/NotFoundpage.jsx";
 import NavBar from "./components/NavBar.jsx";
 
-//Here I created the router
+//* Here I created the router, router and special package to configure 
+//*routes statically (it's impossible to generate purely dynamic routes on a server)
+
 
 const router = createBrowserRouter([
   {
