@@ -1,23 +1,22 @@
-import React from "react";
 import "../App.css";
-import NavBar from "../components/NavBar.jsx";
+import NavBar2 from "../components/NavBar.jsx";
 import Footer from "../components/Footer.jsx";
 
-function French() {
+function Home() {
   return (
     <>
+      {/* <!--------------------- Intro --------------------------------------------------------------> */}
       <header>
-        <NavBar />
+        <NavBar2 />
       </header>
 
-      <section className="m-auto">
-        {/* <!--------------------- Intro --------------------------------------------------------------> */}
-        <div className="text-center text-[0.6rem] tablet:text-base laptop:text-xl">
+      <section className="m-auto p-3">
+        <div className=" text-center text-[0.6rem] tablet:text-base laptop:text-xl ">
           <h1 className="font-bold bg-gradient-to-br from-blue-700 to-green-400 bg-clip-text text-transparent box-decoration-clone">
             <span className="leading-normal">
-              <p>Orlando Mata Monge</p>
-              <p>Ingénieur Chimiste</p>
-              <p>Master en Énergie et développement durable</p>
+              <p>Ing. Orlando Mata Monge</p>
+              <p>Ingeniero Químico</p>
+              <p>Máster en Energía y Sostenibilidad</p>
             </span>
           </h1>
         </div>
@@ -39,6 +38,7 @@ function French() {
             </svg>
             Madrid, 28009
           </div>
+
           <div className="flex justify-center items-center">
             <svg
               className="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]"
@@ -66,7 +66,8 @@ function French() {
           </div>
         </div>
 
-        {/* // <!--------------------- Education --------------------------------------------------------------> */}
+        {/* --------------------- Education --------------------------------------------------------------> */}
+
         <div className="text-center p-4 m-2">
           <div className="flex justify-center items-center">
             <svg
@@ -83,22 +84,20 @@ function French() {
               />
             </svg>
             <h1 className="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
-              Formation
+              Formación Académica
             </h1>
           </div>
 
           <h2 className="text-[1.3rem] p-4 font-semibold list-item list-inside tablet:text-2xl laptop:text-3xl">
-            Université de Vigo
-            <p className="italic">
-              {" "}
-              Master en Énergie et Développement Durable (2023)
-            </p>
+            Universidad de Vigo
+            <p className="italic"> Máster en Energía y Sostenibilidad (2023)</p>
           </h2>
           <h2 className="text-[1.3rem] p-4 font-semibold list-item list-inside tablet:text-2xl laptop:text-3xl">
-            Université du Costa Rica
-            <p className="italic"> Licence in Génie Chimique (2019)</p>
+            Universidad de Costa Rica
+            <p className="italic"> Licenciatura en Ingeniería Química (2019)</p>
           </h2>
         </div>
+
         {/* <!--------------------- Experience --------------------------------------------------------------> */}
         <div className="text-center p-4 m-2">
           <div className="flex justify-center items-center">
@@ -116,241 +115,270 @@ function French() {
               />
             </svg>
             <h1 className="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
-              Expérience Professionnelle
+              Experiencia Profesional
             </h1>
           </div>
 
-          {/* < />!-- Edit Experience  --> */}
+          {/* <!-- Edit Experience  --> */}
 
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-            Ingénieur en stage - Voltfer - (Vigo, Espagne)
+            {" "}
+            Ingeniero Interno
             <p>
-              <i>Avril 2023 - Mai 2023</i>
+              <i>Voltfer</i>
+            </p>
+            <p>
+              <i> Abril 2023 - Mayo 2023 - (Vigo, España)</i>
             </p>
           </h2>
 
           <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
             <p className="list-item list-inside p-2">
-              Participé à des tâches liées à la conception de systèmes
-              photovoltaïques pour des projets d'autoconsommation domestique et
-              industrielle, dans le cadre d'un stage professionnel.
+              Participé en tareas relacionadas con el diseño de sistemas
+              fotovoltaicos para autoconsumo doméstico e industrial, como parte
+              de la práctica profesional.
             </p>
             <p className="list-item list-inside p-2">
-              Fourniture d'un support commercial en identifiant les prospects
-              situés à Pontevedra et dans les environs, et tenue d'un registre
-              de ces clients potentiels.
+              Brindé apoyo al área comercial recopilando información a través de
+              una prospección de potenciales clientes en polígonos comerciales
+              de la zonas de Pontevedra, y alrededores.
             </p>
             <p className="list-item list-inside p-2">
-              Maîtrise du calcul des estimations de production à partir de
-              sources de données météorologiques, de dessins techniques, de
-              techniques de conception, de normes et de réglementations dans
-              l'industrie des énergies renouvelables.
+              Apliqué competencias en el cálculo de estimaciones de producción a
+              partir de fuentes de datos meteorológicos, dibujo técnico,
+              técnicas de diseño, normas y regulaciones dentro de la industria
+              de energía renovable.
             </p>
           </div>
         </div>
-        {/* < />!-- #1 --> */}
+        {/* <!-- #1 --> */}
+        <div className="text-center p-4 m-2">
+          <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
+            Team Manager, Data Management en Amazon
+            <p>
+              <i>Amazon</i>
+            </p>
+            <p>
+              <i>Agosto 2021 - Agosto 2022 - (San José, Costa Rica)</i>
+            </p>
+          </h2>
+
+          <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
+            <p className="list-item list-inside p-2">
+              Reporté directamente a la oficina corporativa ubicada en diferente
+              geografía y zona horaria, en un entorno multicultural.
+            </p>
+            <p className="list-item list-inside p-2">
+              Lideré de un equipo remoto conformado por 8 personas con más de 70
+              procesos en el catálogo, para los mercados de EMEA y LATAM,
+              navegando una mayor complejidad debido al uso de los idiomas
+              italiano, francés y español.
+            </p>
+            <p className="list-item list-inside p-2">
+              Determiné indicadores de desempeño (KPI's), objetivos, estrategias
+              y metas de alto nivel para el negocio operativo.
+            </p>
+            <p className="list-item list-inside p-2">
+              Presenté informes de datos quincenales a la alta dirección para la
+              revisión de métricas de desempeño del equipo y otros puntos clave.
+            </p>
+            <p className="list-item list-inside p-2">
+              Gestioné proyectos relacionados con la recepción o migración de
+              procesos, basados en el catálogo de servicios en alcance.
+            </p>
+            <p className="list-item list-inside p-2">
+              Preparé las evaluaciones de desempeño y las revisiones de talento
+              del equipo anuales, con base en los hallazgos del análisis
+              mensual, retroalimentación y oportunidades de mejora.
+            </p>
+            <p className="list-item list-inside p-2">
+              Creé e implementé mecanismos para anticipar las necesidades de
+              demanda y asegurar la disponibilidad de personal.
+            </p>
+            <p className="list-item list-inside p-2">
+              Recluté y supervisé nuevos miembros del equipo en áreas de
+              conocimiento de producto y servicio al cliente.
+            </p>
+            <p className="list-item list-inside p-2">
+              Enseñé y ayudé a desarrollar el potencial de miembros del equipo,
+              delegando asignaciones y proyectos acorde con sus habilidades e
+              intereses.
+            </p>
+            <p className="list-item list-inside p-2">
+              Anticipé la implementación exitosa de herramientas, información y
+              recursos para el equipo.
+            </p>
+            <p className="list-item list-inside p-2">
+              Desarrollé oportunidades efectivas de redes profesionales
+              participando en foros/proyectos según correspondía, y asistí a
+              reuniones regulares de miembros profesionales con la gerencia de
+              nivel superior.
+            </p>
+          </div>
+        </div>
+        {/* <!-- #2 --> */}
+        <div className="text-primary-600 text-center p-4 m-2">
+          <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
+            Process Lead, Data Management
+            <p>
+              <i>Amazon</i>
+            </p>
+            <p>
+              <i>Octubre 2020 - Julio 2021 - (San José, Costa Rica)</i>
+            </p>
+          </h2>
+
+          <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
+            <p className="list-item list-inside p-2">
+              Promovido de Sr. Associate al ofrecer un alto rendimiento
+              procesando un gran volumen de transacciones, y el fomento de la
+              colaboración en el equipo.
+            </p>
+            <p className="list-item list-inside p-2">
+              Garanticé la óptima utilización del personal a diario al asignar
+              las tareas eficientemente con base en su disponibilidad y
+              experiencia.
+            </p>
+            <p className="list-item list-inside p-2">
+              Realicé el monitoreo diario asegurando el cumplimiento de las
+              métricas diarias (SLA y otros KPI) a través de varias herramientas
+              de visualización.
+            </p>
+            <p className="list-item list-inside p-2">
+              Coordiné las propuestas de mejora continua de los procesos bajo
+              sólidas políticas y procedimientos de gestión de datos.
+            </p>
+            <p className="list-item list-inside p-2">
+              Satisfice las necesidades de acceso a la información y generación
+              de reportes mediante el diseño de consultas simples y complejas en
+              la aplicación.
+            </p>
+            <p className="list-item list-inside p-2">
+              Supervisé la revisión de defectos, casos difíciles y escalaciones
+              acorde con la escala de impacto de severidad para cumplir con los
+              requisitos del cliente
+            </p>
+            <p className="list-item list-inside p-2">
+              Apliqué técnicas de análisis de causa raíz (RCA) para investigar
+              discrepancias en los procesos, descubrir debilidades e implementar
+              acciones correctivas.
+            </p>
+            <p className="list-item list-inside p-2">
+              Ejercí el rol de punto de contacto interno y externo para las
+              acciones del equipo relacionadas con los procedimientos de
+              operación estándar.
+            </p>
+            <p className="list-item list-inside p-2">
+              Establecí los medios efectivos para la actualización de los
+              Procedimientos Operativos Estándar y prioricé la formación sobre
+              los nuevos cambios.
+            </p>
+            <p className="list-item list-inside p-2">
+              Configuré y evalué nuestras herramientas y soluciones de proceso
+              antes de su implementación.
+            </p>
+            <p className="list-item list-inside p-2">
+              Redacté respuestas a reclamos durante y después de cualquier
+              proyecto de adquisición o migración.
+            </p>
+          </div>
+        </div>
+        {/* <!-- #3 --> */}
+
         <div className="text-primary-600 text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             {" "}
-            Team Manager, Data Management at Amazon
-            <i>- (San José, Costa Rica) - Août 2021 - Août 2022</i>
+            Sr. Associate, Data Management
+            <p>
+              <i>Amazon</i>
+            </p>
+            <p>
+              <i>Septiembre 2017 - Septiembre 2020 - (San José, Costa Rica)</i>
+            </p>
           </h2>
 
           <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
             <p className="list-item list-inside p-2">
-              Rendu compte directement à la haute direction situé dans
-              différentes régions géographiques et fuseaux horaires, dans un
-              environnement multiculturel.
+              Aseguré un servicio al cliente de alta calidad proporcionando una
+              resolución oportuna, gestionando la comunicación e interacción a
+              través del sistema de tickets.
             </p>
             <p className="list-item list-inside p-2">
-              Supervisé les opérations quotidiennes d'une équipe à distance de 8
-              personnes et de plus de 70 processus pour les marchés EMEA et
-              LATAM, dans une complexité accrue due à la diversité des processus
-              en langues italienne, française et espagnole.
+              Gestioné y optimicé procesos transaccionales dentro de PS Oracle
+              (RDBMS), garantizando la precisión de los datos, la integridad y
+              el cumplimiento de los estándares organizativos y requisitos
+              regulatorios.
             </p>
             <p className="list-item list-inside p-2">
-              Déterminé les KPI, les objectifs d'équipe et les stratégies de
-              niveau supérieur pour l'activité opérationnelle.
+              Colaboré de manera interfuncional con colegas para identificar
+              requisitos, optimizar flujos de trabajo y procesos.
             </p>
             <p className="list-item list-inside p-2">
-              Présenté des rapports de données bihebdomadaires à la direction
-              pour l'examen des métriques de performance de l'équipe et d'autres
-              points clés.
-            </p>
-            <p className="list-item list-inside p-2">
-              Géré des projets liés à l'admission ou à la migration de
-              processus, basés sur le catalogue de services DM et la portée.
-            </p>
-            <p className="list-item list-inside p-2">
-              Préparé l'évaluation annuelle des performances et des talents de
-              l'équipe sur la base des résultats d'analyse mensuelle, des
-              retours d'information et des opportunités d'amélioration.
-            </p>
-            <p className="list-item list-inside p-2">
-              Créé et mis en œuvre des mécanismes pour prévoir les besoins en
-              personnel afin d'assurer la disponibilité des effectifs.
-            </p>
-            <p className="list-item list-inside p-2">
-              Recruté, formé et supervisé le personnel dans les domaines de la
-              connaissance des produits et du service client.
-            </p>
-            <p className="list-item list-inside p-2">
-              Enseigné et aidé les employes à développer leur potentiel en
-              déléguant des tâches en conséquence.
-            </p>
-            <p className="list-item list-inside p-2">
-              Anticipé la mise en œuvre réussie d'outils, d'informations et de
-              ressources pour l'équipe.
-            </p>
-            <p className="list-item list-inside p-2">
-              Développé des opportunités de réseautage professionnel efficaces
-              en participant à des forums/projets appropriés et en assistant à
-              des réunions régulières des membres professionnels avec la
-              direction de niveau supérieur.
+              Demostré un fuerte compromiso con el crecimiento personal y
+              profesional buscando activamente oportunidades para aprender y
+              asumir nuevas responsabilidades a medida que surgían.
             </p>
           </div>
         </div>
-        {/* < />!-- #2 --> */}
-        <div className="text-center p-4 m-2">
+        {/* <!-- #4 --> */}
+        <div className="text-primary-600 text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-            {" "}
-            Process Lead, Data Management at Amazon
-            <i>- (San José, Costa Rica) - Octobre 2020 - Juillet 2021</i>
+            Asistente de Laboratorio de Química
+            <p>
+              <i>Universidad de Costa Rica</i>
+            </p>
+            <p>
+              <i>Agosto 2015 - Marzo 2017 - (San José, Costa Rica)</i>
+            </p>
           </h2>
 
           <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
             <p className="list-item list-inside p-2">
-              Promu de Associé Senior à Chef de Processus en offrant un
-              traitement à haut volume, une performance de premier plan et en
-              favorisant la collaboration.
+              Preparé y impartí conferencias a los estudiantes, proporcionando
+              tanto conocimientos teóricos como demostraciones prácticas para
+              mejorar la comprensión de acuerdo con el programa del curso.
             </p>
             <p className="list-item list-inside p-2">
-              Assuré une utilisation optimale du personnel en attribuant
-              efficacement et de façon opportune les tâches en fonction de leur
-              disponibilité et de leur expertise.
+              Supervisé las sesiones de laboratorio asegurando el cumplimiento
+              de los protocolos de seguridad y el manejo adecuado de equipos y
+              materiales.
             </p>
             <p className="list-item list-inside p-2">
-              Surveillé la conformité des valeurs métriques quotidiennes (SLA et
-              autres KPI) à l'aide de plusieurs outils de visualisation de
-              données.
+              Brindé asistencia individual durante las sesiones de laboratorio,
+              ofreciendo orientación y apoyo para mejorar su experiencia de
+              aprendizaje.
             </p>
             <p className="list-item list-inside p-2">
-              Coordonné les propositions d'amélioration continue des processus
-              conformément aux politiques et procédures solides de gestion des
-              données.
-            </p>
-            <p className="list-item list-inside p-2">
-              Répondu aux besoins de rapports et d'accès à l'information en
-              concevant des requêtes simples et complexes dans l'outil
-              d'application.
-            </p>
-            <p className="list-item list-inside p-2">
-              Conduit la revue des défauts, des cas difficiles et des escalades
-              selon l'échelle d'impact de la gravité pour répondre aux exigences
-              des clients.
-            </p>
-            <p className="list-item list-inside p-2">
-              Agi en tant que point de contact entre d'autres parties prenantes
-              internes et l'équipe.
-            </p>
-            <p className="list-item list-inside p-2">
-              Établi un canal pour la mise à jour des procédures opérationnelles
-              standard et priorisé la formation sur les nouveaux changements.
-            </p>
-            <p className="list-item list-inside p-2">
-              Configuré et testé les outils multi-actifs et les solutions de
-              processus avant leur mise en œuvre.
-            </p>
-            <p className="list-item list-inside p-2">
-              Rédigé et répondu aux réclamations pendant et après toute
-              admission ou migration de processus.
+              Colaboré con miembros del cuerpo docente para asignar pruebas y
+              calificarlas, y medir el progreso general y la comprensión del
+              estudiante.
             </p>
           </div>
         </div>
-        {/* < />!-- #3 --> */}
+        {/* <!-- #5 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-            {" "}
-            Sr. Associate, Data Management at Amazon
-            <i>- (San José, Costa Rica) - Septembre 2017 - Septembre 2020</i>
+            Coordinación de Talleres sobre Potabilidad y Tratamiento del agua
+            <p>
+              <i>Universidad de Costa Rica</i>
+            </p>
+            <p>
+              <i>Agosto 2014 - Noviembre 2015 - (San José, Costa Rica)</i>
+            </p>
           </h2>
 
           <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
             <p className="list-item list-inside p-2">
-              Assuré un service client de haute qualité en fournissant une
-              résolution rapide et précise, en gérant la communication et les
-              interactions de données avec les parties prenantes via le système
-              de ticket.
+              Impartí capacitaciones sobre contaminación microbiana y el
+              incumplimiento de la normativa nacional en acueducto y
+              alcantarillado sanitarios; análisis químico del agua y sus
+              resultados.
             </p>
             <p className="list-item list-inside p-2">
-              Géré et optimisé les processus transactionnels au sein de PS
-              Oracle (SGBDR), en garantissant l'exactitude, l'intégrité des
-              données et la conformité aux normes organisationnelles et aux
-              exigences réglementaires.
-            </p>
-            <p className="list-item list-inside p-2">
-              Collaboré de manière transversale avec les pairs pour identifier
-              les besoins, rationaliser les flux de travail et optimiser les
-              processus.
-            </p>
-            <p className="list-item list-inside p-2">
-              Démontré un fort engagement envers la croissance personnelle et
-              professionnelle en recherchant activement des opportunités
-              d'apprentissage et en assumant de nouvelles responsabilités au fur
-              et à mesure de leur apparition.
-            </p>
-          </div>
-        </div>
-        {/* < />!-- #4 --> */}
-        <div className="text-center p-4 m-2">
-          <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-            Chemistry Laboratory Assistant – University of Costa Rica
-            <i>- (San José, Costa Rica) - Août 2015 - Mars 2017</i>
-          </h2>
-          <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
-            <p className="list-item list-inside p-2">
-              Préparé et dispensé des cours aux étudiants, fournissant à la fois
-              des connaissances théoriques et des démonstrations pratiques pour
-              améliorer la compréhension conformément au programme de cours.
-            </p>
-            <p className="list-item list-inside p-2">
-              Supervisé les séances de laboratoire en veillant au respect des
-              protocoles de sécurité et à la manipulation appropriée de
-              l'équipement et des matériaux.
-            </p>
-            <p className="list-item list-inside p-2">
-              Fourni une assistance individuelle pendant les séances de
-              laboratoire, offrant des conseils et un soutien pour améliorer
-              leur expérience d'apprentissage.
-            </p>
-            <p className="list-item list-inside p-2">
-              Collaboré avec les membres du corps enseignant pour attribuer des
-              tests et les noter, et pour mesurer la progression des étudiants
-              et la compréhension globale.
-            </p>
-          </div>
-        </div>
-        {/* < />!-- #5 --> */}
-        <div className="text-center p-4 m-2">
-          <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-            Potability and Water Treatment Training Coordinator - University of
-            Costa Rica
-            <i>- (San José, Costa Rica) - Août 2014 - Novembre 2015</i>
-          </h2>
-
-          <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
-            <p className="list-item list-inside p-2">
-              Supervisé la formation des bureaux locaux en charge des réseaux
-              d'aqueduc et d'égouts sanitaires, afin de réduire le risque de
-              contamination microbienne et de non-conformité aux réglementations
-              nationales, dans le cadre de mon Travail Communautaire
-              Universitaire.
-            </p>
-            <p className="list-item list-inside p-2">
-              Évalué la qualité de l'eau potable en termes de paramètres
-              chimiques tels que le DCO, la dureté et la présence de nitrates et
-              de phosphates à divers endroits, afin de garantir la conformité
-              avec les réglementations locales.
+              Evalué la calidad del agua potable en términos de parámetros
+              químicos como DQO, dureza y presencia de nitrato y fosfato de
+              varias localidades, para asegurar el cumplimiento de las
+              normativas.
             </p>
           </div>
         </div>
@@ -374,24 +402,24 @@ function French() {
               />
             </svg>
             <h1 className="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
-              Langues
+              Idiomas
             </h1>
           </div>
           <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
             <h2 className="p-2 font-semibold list-item list-inside">
               {" "}
-              Espagnol
-              <i className="italic"> (Native)</i>
+              Español
+              <i className="italic"> (Nativo)</i>
             </h2>
             <h2 className="p-2 font-semibold list-item list-inside">
               {" "}
-              Anglais
-              <i className="italic"> (Professional)</i>
+              Inglés
+              <i className="italic"> (Profesional)</i>
             </h2>
             <h2 className="p-2 font-semibold list-item list-inside">
               {" "}
-              Français
-              <i className="italic"> (Fluent)</i>
+              Francés
+              <i className="italic"> (Fluido)</i>
             </h2>
           </div>
         </div>
@@ -414,7 +442,7 @@ function French() {
               />
             </svg>
             <h1 className="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
-              Courses and Certifications
+              Cursos y Certificaciones
             </h1>
           </div>
           <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
@@ -437,13 +465,13 @@ function French() {
           <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
             <h2 className="font-semibold list-item list-inside p-2">
               {" "}
-              Alianza Francesa de Costa Rica
+              Alianza Francesa de San José
               <p className="italic"> DELF Niveau B1 (2012)</p>
             </h2>
           </div>
         </div>
 
-        {/* <!-------------------------------Seminars------------------------------------------------------------- --> */}
+        {/* <!-------------------------------Congress------------------------------------------------------------- --> */}
         <div className="text-center p-4 m-2">
           <div className="flex justify-center items-center">
             <svg
@@ -456,16 +484,16 @@ function French() {
               <path d="M17.5 3A3.5 3.5 0 0 0 14 7L8.1 9.8A3.5 3.5 0 0 0 2 12a3.5 3.5 0 0 0 6.1 2.3l6 2.7-.1.5a3.5 3.5 0 1 0 1-2.3l-6-2.7a3.5 3.5 0 0 0 0-1L15 9a3.5 3.5 0 0 0 6-2.4c0-2-1.6-3.5-3.5-3.5Z" />
             </svg>
             <h1 className="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
-              Séminaires
+              Congresos
             </h1>
           </div>
           <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
             <h2 className="font-semibold list-item list-inside p-2">
-              XXIV Latin American Congress of Students of Chemical Engineering
-              and Related Careers
+              XXIV Congreso Latinoamericano de Estudiantes de Ingeniería Química
+              y Carreras Afines
               <p className="italic">
                 {" "}
-                National Technological University (Buenos Aires, Argentina) -
+                Universidad Tecnológica Nacional (Buenos Aires, Argentina) -
                 2018
               </p>
             </h2>
@@ -474,7 +502,7 @@ function French() {
 
         {/* <!--------------------- Skills --------------------------------------------------------------> */}
 
-        <div className="text-primary-600 text-center p-4 m-2">
+        <div className="text-center p-4 m-2">
           <div className="flex justify-center items-center p-1">
             <svg
               className="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]"
@@ -490,32 +518,31 @@ function French() {
               />
             </svg>
             <h1 className="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
-              Compétences
+              Habilidades
             </h1>
           </div>
 
           <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
-            <div>Résolveur de problèmes</div>
-            <div>Analitique</div>
-            <div>Joueur d'équipe collaboratif</div>
-            <div>Travail d'équipe</div>
-            <div>Centré sur le client</div>
-            <div>Auto-motivé</div>
-            <div>Planificateur et concepteur</div>
-            <div>Autonome et proactif</div>
-            <div>Communication écrite et orale efficace</div>
-            <div>Attentif aux détails</div>
-            <div>Bon auditeur</div>
-            <div>Conscient des délais</div>
+            <div>Resolución de problemas</div>
+            <div>Pensador analítico</div>
+            <div>Resolución colaborativa</div>
+            <div>Trabajo en equipo</div>
+            <div>Enfocado al cliente</div>
+            <div>Automotivado</div>
+            <div>Planificador y conceptualizador</div>
+            <div>Autonomo y proactivo</div>
+            <div>Comunicación oral y escrita efectiva</div>
+            <div>Atento a los detalles</div>
+            <div>Escucha activa</div>
+            <div>Ajustado al 'deadline'</div>
             <div>Adaptable</div>
-            <div>Résolveur de problèmes</div>
-            <div>Orienté vers les processus</div>
-            <div>Entrepreneurial</div>
-            <div>Orienté vers l'apprentissage</div>
-            <div>Outils de visualisation de données</div>
-            <div>Habitué à travailler dans un environnement multiculturel</div>
-            <div>Extraction et reporting de données</div>
-            <div>Rédaction de documentation technique</div>
+            <div>Orientado al proceso</div>
+            <div>Emprendedor</div>
+            <div>Orientado al aprendizaje</div>
+            <div>Redacción de memorias técnicas</div>
+            <div>Habituado a trabajar en un entorno multicultural</div>
+            <div>Extracción de datos y creación de reportes</div>
+            <div>Herramientas de visualización de datos</div>
           </div>
         </div>
 
@@ -533,21 +560,21 @@ function French() {
               <path d="M11 21V2.4a3.5 3.5 0 0 0-4.8 1.8A3.5 3.5 0 0 0 4 8l-.7 1.1-.1.4-.1.3a3.5 3.5 0 0 0 0 1.5A3.9 3.9 0 0 0 2 14v.9l.2.6a3.8 3.8 0 0 0 1 1.4 4 4 0 0 0 .6.5v.1A3.5 3.5 0 0 0 7 21a3.4 3.4 0 0 0 4.2.5 1 1 0 0 1-.2-.5Zm11-7.7v-.1a4 4 0 0 0-1-2 3.4 3.4 0 0 0-.2-1.7V9c-.3-.4-.5-.8-.8-1a3.4 3.4 0 0 0-.6-2.6 4 4 0 0 0-1.6-1.3A3.5 3.5 0 0 0 13 2.4V21c0 .2 0 .4-.2.5A3.4 3.4 0 0 0 17 21a3.5 3.5 0 0 0 3-3.5 5.4 5.4 0 0 0 .7-.5 4.2 4.2 0 0 0 .7-.9l.3-.5.2-.7v-.2a4 4 0 0 0 0-1.4Z" />
             </svg>
             <h1 className="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
-              Knowledge
+              Conocimientos
             </h1>
           </div>
           <h3 className="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">
             {" "}
-            Informatique
+            Software
           </h3>
           <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
             <div>Microsoft Word</div>
             <div>Microsoft Excel</div>
             <div>Microsoft Office Power Point</div>
-            <div>Autocad</div>
+            <div>Autocad (Intermedio)</div>
+            <div>Minitab (Intermedio)</div>
+            <div>PowerBi (Intermedio)</div>
             <div>Matlab</div>
-            <div>Minitab </div>
-            <div>PowerBi </div>
             <div>Oracle People Soft</div>
             <div>Salesforce CRM</div>
             <div>OnBase ECM</div>
@@ -560,23 +587,33 @@ function French() {
             <div>CEX</div>
             <div>HULC</div>
             <div>Cypetherm</div>
-            <div>Cloud Services</div>
+            <div>Servicios en la nube</div>
+            <div>Amazon Chime</div>
             <div>AWS Cloud Practitioner</div>
             <div>Amazon QuickSight</div>
           </div>
-          <h3 className="font-bold text-2xl p-2"> Programming languages</h3>
+          <h3 className="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">
+            {" "}
+            Lenguajes de programación
+          </h3>
           <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
             <div>SQL (PostgreSQL)</div>
             <div>Python</div>
             <div>Python Libraries: Pandas,Numpy, Matplotlib</div>
           </div>
-          <h3 className="font-bold text-2xl p-2">Web development</h3>
+          <h3 className="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">
+            Web development
+          </h3>
           <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
             <div>CSS</div>
             <div>HTML</div>
-            <div>Frameworks: Svelte</div>
+            <div>JavaScript</div>
+            <div>Libraries: React, Svelte</div>
           </div>
-          <h3 className="font-bold text-2xl p-2"> Legislative Framework</h3>
+          <h3 className="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">
+            {" "}
+            Marco Legislativo
+          </h3>
           <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
             <div>Documento Básico para el Ahorro de Energía</div>
             <div>Código Técnico de la Edificación</div>
@@ -587,7 +624,7 @@ function French() {
         </div>
         {/* <!---------------------Professional interest --------------------------------------------------------------> */}
 
-        <div className="text-primary-600 text-center p-4 m-2">
+        <div className="text-center p-4 m-2">
           <div className="flex justify-center items-center">
             <svg
               className="h-full max-w-[1rem] tablet:max-w-[1.4rem] laptop:max-w-[1.8rem] desktop:max-w-[2rem]"
@@ -603,69 +640,71 @@ function French() {
               />
             </svg>
             <h1 className="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
-              Areas of professional interest
+              Áreas de interés profesional
             </h1>
           </div>
           <div>
             <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
               <div className="list-item list-inside p-2">
-                Optimisation des données : Dévoué à affiner les processus de
-                données pour une efficacité et une précision accrues.
+                Optimización de Datos: Dedicado a refinar procesos de datos para
+                mejorar la eficiencia y la toma de decisiones.
               </div>
               <div className="list-item list-inside p-2">
-                Pratiques durables : Engagé à promouvoir les initiatives de
-                durabilité pour réduire l'impact environnemental.
+                Prácticas Sostenibles: Comprometido con impulsar iniciativas de
+                sostenibilidad para reducir el impacto ambiental.
               </div>
               <div className="list-item list-inside p-2">
-                Leadership collaboratif : Compétent dans la direction d'équipes
-                diversifiées pour atteindre des objectifs collectifs.
+                Liderazgo Colaborativo: Hábil en liderar equipos diversos para
+                lograr objetivos colectivos.
               </div>
               <div className="list-item list-inside p-2">
-                Amélioration continue : Passionné par l'optimisation des
-                processus pour maximiser la productivité.
+                Mejora Continua: Apasionado por optimizar procesos para
+                maximizar la productividad.
               </div>
               <div className="list-item list-inside p-2">
-                Service client exceptionnel : Engagé à fournir un service
-                supérieur grâce à des solutions sur mesure.
+                Servicio al Cliente: Comprometido con brindar un servicio
+                superior a través de soluciones personalizadas.
               </div>
               <div className="list-item list-inside p-2">
-                Gestion efficace de projets : Compétent dans la supervision des
-                projets de leur conception à leur achèvement.
+                Gestión Efectiva de Proyectos: Competente en supervisar
+                proyectos desde su inicio hasta su finalización.
               </div>
               <div className="list-item list-inside p-2">
-                Innovation technologique : Enthousiaste à l'idée d'intégrer des
-                technologies de pointe pour améliorer les opérations.
+                Innovación Tecnológica: Entusiasta en integrar la tecnología de
+                y mejorar y oprimiazar operaciones.
               </div>
               <div className="list-item list-inside p-2">
-                Respect de la réglementation : Rigoureux dans l'assurance du
-                respect des réglementations et normes de l'industrie.
+                Cumplimiento Normativo: Diligente en asegurar el cumplimiento de
+                regulaciones y estándares de la industria.
               </div>
               <div className="list-item list-inside p-2">
-                Responsabilité sociale d'entreprise (RSE) : Engagé à soutenir
-                les initiatives de RSE grâce à des pratiques efficaces de
-                gestion des données, contribuant à la durabilité d'entreprise et
-                aux objectifs d'impact social.
+                Responsabilidad Social Corporativa (RSC): Comprometido con
+                apoyar iniciativas de RSC mediante prácticas efectivas de
+                gestión de datos, contribuyendo a los objetivos de
+                sostenibilidad corporativa y de impacto social.
               </div>
               <div className="list-item list-inside p-2">
-                Gestion durable de la chaîne d'approvisionnement : Intéressé à
-                appliquer des principes de gestion des données pour optimiser
-                les processus de la chaîne d'approvisionnement et renforcer la
-                durabilité tout au long de la chaîne de valeur.
+                Gestión Sostenible de la Cadena de Suministro: Interesado en
+                aplicar principios de gestión de datos para optimizar procesos
+                de la cadena de suministro y mejorar la sostenibilidad en toda
+                la cadena de valor.
               </div>
               <div className="list-item list-inside p-2">
-                Énergie renouvelable : Intéressé à exploiter les techniques de
-                gestion des données pour optimiser les systèmes d'énergie
-                renouvelable et promouvoir des solutions énergétiques durables.
+                Energías Renovables: Interesado en aprovechar técnicas de diseño
+                para optimizar sistemas de energía renovable y promover
+                soluciones energéticas sostenibles.
               </div>
               <div className="list-item list-inside p-2">
-                Réduction de l'empreinte carbone : Engagé à utiliser des
-                approches basées sur les données pour suivre et réduire les
-                émissions de carbone, favorisant la responsabilité
-                environnementale et la durabilité.
+                Reducción de la Huella de Carbono: Comprometido en utilizar
+                enfoques basados en soluciones para rastrear y reducir las
+                emisiones de carbono, promoviendo la responsabilidad ambiental y
+                la sostenibilidad.
               </div>
             </div>
           </div>
         </div>
+
+        {/* <!---------------------Insert animation --------------------------------------------------------------> */}
       </section>
 
       <footer>
@@ -675,4 +714,4 @@ function French() {
   );
 }
 
-export default French;
+export default Home;

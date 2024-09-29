@@ -1,6 +1,6 @@
 import React from "react";
 import "../App.css";
-import NavBar from "../components/NavBar.jsx";
+import NavBar2 from "../components/NavBar.jsx";
 import Footer from "../components/Footer.jsx";
 
 // !New component
@@ -15,7 +15,7 @@ function Blog() {
   return (
     <>
       <header>
-        <NavBar />
+        <NavBar2 />
       </header>
 
       <section className="m-auto min-h-screen">
