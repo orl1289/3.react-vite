@@ -119,9 +119,47 @@ function French() {
               Expérience Professionnelle
             </h1>
           </div>
+        </div>
+        {/* < />!-- Edit Experience  --> */}
+        {/* < />!-- #1 --> */}
+        <div className="text-primary-600 text-center p-4 m-2">
+          <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
+            Global Quality Process - Merck Healthcare - (Madrid, Espagne)
+            <p>
+              <i>Juillet 2024 - Actuellement</i>
+            </p>
+          </h2>
 
-          {/* < />!-- Edit Experience  --> */}
-
+          <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
+            <p className="list-item list-inside p-2">
+              Agir en tant que SLU pour les fonctions globales de l’HCQ et la
+              gestion de la documentation.
+            </p>
+            <p className="list-item list-inside p-2">
+              Mettre en œuvre des programmes visant à maintenir les normes de
+              qualité des produits existants.
+            </p>
+            <p className="list-item list-inside p-2">
+              Promouvoir la participation des employés aux initiatives
+              d’amélioration de la qualité en élaborant des politiques, des
+              procédures et des méthodes.
+            </p>
+            <p className="list-item list-inside p-2">
+              Garantir l’efficacité et la conformité du système de
+              documentation, avec utilisateurs et homologations dans le respect
+              de normes et de règles spécifiques. S’assurer que les risques
+              identifiés sont signalés de manière appropriée et en temps
+              opportun pour une remédiation immédiate.
+            </p>
+            <p className="list-item list-inside p-2">
+              Fournir un soutien aux utilisateurs et des éléments de suivi pour
+              un processus efficace de contrôle de la documentation de qualité
+              et de gestion des dossiers.
+            </p>
+          </div>
+        </div>
+        {/* < />!-- #1 --> */}
+        <div className="text-primary-600 text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             Ingénieur en stage - Voltfer - (Vigo, Espagne)
             <p>
@@ -148,7 +186,7 @@ function French() {
             </p>
           </div>
         </div>
-        {/* < />!-- #1 --> */}
+        {/* < />!-- #2 --> */}
         <div className="text-primary-600 text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             {" "}

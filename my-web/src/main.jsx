@@ -2,10 +2,10 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import Home from "./pages/Home.jsx";
-//import English from "./pages/English.jsx";
+import English from "./pages/English.jsx";
 //! When the Frenish section is ready
-//import French from './pages/French.jsx'
-//import Blog from "./pages/Blog.jsx";
+import French from './pages/French.jsx'
+import Blog from "./pages/Blog.jsx";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import NotFoundPage from "./pages/NotFoundpage.jsx";
@@ -21,14 +21,14 @@ const router = createBrowserRouter([
     element: <Home />,
     errorElement: <NotFoundPage />,
   },
-  /*
+  
   {
     path: "/english",
     element: <English />,
-  },*/
+  },
 
   // !This is for the French part - Adding the comment brakets to remove this
- /* {
+ {
     path: "/french",
     element: <French/>,
   },
@@ -38,7 +38,7 @@ const router = createBrowserRouter([
     element: <Blog />,
   },
 
-  */
+  
 ]);
 
 ReactDOM.createRoot(document.getElementById("root")).render(

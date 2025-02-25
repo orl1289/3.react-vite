@@ -99,6 +99,7 @@ function English() {
             <p className="italic"> License in Chemical Engineering (2019)</p>
           </h2>
         </div>
+
         {/* <!--------------------- Experience --------------------------------------------------------------> */}
         <div className="text-center p-4 m-2">
           <div className="flex justify-center items-center">
@@ -119,9 +120,55 @@ function English() {
               Professional Expererience
             </h1>
           </div>
+        </div>
 
-          {/* < />!-- Edit Experience  --> */}
+        {/* < />!-- Edit Experience  --> */}
+        {/* <!-- #1 --> */}
+        <div className="text-center p-4 m-2">
+          <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
+            {" "}
+            Global Quality Process
+            <p>
+              <i>Merck Healthcare</i>
+            </p>
+            <p>
+              <i> July 2024 - Currently - (Madrid, Spain)</i>
+            </p>
+          </h2>
 
+          <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
+            <p className="list-item list-inside p-2">
+              Act as SLU for HCQ global functions and documentation management.
+            </p>
+            <p className="list-item list-inside p-2">
+              Implement programs to maintain quality standards for existing
+              products.
+            </p>
+            <p className="list-item list-inside p-2">
+              Promote employee engagement in quality improvement initiatives, by
+              developing policies, procedures, and methods.
+            </p>
+            <p className="list-item list-inside p-2">
+              Guarantee the documentation system is effective and compliant,
+              with users and approvals adhering to standards and specific rules.
+            </p>
+            <p className="list-item list-inside p-2">
+              Ensure that identified risks are appropriately and timely
+              escalated for immediate remediation.
+            </p>
+            <p className="list-item list-inside p-2">
+              Provide support to users and follow-up items for effective quality
+              documentation control management process.
+            </p>
+            <p className="list-item list-inside p-2">
+              Generate reports and metrics that help track the compliance and
+              efficiency of the processes.
+            </p>
+          </div>
+        </div>
+
+        {/* <!-- #2 --> */}
+        <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             Engineering Intern
             <p>
@@ -150,7 +197,7 @@ function English() {
             </p>
           </div>
         </div>
-        {/* < />!-- #1 --> */}
+        {/* < />!-- #3 --> */}
         <div className="text-primary-600 text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             Team Manager, Data Management
@@ -212,7 +259,7 @@ function English() {
             </p>
           </div>
         </div>
-        {/* < />!-- #2 --> */}
+        {/* < />!-- #4 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             Process Lead, Data Management
@@ -274,7 +321,7 @@ function English() {
             </p>
           </div>
         </div>
-        {/* < />!-- #3 --> */}
+        {/* < />!-- #5 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             Sr. Associate, Data Management
@@ -308,7 +355,7 @@ function English() {
             </p>
           </div>
         </div>
-        {/* < />!-- #4 --> */}
+        {/* < />!-- #6 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             Chemistry Laboratory Assistant
@@ -341,7 +388,7 @@ function English() {
             </p>
           </div>
         </div>
-        {/* < />!-- #5 --> */}
+        {/* < />!-- #7 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             Potability and Water Treatment Training Coordinator
