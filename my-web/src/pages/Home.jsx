@@ -125,7 +125,7 @@ function Home() {
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             {" "}
-            Global Quality Process
+            <p className="text-violet-950 text-4xl">Global Quality Process</p>
             <p>
               <i>Merck Healthcare</i>
             </p>
@@ -136,12 +136,18 @@ function Home() {
 
           <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
             <p className="list-item list-inside p-2">
-              Ejerzo como SLU para las funciones globales de HCQ y la gestión de
-              la documentación.
+              Ejerzo como usuario experto para las funciones globales de HCQ,
+              permitiendo una gestión diligente durante el ciclo de vida de la
+              documentación en el sistema electrónico de gestión de calidad.
             </p>
             <p className="list-item list-inside p-2">
               Implemento programas para mantener los estándares de calidad de
               los productos existentes.
+            </p>
+            <p className="list-item list-inside p-2">
+              Creación y manteniminto de registros de datos para permitir a las
+              operaciones, la evaluación y valoración oportuna de documentos
+              globales.
             </p>
             <p className="list-item list-inside p-2">
               Promuevo la participación de los empleados en las iniciativas de
@@ -158,9 +164,19 @@ function Home() {
               adecuada y oportuna para su solución inmediata.
             </p>
             <p className="list-item list-inside p-2">
+              Identifico activamente las necesidades de los usuarios, para
+              comprender sus requisitos y traducirlos en acciones y flujos de
+              trabajo específicos.
+            </p>
+            <p className="list-item list-inside p-2">
               Proporciono soporte a los usuarios y elementos de seguimiento para
               un proceso eficaz de gestión y control de la documentación de
               calidad.
+            </p>
+            <p className="list-item list-inside p-2">
+              Brindo capacitación y garantizo que los usuarios estén entrenados
+              adecuadamente, para fomentar una base de usuarios informados que
+              puedan navegar eficazmente por el eQMS.
             </p>
             <p className="list-item list-inside p-2">
               Genero informes y métricas que ayudan a realizar un seguimiento
@@ -204,7 +220,10 @@ function Home() {
         {/* <!-- #1 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-            Team Manager, Data Management en Amazon
+            <p className="text-violet-950 text-4xl">
+              Team Manager, Data Management
+            </p>{" "}
+            en Amazon
             <p>
               <i>Amazon</i>
             </p>
@@ -269,7 +288,9 @@ function Home() {
         {/* <!-- #2 --> */}
         <div className="text-primary-600 text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-            Process Lead, Data Management
+            <p className="text-violet-950 text-4xl">
+              Process Lead, Data Management
+            </p>
             <p>
               <i>Amazon</i>
             </p>
@@ -338,7 +359,9 @@ function Home() {
         <div className="text-primary-600 text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             {" "}
-            Sr. Associate, Data Management
+            <p className="text-violet-950 text-4xl">
+              Sr. Associate, Data Management
+            </p>
             <p>
               <i>Amazon</i>
             </p>
@@ -373,7 +396,9 @@ function Home() {
         {/* <!-- #4 --> */}
         <div className="text-primary-600 text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-            Asistente de Laboratorio de Química
+            <p className="text-violet-950 text-4xl">
+              Asistente de Laboratorio de Química
+            </p>
             <p>
               <i>Universidad de Costa Rica</i>
             </p>
@@ -408,7 +433,9 @@ function Home() {
         {/* <!-- #5 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-            Coordinación de Talleres sobre Potabilidad y Tratamiento del agua
+            <p className="text-violet-950 text-4xl">
+              Coordinación de Talleres sobre Potabilidad y Tratamiento del agua
+            </p>
             <p>
               <i>Universidad de Costa Rica</i>
             </p>

@@ -124,20 +124,31 @@ function French() {
         {/* < />!-- #1 --> */}
         <div className="text-primary-600 text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-            Global Quality Process - Merck Healthcare - (Madrid, Espagne)
+            {" "}
+            <p className="text-violet-950 text-4xl">Global Quality Process</p>
             <p>
-              <i>Juillet 2024 - Actuellement</i>
+              <i>Merck Healthcare</i>
+            </p>
+            <p>
+              <i> Juillet 2024 - Actuellement - (Madrid, Espagne)</i>
             </p>
           </h2>
 
           <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
             <p className="list-item list-inside p-2">
-              Agir en tant que SLU pour les fonctions globales de l’HCQ et la
-              gestion de la documentation.
+              Agir en tant qu'utilisateur principal pour les fonctions globales
+              de HCQ, permettant une gestion diligente du cycle de vie de la
+              documentation dans le système de gestion de la qualité
+              électronique.
             </p>
             <p className="list-item list-inside p-2">
               Mettre en œuvre des programmes visant à maintenir les normes de
               qualité des produits existants.
+            </p>
+            <p className="list-item list-inside p-2">
+              Creation et maintenance des enregistrements de données pour
+              permettre aux opérations d'évaluer en temps voulu les documents
+              globales.
             </p>
             <p className="list-item list-inside p-2">
               Promouvoir la participation des employés aux initiatives
@@ -147,23 +158,43 @@ function French() {
             <p className="list-item list-inside p-2">
               Garantir l’efficacité et la conformité du système de
               documentation, avec utilisateurs et homologations dans le respect
-              de normes et de règles spécifiques. S’assurer que les risques
-              identifiés sont signalés de manière appropriée et en temps
-              opportun pour une remédiation immédiate.
+              de normes et de règles spécifiques.
+            </p>
+            <p className="list-item list-inside p-2">
+              S’assurer que les risques identifiés sont signalés de manière
+              appropriée et en temps opportun pour une remédiation immédiate.
+            </p>
+            <p className="list-item list-inside p-2">
+              Identifier activement les besoins des utilisateurs, comprendre les
+              exigences et les traduire en actions et flux de travail
+              spécifiques.
             </p>
             <p className="list-item list-inside p-2">
               Fournir un soutien aux utilisateurs et des éléments de suivi pour
               un processus efficace de contrôle de la documentation de qualité
               et de gestion des dossiers.
             </p>
+            <p className="list-item list-inside p-2">
+              Assurer la formation et s'assurer que les utilisateurs sont
+              correctement formés, afin de favoriser une base d'utilisateurs
+              informés qui peuvent naviguer efficacement dans l'eQMS.
+            </p>
+            <p className="list-item list-inside p-2">
+              Générer des rapports et des mesures qui aident à suivre la
+              conformité et l'efficacité des processus et contribuent à
+              l'écosystème digitale global avec des solutions à long terme.
+            </p>
           </div>
         </div>
         {/* < />!-- #1 --> */}
         <div className="text-primary-600 text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-            Ingénieur en stage - Voltfer - (Vigo, Espagne)
+            <p className="text-violet-950 text-4xl">Engineering Intern</p>
             <p>
-              <i>Avril 2023 - Mai 2023</i>
+              <i>Voltfer</i>
+            </p>
+            <p>
+              <i>Avril 2023 - Mai 2023 - (Vigo, Espagne)</i>
             </p>
           </h2>
 
@@ -189,9 +220,15 @@ function French() {
         {/* < />!-- #2 --> */}
         <div className="text-primary-600 text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-            {" "}
-            Team Manager, Data Management at Amazon
-            <i>- (San José, Costa Rica) - Août 2021 - Août 2022</i>
+            <p className="text-violet-950 text-4xl">
+              Team Manager, Data Management
+            </p>
+            <p>
+              <i>Amazon</i>
+            </p>
+            <p>
+              <i>Août 2021 - Août 2022 - (San José, Costa Rica)</i>
+            </p>
           </h2>
 
           <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
@@ -251,9 +288,15 @@ function French() {
         {/* < />!-- #2 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-            {" "}
-            Process Lead, Data Management at Amazon
-            <i>- (San José, Costa Rica) - Octobre 2020 - Juillet 2021</i>
+            <p className="text-violet-950 text-4xl">
+              Process Lead, Data Management
+            </p>
+            <p>
+              <i>Amazon</i>
+            </p>
+            <p>
+              <i>Octobre 2020 - Juillet 2021 - (San José, Costa Rica)</i>
+            </p>
           </h2>
 
           <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
@@ -308,9 +351,15 @@ function French() {
         {/* < />!-- #3 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-            {" "}
-            Sr. Associate, Data Management at Amazon
-            <i>- (San José, Costa Rica) - Septembre 2017 - Septembre 2020</i>
+            <p className="text-violet-950 text-4xl">
+              Sr. Associate, Data Management
+            </p>
+            <p>
+              <i>Amazon</i>
+            </p>
+            <p>
+              <i>Septembre 2017 - Septembre 2020 - (San José, Costa Rica)</i>
+            </p>
           </h2>
 
           <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
@@ -342,8 +391,15 @@ function French() {
         {/* < />!-- #4 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-            Chemistry Laboratory Assistant – University of Costa Rica
-            <i>- (San José, Costa Rica) - Août 2015 - Mars 2017</i>
+            <p className="text-violet-950 text-4xl">
+              Chemistry Laboratory Assistant
+            </p>
+            <p>
+              <i> Université du Costa Rica</i>
+            </p>
+            <p>
+              <i>Août 2015 - Mars 2017 - (San José, Costa Rica)</i>
+            </p>
           </h2>
           <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
             <p className="list-item list-inside p-2">
@@ -371,9 +427,15 @@ function French() {
         {/* < />!-- #5 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-            Potability and Water Treatment Training Coordinator - University of
-            Costa Rica
-            <i>- (San José, Costa Rica) - Août 2014 - Novembre 2015</i>
+            <p className="text-violet-950 text-4xl">
+              Coordonnateur de la formation en potabilité et traitement de l'eau
+            </p>
+            <p>
+              <i>Université du Costa Rica</i>
+            </p>
+            <p>
+              <i>Août 2014 - Novembre 2015 - (San José, Costa Rica)</i>
+            </p>
           </h2>
 
           <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
@@ -459,23 +521,20 @@ function French() {
             <h2 className="font-semibold list-item list-inside p-2">
               {" "}
               Measuring Sustainable Development
-              <p className="italic"> SDG Academy (2024) - edX Certificado</p>
+              <p className="italic"> SDG Academy (2024) - edX Certifié</p>
             </h2>
           </div>
           <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
             <h2 className="font-semibold list-item list-inside p-2">
               {" "}
               AWS Cloud Quest: Cloud Practitioner
-              <p className="italic">
-                {" "}
-                Amazon Web Services (2023) - Certificado{" "}
-              </p>
+              <p className="italic"> Amazon Web Services (2023) - Certifié </p>
             </h2>
           </div>
           <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
             <h2 className="font-semibold list-item list-inside p-2">
               {" "}
-              Alianza Francesa de Costa Rica
+              Alliance Française du Costa Rica
               <p className="italic"> DELF Niveau B1 (2012)</p>
             </h2>
           </div>
@@ -499,11 +558,11 @@ function French() {
           </div>
           <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
             <h2 className="font-semibold list-item list-inside p-2">
-              XXIV Latin American Congress of Students of Chemical Engineering
-              and Related Careers
+              XXIV Congrès latino-américain des étudiants en génie chimique et
+              carrières connexes
               <p className="italic">
                 {" "}
-                National Technological University (Buenos Aires, Argentina) -
+                Université Technologique Nationale (Buenos Aires, Argentina) -
                 2018
               </p>
             </h2>
@@ -571,7 +630,7 @@ function French() {
               <path d="M11 21V2.4a3.5 3.5 0 0 0-4.8 1.8A3.5 3.5 0 0 0 4 8l-.7 1.1-.1.4-.1.3a3.5 3.5 0 0 0 0 1.5A3.9 3.9 0 0 0 2 14v.9l.2.6a3.8 3.8 0 0 0 1 1.4 4 4 0 0 0 .6.5v.1A3.5 3.5 0 0 0 7 21a3.4 3.4 0 0 0 4.2.5 1 1 0 0 1-.2-.5Zm11-7.7v-.1a4 4 0 0 0-1-2 3.4 3.4 0 0 0-.2-1.7V9c-.3-.4-.5-.8-.8-1a3.4 3.4 0 0 0-.6-2.6 4 4 0 0 0-1.6-1.3A3.5 3.5 0 0 0 13 2.4V21c0 .2 0 .4-.2.5A3.4 3.4 0 0 0 17 21a3.5 3.5 0 0 0 3-3.5 5.4 5.4 0 0 0 .7-.5 4.2 4.2 0 0 0 .7-.9l.3-.5.2-.7v-.2a4 4 0 0 0 0-1.4Z" />
             </svg>
             <h1 className="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
-              Knowledge
+              Connaissance
             </h1>
           </div>
           <h3 className="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">
@@ -602,19 +661,27 @@ function French() {
             <div>AWS Cloud Practitioner</div>
             <div>Amazon QuickSight</div>
           </div>
-          <h3 className="font-bold text-2xl p-2"> Programming languages</h3>
+          <h3 className="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">
+            {" "}
+            Langages de programmation
+          </h3>
           <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
             <div>SQL (PostgreSQL)</div>
             <div>Python</div>
             <div>Python Libraries: Pandas,Numpy, Matplotlib</div>
           </div>
-          <h3 className="font-bold text-2xl p-2">Web development</h3>
+          <h3 className="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">
+            Développement Web
+          </h3>
           <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
             <div>CSS</div>
             <div>HTML</div>
             <div>Frameworks: Svelte</div>
           </div>
-          <h3 className="font-bold text-2xl p-2"> Legislative Framework</h3>
+          <h3 className="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">
+            {" "}
+            Cadre législatif
+          </h3>
           <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
             <div>Documento Básico para el Ahorro de Energía</div>
             <div>Código Técnico de la Edificación</div>
@@ -641,7 +708,7 @@ function French() {
               />
             </svg>
             <h1 className="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
-              Areas of professional interest
+              Domaines d'intérêt professionnel
             </h1>
           </div>
           <div>

@@ -127,7 +127,7 @@ function English() {
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             {" "}
-            Global Quality Process
+            <p className="text-violet-950 text-4xl">Global Quality Process</p>
             <p>
               <i>Merck Healthcare</i>
             </p>
@@ -138,7 +138,9 @@ function English() {
 
           <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
             <p className="list-item list-inside p-2">
-              Act as SLU for HCQ global functions and documentation management.
+              Act as site lead user for HCQ global functions, enabling diligent
+              management over the documentation lifecycle in the electronic
+              quality management system.
             </p>
             <p className="list-item list-inside p-2">
               Implement programs to maintain quality standards for existing
@@ -149,6 +151,10 @@ function English() {
               developing policies, procedures, and methods.
             </p>
             <p className="list-item list-inside p-2">
+              Create and maintain data records to enable operations the on-time
+              assessment and evaluation of global documents.
+            </p>
+            <p className="list-item list-inside p-2">
               Guarantee the documentation system is effective and compliant,
               with users and approvals adhering to standards and specific rules.
             </p>
@@ -157,12 +163,22 @@ function English() {
               escalated for immediate remediation.
             </p>
             <p className="list-item list-inside p-2">
+              Actively identify needs of users, to understand requirements and
+              translate these into specific actions and workflows.
+            </p>
+            <p className="list-item list-inside p-2">
               Provide support to users and follow-up items for effective quality
               documentation control management process.
             </p>
             <p className="list-item list-inside p-2">
+              Provide training and ensure users are adequately trained, to
+              foster an informed user base that can effectively navigate the
+              eQMS.
+            </p>
+            <p className="list-item list-inside p-2">
               Generate reports and metrics that help track the compliance and
-              efficiency of the processes.
+              efficiency of the processes and contribute the overall digital
+              ecosystem with long-term solutions.
             </p>
           </div>
         </div>
@@ -170,7 +186,7 @@ function English() {
         {/* <!-- #2 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-            Engineering Intern
+            <p className="text-violet-950 text-4xl">Engineering Intern</p>
             <p>
               <i>Voltfer</i>
             </p>
@@ -200,7 +216,9 @@ function English() {
         {/* < />!-- #3 --> */}
         <div className="text-primary-600 text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-            Team Manager, Data Management
+            <p className="text-violet-950 text-4xl">
+              Team Manager, Data Management
+            </p>
             <p>
               <i>Amazon</i>
             </p>
@@ -262,7 +280,9 @@ function English() {
         {/* < />!-- #4 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-            Process Lead, Data Management
+            <p className="text-violet-950 text-4xl">
+              Process Lead, Data Management
+            </p>
             <p>
               <i>Amazon</i>
             </p>
@@ -324,7 +344,9 @@ function English() {
         {/* < />!-- #5 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-            Sr. Associate, Data Management
+            <p className="text-violet-950 text-4xl">
+              Sr. Associate, Data Management
+            </p>
             <p>
               <i>Amazon</i>
             </p>
@@ -358,7 +380,9 @@ function English() {
         {/* < />!-- #6 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-            Chemistry Laboratory Assistant
+            <p className="text-violet-950 text-4xl">
+              Chemistry Laboratory Assistant
+            </p>
             <p>
               <i> University of Costa Rica</i>
             </p>
@@ -391,7 +415,9 @@ function English() {
         {/* < />!-- #7 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
-            Potability and Water Treatment Training Coordinator
+            <p className="text-violet-950 text-4xl">
+              Potability and Water Treatment Training Coordinator
+            </p>
             <p>
               <i>University of Costa Rica</i>
             </p>
@@ -562,6 +588,7 @@ function English() {
             <div>Team work</div>
             <div>Costumer focused</div>
             <div>Self-motivated</div>
+            <div>QMS/PQS</div>
             <div>Planner and conceptualizer</div>
             <div>Autonomous and proactive</div>
             <div>Efective written and oral communication</div>
@@ -624,22 +651,34 @@ function English() {
             <div>Cloud Services</div>
             <div>AWS Cloud Practitioner</div>
             <div>Amazon QuickSight</div>
+            <div>Uptimizer Foundry</div>
           </div>
-          <h3 className="font-bold text-2xl p-2"> Programming languages</h3>
+          <h3 className="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">
+            {" "}
+            Programming languages
+          </h3>
           <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
             <div>SQL (PostgreSQL)</div>
             <div>Python</div>
             <div>Python Libraries: Pandas,Numpy, Matplotlib</div>
           </div>
-          <h3 className="font-bold text-2xl p-2">Web development</h3>
+          <h3 className="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">
+            Web development
+          </h3>
           <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
             <div>CSS</div>
             <div>HTML</div>
             <div>JavaScript</div>
             <div>Libraries: React, Svelte</div>
           </div>
-          <h3 className="font-bold text-2xl p-2"> Legislative Framework</h3>
+          <h3 className="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">
+            {" "}
+            Legislative Framework
+          </h3>
           <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
+            <div>ISO 9001/2015</div>
+            <div>ISO 13485</div>
+            <div>EUDRALEX</div>
             <div>Basic Document on Energy Saving (CTE-DB-HE)</div>
             <div>Technical Building Code</div>
             <div>
