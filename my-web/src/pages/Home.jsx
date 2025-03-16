@@ -175,12 +175,13 @@ function Home() {
             </p>
             <p className="list-item list-inside p-2">
               Brindo capacitación y garantizo que los usuarios estén entrenados
-              adecuadamente, para fomentar una base de usuarios informados que
+              adecuadamente, fomentando una base de usuarios informados que
               puedan navegar eficazmente por el eQMS.
             </p>
             <p className="list-item list-inside p-2">
               Genero informes y métricas que ayudan a realizar un seguimiento
-              del cumplimiento y la eficiencia de los procesos.
+              del cumplimiento y la eficiencia de los procesos y contribuyan al
+              ecosistema digital general con soluciones a largo plazo.
             </p>
           </div>
         </div>
@@ -189,7 +190,7 @@ function Home() {
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             {" "}
-            Ingeniero Interno
+            <p className="text-violet-950 text-4xl">Ingeniero Interno</p>
             <p>
               <i>Voltfer</i>
             </p>
@@ -692,6 +693,9 @@ function Home() {
             Marco Legislativo
           </h3>
           <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
+            <div>ISO 9001/2015</div>
+            <div>ISO 13485</div>
+            <div>EUDRALEX</div>
             <div>Documento Básico para el Ahorro de Energía</div>
             <div>Código Técnico de la Edificación</div>
             <div>

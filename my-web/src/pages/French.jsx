@@ -138,8 +138,8 @@ function French() {
             <p className="list-item list-inside p-2">
               Agir en tant qu'utilisateur principal pour les fonctions globales
               de HCQ, permettant une gestion diligente du cycle de vie de la
-              documentation dans le système de gestion de la qualité
-              électronique.
+              documentation dans le système électronique de gestion de la
+              qualité.
             </p>
             <p className="list-item list-inside p-2">
               Mettre en œuvre des programmes visant à maintenir les normes de
@@ -392,7 +392,7 @@ function French() {
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             <p className="text-violet-950 text-4xl">
-              Chemistry Laboratory Assistant
+              Assistant de laboratoire de chimie
             </p>
             <p>
               <i> Université du Costa Rica</i>
@@ -683,10 +683,14 @@ function French() {
             Cadre législatif
           </h3>
           <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
-            <div>Documento Básico para el Ahorro de Energía</div>
-            <div>Código Técnico de la Edificación</div>
+            <div>ISO 9001/2015</div>
+            <div>ISO 13485</div>
+            <div>EUDRALEX</div>
+            <div>Les opérations standardisées d'économies d'énergie</div>
+            <div>Code du bâtiment technique (CTE)</div>
             <div>
-              El Plan Nacional Integrado de Energía y Clima 2021-2030 (PNIEC)
+              Plan national énergie - climat intégré (PNEC) pour la période
+              2021-203
             </div>
           </div>
         </div>
