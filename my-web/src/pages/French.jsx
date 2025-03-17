@@ -146,14 +146,14 @@ function French() {
               qualité des produits existants.
             </p>
             <p className="list-item list-inside p-2">
-              Creation et maintenance des enregistrements de données pour
-              permettre aux opérations d'évaluer en temps voulu les documents
-              globales.
-            </p>
-            <p className="list-item list-inside p-2">
               Promouvoir la participation des employés aux initiatives
               d’amélioration de la qualité en élaborant des politiques, des
               procédures et des méthodes.
+            </p>
+            <p className="list-item list-inside p-2">
+              Creation et maintenance des enregistrements de données pour
+              permettre aux opérations d'évaluer en temps voulu les documents
+              globales.
             </p>
             <p className="list-item list-inside p-2">
               Garantir l’efficacité et la conformité du système de

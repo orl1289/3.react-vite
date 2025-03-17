@@ -145,14 +145,14 @@ function Home() {
               los productos existentes.
             </p>
             <p className="list-item list-inside p-2">
-              Creación y manteniminto de registros de datos para permitir a las
-              operaciones, la evaluación y valoración oportuna de documentos
-              globales.
-            </p>
-            <p className="list-item list-inside p-2">
               Promuevo la participación de los empleados en las iniciativas de
               mejora de la calidad, mediante el desarrollo de políticas,
               procedimientos y métodos.
+            </p>
+            <p className="list-item list-inside p-2">
+              Gestiono la creación y mantenimiento de registros de datos para permitir a las
+              operaciones, la evaluación y valoración oportuna de documentos
+              globales.
             </p>
             <p className="list-item list-inside p-2">
               Garantizo que el sistema de documentación sea eficaz y conforme,
