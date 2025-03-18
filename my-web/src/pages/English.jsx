@@ -117,7 +117,7 @@ function English() {
               />
             </svg>
             <h1 className="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
-              Professional Expererience
+              Professional Experience
             </h1>
           </div>
         </div>
