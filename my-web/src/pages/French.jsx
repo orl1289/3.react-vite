@@ -161,6 +161,12 @@ function French() {
               de normes et de règles spécifiques.
             </p>
             <p className="list-item list-inside p-2">
+              Soutenir les global Process Owners sur les sujets
+              liés à la documentation, en garantissant le respect des normes de
+              qualité et la conformité avec les procédures de l'entreprise au
+              sein des équipes interfonctionnelles.
+            </p>
+            <p className="list-item list-inside p-2">
               S’assurer que les risques identifiés sont signalés de manière
               appropriée et en temps opportun pour une remédiation immédiate.
             </p>
@@ -183,6 +189,15 @@ function French() {
               Générer des rapports et des mesures qui aident à suivre la
               conformité et l'efficacité des processus et contribuent à
               l'écosystème digitale global avec des solutions à long terme.
+            </p>
+            <p className="list-item list-inside p-2">
+              J'ai développé des connaissances pratiques de la terminologie
+              pharmaceutique, des procédures opérationnelles standard (SOP),
+              International Council for Harmonisation (ICH), des bonnes
+              pratiques de fabrication (GMP), des exigences réglementaires
+              applicables, des processus de gestion de la qualité, y compris la
+              connaissance des réglementations nationales et internationales et
+              des processus de développement de médicaments.
             </p>
           </div>
         </div>

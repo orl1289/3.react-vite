@@ -150,14 +150,20 @@ function Home() {
               procedimientos y métodos.
             </p>
             <p className="list-item list-inside p-2">
-              Gestiono la creación y mantenimiento de registros de datos para permitir a las
-              operaciones, la evaluación y valoración oportuna de documentos
-              globales.
+              Gestiono la creación y mantenimiento de registros de datos para
+              permitir a las operaciones, la evaluación y valoración oportuna de
+              documentos globales.
             </p>
             <p className="list-item list-inside p-2">
               Garantizo que el sistema de documentación sea eficaz y conforme,
               con usuarios y aprobaciones que se adhieren a estándares y reglas
               específicas.
+            </p>
+            <p className="list-item list-inside p-2">
+              Brindo apoyo a los propietarios de procesos globales en temas
+              relacionados con la documentación, garantizando el cumplimiento de
+              los estándares de calidad y la alineación con los procedimientos
+              corporativos en equipos multifuncionales.
             </p>
             <p className="list-item list-inside p-2">
               Aseguro que los riesgos identificados se escalen de manera
@@ -182,6 +188,14 @@ function Home() {
               Genero informes y métricas que ayudan a realizar un seguimiento
               del cumplimiento y la eficiencia de los procesos y contribuyan al
               ecosistema digital general con soluciones a largo plazo.
+            </p>
+            <p className="list-item list-inside p-2">
+              Aplico conocimiento práctico de la terminología farmacéutica, los
+              Procedimientos Operativos Estándar (SOP),International Council for
+              Harmonisation (ICH), las Buenas Prácticas de Manufactura (GMP),
+              requisitos regulatorios aplicables, los procesos de gestión de
+              calidad, incluyendo el conocimiento de las regulaciones nacionales
+              e internacionales y los procesos de desarrollo de fármacos.
             </p>
           </div>
         </div>

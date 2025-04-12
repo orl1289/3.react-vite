@@ -159,6 +159,11 @@ function English() {
               with users and approvals adhering to standards and specific rules.
             </p>
             <p className="list-item list-inside p-2">
+              Support global Process Owners on documentation-related topics,
+              ensuring compliance with quality standards and alignment with
+              corporate procedures across cross-functional teams.
+            </p>
+            <p className="list-item list-inside p-2">
               Ensure that identified risks are appropriately and timely
               escalated for immediate remediation.
             </p>
@@ -179,6 +184,14 @@ function English() {
               Generate reports and metrics that help track the compliance and
               efficiency of the processes and contribute the overall digital
               ecosystem with long-term solutions.
+            </p>
+            <p className="list-item list-inside p-2">
+              Developed working knowledge of pharma terminology, Standard
+              Operating Procedures (SOPs), International Conference on
+              Harmonization (ICH), Good Manufacturing Practices (GMP),applicable
+              regulatory requirements, quality management processes, including
+              knowledge of National and International Regulations and Drug
+              Development processes.
             </p>
           </div>
         </div>
