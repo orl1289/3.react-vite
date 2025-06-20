@@ -125,7 +125,9 @@ function Home() {
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             {" "}
-            <p className="text-violet-950 text-4xl">Global Quality Process</p>
+            <p className="text-violet-950 text-4xl">
+              Global Quality Management Systems
+            </p>
             <p>
               <i>Merck Healthcare</i>
             </p>
@@ -666,6 +668,8 @@ function Home() {
             <div>Autocad (Intermedio)</div>
             <div>Minitab (Intermedio)</div>
             <div>PowerBi (Intermedio)</div>
+            <div>Mango Cara Generis</div>
+            <div>Palantir Foundry</div>
             <div>Matlab</div>
             <div>Oracle People Soft</div>
             <div>Salesforce CRM</div>

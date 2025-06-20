@@ -127,7 +127,9 @@ function English() {
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             {" "}
-            <p className="text-violet-950 text-4xl">Global Quality Process</p>
+            <p className="text-violet-950 text-4xl">
+              Global Quality Management Systems
+            </p>
             <p>
               <i>Merck Healthcare</i>
             </p>
@@ -599,7 +601,8 @@ function English() {
             <div>Analytical</div>
             <div>Collaborative team player</div>
             <div>Team work</div>
-            <div>Costumer focused</div>
+            <div>Agile mindset</div>
+            <div>Costumer-focused</div>
             <div>Self-motivated</div>
             <div>QMS/PQS</div>
             <div>Planner and conceptualizer</div>
@@ -608,7 +611,8 @@ function English() {
             <div>Attentive to detail</div>
             <div>Good listener</div>
             <div>Deadline conscious</div>
-            <div>Adaptable</div>
+            <div>Adaptability</div>
+            <div>Organizational skills</div>
             <div>Troubleshooter</div>
             <div>Process-oriented</div>
             <div>Entrepreneurial</div>
@@ -649,6 +653,8 @@ function English() {
             <div>Matlab</div>
             <div>Minitab </div>
             <div>PowerBi </div>
+            <div>Mango Cara Generis</div>
+            <div>Palantir Foundry</div>
             <div>Oracle People Soft</div>
             <div>Salesforce CRM</div>
             <div>OnBase ECM</div>

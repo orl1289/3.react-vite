@@ -125,7 +125,9 @@ function French() {
         <div className="text-primary-600 text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             {" "}
-            <p className="text-violet-950 text-4xl">Global Quality Process</p>
+            <p className="text-violet-950 text-4xl">
+              Global Quality Management Systems
+            </p>
             <p>
               <i>Merck Healthcare</i>
             </p>
@@ -161,10 +163,10 @@ function French() {
               de normes et de règles spécifiques.
             </p>
             <p className="list-item list-inside p-2">
-              Soutenir les global Process Owners sur les sujets
-              liés à la documentation, en garantissant le respect des normes de
-              qualité et la conformité avec les procédures de l'entreprise au
-              sein des équipes interfonctionnelles.
+              Soutenir les global Process Owners sur les sujets liés à la
+              documentation, en garantissant le respect des normes de qualité et
+              la conformité avec les procédures de l'entreprise au sein des
+              équipes interfonctionnelles.
             </p>
             <p className="list-item list-inside p-2">
               S’assurer que les risques identifiés sont signalés de manière
@@ -660,6 +662,8 @@ function French() {
             <div>Matlab</div>
             <div>Minitab </div>
             <div>PowerBi </div>
+            <div>Mango Cara Generis</div>
+            <div>Palantir Foundry</div>
             <div>Oracle People Soft</div>
             <div>Salesforce CRM</div>
             <div>OnBase ECM</div>
