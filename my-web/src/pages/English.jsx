@@ -188,12 +188,16 @@ function English() {
               ecosystem with long-term solutions.
             </p>
             <p className="list-item list-inside p-2">
-              Developed working knowledge of pharma terminology, Standard
-              Operating Procedures (SOPs), International Conference on
-              Harmonization (ICH), Good Manufacturing Practices (GMP),applicable
-              regulatory requirements, quality management processes, including
-              knowledge of National and International Regulations and Drug
-              Development processes.
+              Developed excellent practical expertise of pharma terminology and Good
+              Manufacturing Practices (GMP), applicable regulatory requirements
+              such as FDA 21 CFR Part 820, ICH Q7, ICH Q9, ICH Q10, and quality
+              management processes (Deviations, CAPA, Change Control).
+            </p>
+            <p className="list-item list-inside p-2">
+              Familiarity with somatropin recombinant DNA biotechnology and its
+              manufacturing processes (upstream and downstream), its critical
+              quality attributes, cell culture media and single-use
+              technologies.
             </p>
           </div>
         </div>
