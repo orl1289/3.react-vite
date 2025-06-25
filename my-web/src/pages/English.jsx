@@ -188,10 +188,11 @@ function English() {
               ecosystem with long-term solutions.
             </p>
             <p className="list-item list-inside p-2">
-              Developed excellent practical expertise of pharma terminology and Good
-              Manufacturing Practices (GMP), applicable regulatory requirements
-              such as FDA 21 CFR Part 820, ICH Q7, ICH Q9, ICH Q10, and quality
-              management processes (Deviations, CAPA, Change Control).
+              Developed excellent practical expertise of pharma terminology and
+              Good Manufacturing Practices (GMP), applicable regulatory
+              requirements such as FDA 21 CFR Part 820, ICH Q7, ICH Q9, ICH Q10,
+              and quality management processes (Deviations, CAPA, Change
+              Control).
             </p>
             <p className="list-item list-inside p-2">
               Familiarity with somatropin recombinant DNA biotechnology and its
