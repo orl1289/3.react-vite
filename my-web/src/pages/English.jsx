@@ -15,7 +15,7 @@ function English() {
         <div className="text-center text-[0.6rem] tablet:text-base laptop:text-xl">
           <h1 className="font-bold bg-gradient-to-br from-blue-700 to-green-400 bg-clip-text text-transparent box-decoration-clone">
             <span className="leading-normal">
-              <p>Orlando Mata Monge</p>
+              <p>Eng. Orlando Mata Monge</p>
               <p>Chemical Engineer</p>
               <p>Energy and Sustainability Master's Degree</p>
             </span>
@@ -675,7 +675,6 @@ function English() {
             <div>Cloud Services</div>
             <div>AWS Cloud Practitioner</div>
             <div>Amazon QuickSight</div>
-            <div>Uptimizer Foundry</div>
           </div>
           <h3 className="font-semibold p-2 text-2xl tablet:text-2xl laptop:text-3xl">
             {" "}
@@ -700,8 +699,8 @@ function English() {
             Legislative Framework
           </h3>
           <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
-            <div>ISO 9001/2015</div>
-            <div>ISO 13485</div>
+            <div>ISO 9001:2015</div>
+            <div>ISO 13485:2016</div>
             <div>EUDRALEX</div>
             <div>Basic Document on Energy Saving (CTE-DB-HE)</div>
             <div>Technical Building Code</div>

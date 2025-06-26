@@ -193,13 +193,16 @@ function French() {
               l'écosystème digitale global avec des solutions à long terme.
             </p>
             <p className="list-item list-inside p-2">
-              J'ai développé des connaissances pratiques de la terminologie
-              pharmaceutique, des procédures opérationnelles standard (SOP),
-              International Council for Harmonisation (ICH), des bonnes
-              pratiques de fabrication (GMP), des exigences réglementaires
-              applicables, des processus de gestion de la qualité, y compris la
-              connaissance des réglementations nationales et internationales et
-              des processus de développement de médicaments.
+              Preuve d'une excellente expérience pratique en terminologie
+              pharmaceutique et en bonnes pratiques de fabrication (BPF),
+              exigences réglementaires applicables telles que FDA 21 CFR Part
+              820, ICH Q7, ICH Q9, ICH Q10 et processus de gestion de la qualité
+              (écarts, CAPA, contrôle des changements).
+            </p>{" "}
+            <p className="list-item list-inside p-2">
+              Connaissance de la biotechnologie de l'ADN somatropine
+              recombinante et de ses processus de fabrication (upstream et downstream), des attributs de qualité critiques, des milieux de culture
+              cellulaire et des technologies à usage unique.
             </p>
           </div>
         </div>
@@ -702,8 +705,8 @@ function French() {
             Cadre législatif
           </h3>
           <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
-            <div>ISO 9001/2015</div>
-            <div>ISO 13485</div>
+            <div>ISO 9001:2015</div>
+            <div>ISO 13485:2016</div>
             <div>EUDRALEX</div>
             <div>Les opérations standardisées d'économies d'énergie</div>
             <div>Code du bâtiment technique (CTE)</div>

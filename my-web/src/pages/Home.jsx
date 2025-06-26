@@ -192,12 +192,17 @@ function Home() {
               ecosistema digital general con soluciones a largo plazo.
             </p>
             <p className="list-item list-inside p-2">
-              Aplico conocimiento práctico de la terminología farmacéutica, los
-              Procedimientos Operativos Estándar (SOP),International Council for
-              Harmonisation (ICH), las Buenas Prácticas de Manufactura (GMP),
-              requisitos regulatorios aplicables, los procesos de gestión de
-              calidad, incluyendo el conocimiento de las regulaciones nacionales
-              e internacionales y los procesos de desarrollo de fármacos.
+              Competencias y experiencia práctica en terminología
+              farmacéutica y Buenas Prácticas de Fabricación (GMP), requisitos
+              regulatorios aplicables como FDA 21 CFR Parte 820, ICH Q7, ICH Q9,
+              ICH Q10 y procesos de gestión de calidad (desviaciones, CAPA,
+              control de cambios).
+            </p>
+            <p className="list-item list-inside p-2">
+              Familiaridad con la biotecnología del ADN recombinante de
+              somatropina y sus procesos de fabricación (ascendentes y
+              descendentes), sus atributos de calidad críticos, medios de
+              cultivo celular y tecnologías de un solo uso.
             </p>
           </div>
         </div>
@@ -711,8 +716,8 @@ function Home() {
             Marco Legislativo
           </h3>
           <div className="text-xl grid tablet:text-2xl tablet:grid-cols-3">
-            <div>ISO 9001/2015</div>
-            <div>ISO 13485</div>
+            <div>ISO 9001:2015</div>
+            <div>ISO 13485:2016</div>
             <div>EUDRALEX</div>
             <div>Documento Básico para el Ahorro de Energía</div>
             <div>Código Técnico de la Edificación</div>
