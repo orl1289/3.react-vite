@@ -140,22 +140,23 @@ function English() {
 
           <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
             <p className="list-item list-inside p-2">
-              Facilitates commercial supplier control processes in alignment
+              Support commercial supplier quality control processes in alignment
               with Abbott’s quality systems and regulatory procedures for
-              molecular diagnostics products.
+              Molecular Diagnostics commercial affiliates in EMEA and LATAM
+              regions, for IVD products.
             </p>
             <p className="list-item list-inside p-2">
-              Support and document periodic supplier performance reviews and
-              metrics, to initiate required re-evaluations or action plans
+              Manage and build periodic supplier performance reviews and
+              metrics, to initiate required re-evaluations or action plans on a
+              timely manner.
+            </p>
+            <p className="list-item list-inside p-2">
+              Assist in implementation plans for CAPAs, effectiveness checks and
+              quality projects to address nonconformance events.
             </p>
             <p className="list-item list-inside p-2">
               Coordinate audits for the assessment of supplier’s quality systems
               and translated these in written quality agreements.
-            </p>
-            <p className="list-item list-inside p-2">
-              Tracks and documents periodic supplier performance reviews,
-              generating detailed evaluation reports with performance metrics to
-              support strategic sourcing decisions.
             </p>
             <p className="list-item list-inside p-2">
               Assessing training needs and supporting the management,
@@ -163,9 +164,9 @@ function English() {
               SmartSolve by.
             </p>
             <p className="list-item list-inside p-2">
-              Coordinates and manages document change control processes,
-              including training evaluations, and supporting documentation for
-              regulatory and quality impact assessments in SmartSolve eQMS.
+              Organize document change control processes, including training
+              evaluations, and supporting documentation for regulatory and
+              quality impact assessments in SmartSolve eQMS.
             </p>
             <p className="list-item list-inside p-2">
               Coordinate audits for the assessment of suppliers and affiliates
@@ -183,12 +184,12 @@ function English() {
               SmartSolve eQMS.
             </p>
             <p className="list-item list-inside p-2">
-              • Conducted and supported Supplier Self Assessments (SSA), onsite
+              Conducted and supported Supplier Self Assessments (SSA), onsite
               audits, remote audits, and re evaluation activities following
               Supplier Risk Matrix requirements.
             </p>
             <p className="list-item list-inside p-2">
-              8. Ensured effective training evaluation by assessing the
+              Ensured effective training evaluation by assessing the
               significance of document changes, determining training
               requirements, and initiating Training Change Requests as needed. .
             </p>
