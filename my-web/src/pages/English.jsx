@@ -128,6 +128,77 @@ function English() {
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             {" "}
             <p className="text-violet-950 text-4xl">
+              Commercial & Distribution Quality Assurance
+            </p>
+            <p>
+              <i>Abbott Laboratories</i>
+            </p>
+            <p>
+              <i> August 2025 - Currently - (Madrid, Spain)</i>
+            </p>
+          </h2>
+
+          <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
+            <p className="list-item list-inside p-2">
+              Facilitates commercial supplier control processes in alignment
+              with Abbott’s quality systems and regulatory procedures for
+              molecular diagnostics products.
+            </p>
+            <p className="list-item list-inside p-2">
+              Support and document periodic supplier performance reviews and
+              metrics, to initiate required re-evaluations or action plans
+            </p>
+            <p className="list-item list-inside p-2">
+              Coordinate audits for the assessment of supplier’s quality systems
+              and translated these in written quality agreements.
+            </p>
+            <p className="list-item list-inside p-2">
+              Tracks and documents periodic supplier performance reviews,
+              generating detailed evaluation reports with performance metrics to
+              support strategic sourcing decisions.
+            </p>
+            <p className="list-item list-inside p-2">
+              Assessing training needs and supporting the management,
+              coordination, and maintenance processes of QA Training in
+              SmartSolve by.
+            </p>
+            <p className="list-item list-inside p-2">
+              Coordinates and manages document change control processes,
+              including training evaluations, and supporting documentation for
+              regulatory and quality impact assessments in SmartSolve eQMS.
+            </p>
+            <p className="list-item list-inside p-2">
+              Coordinate audits for the assessment of suppliers and affiliates
+              quality systems, including audit planning, scope and related
+              documentation.
+            </p>
+            <p className="list-item list-inside p-2">
+              Performs gap assessments to review the compliance against all
+              elements of international standards and norms impacting good
+              distribution practices (GDP).
+            </p>
+            <p className="list-item list-inside p-2">
+              Organize and support change control processes for regulatory
+              changes (EMEA & LATAM) and quality impact assessments in
+              SmartSolve eQMS.
+            </p>
+            <p className="list-item list-inside p-2">
+              • Conducted and supported Supplier Self Assessments (SSA), onsite
+              audits, remote audits, and re evaluation activities following
+              Supplier Risk Matrix requirements.
+            </p>
+            <p className="list-item list-inside p-2">
+              8. Ensured effective training evaluation by assessing the
+              significance of document changes, determining training
+              requirements, and initiating Training Change Requests as needed. .
+            </p>
+          </div>
+        </div>
+        {/* <!-- #1 --> */}
+        <div className="text-center p-4 m-2">
+          <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
+            {" "}
+            <p className="text-violet-950 text-4xl">
               Global Quality Management Systems
             </p>
             <p>
