@@ -159,7 +159,7 @@ function English() {
               and translated these in written quality agreements.
             </p>
             <p className="list-item list-inside p-2">
-              Assessing training needs and supporting the management,
+              Assess training needs and supporting the management,
               coordination, and maintenance processes of QA Training in
               SmartSolve by.
             </p>
@@ -174,7 +174,7 @@ function English() {
               documentation.
             </p>
             <p className="list-item list-inside p-2">
-              Performs gap assessments to review the compliance against all
+              Perform gap assessments to review the compliance against all
               elements of international standards and norms impacting good
               distribution practices (GDP).
             </p>
@@ -184,12 +184,12 @@ function English() {
               SmartSolve eQMS.
             </p>
             <p className="list-item list-inside p-2">
-              Conducted and supported Supplier Self Assessments (SSA), onsite
+              Conduct and supported Supplier Self Assessments (SSA), onsite
               audits, remote audits, and re evaluation activities following
               Supplier Risk Matrix requirements.
             </p>
             <p className="list-item list-inside p-2">
-              Ensured effective training evaluation by assessing the
+              Ensure effective training evaluation by assessing the
               significance of document changes, determining training
               requirements, and initiating Training Change Requests as needed. .
             </p>
