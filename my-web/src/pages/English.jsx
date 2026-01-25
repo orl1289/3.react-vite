@@ -140,38 +140,29 @@ function English() {
 
           <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
             <p className="list-item list-inside p-2">
-              Support commercial supplier quality control processes in alignment
-              with Abbott’s quality systems and regulatory procedures for
-              Molecular Diagnostics commercial affiliates in EMEA and LATAM
-              regions, for IVD products.
+              Support commercial supplier quality control processes for
+              affiliates in EMEA and LATAM regions, in alignment with Abbott’s
+              quality systems and regulatory procedures for Molecular
+              Diagnostics IVD products.
             </p>
             <p className="list-item list-inside p-2">
-              Manage and build periodic supplier performance reviews and
-              metrics, to initiate required re-evaluations or action plans on a
-              timely manner.
+              Manage and build periodic supplier performance reports with
+              metrics for review, to initiate required re-evaluations or action
+              plans on a timely manner.
             </p>
             <p className="list-item list-inside p-2">
               Assist in implementation plans for CAPAs, effectiveness checks and
               quality projects to address nonconformance events.
             </p>
             <p className="list-item list-inside p-2">
-              Coordinate audits for the assessment of supplier’s quality systems
-              and translated these in written quality agreements.
-            </p>
-            <p className="list-item list-inside p-2">
-              Assess training needs and supporting the management,
-              coordination, and maintenance processes of QA Training in
-              SmartSolve by.
-            </p>
-            <p className="list-item list-inside p-2">
-              Organize document change control processes, including training
-              evaluations, and supporting documentation for regulatory and
-              quality impact assessments in SmartSolve eQMS.
-            </p>
-            <p className="list-item list-inside p-2">
-              Coordinate audits for the assessment of suppliers and affiliates
-              quality systems, including audit planning, scope and related
+              Coordinate audits for the assessment of supplier’s quality
+              systems, including audit planning, scope and required
               documentation.
+            </p>
+            <p className="list-item list-inside p-2">
+              Support document change control processes, including the creation
+              of supplementary training material to address regulatory changes
+              and action plans in SmartSolve eQMS.
             </p>
             <p className="list-item list-inside p-2">
               Perform gap assessments to review the compliance against all
@@ -179,23 +170,19 @@ function English() {
               distribution practices (GDP).
             </p>
             <p className="list-item list-inside p-2">
-              Organize and support change control processes for regulatory
-              changes (EMEA & LATAM) and quality impact assessments in
-              SmartSolve eQMS.
+              Collaborate with cross-functional teams (Field Services Management
+              and Commercial ) to ensure compliance with service requirements,
+              spare pare management and third-party services quality
+              requirements.
             </p>
             <p className="list-item list-inside p-2">
-              Conduct and supported Supplier Self Assessments (SSA), onsite
-              audits, remote audits, and re evaluation activities following
-              Supplier Risk Matrix requirements.
-            </p>
-            <p className="list-item list-inside p-2">
-              Ensure effective training evaluation by assessing the
-              significance of document changes, determining training
-              requirements, and initiating Training Change Requests as needed. .
+              Engage with suppliers to gather Supplier Self Assessments (SSA),
+              and ISO standards to verify compliance for re-evaluation
+              activities.
             </p>
           </div>
         </div>
-        {/* <!-- #1 --> */}
+        {/* <!-- #2 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             {" "}
@@ -212,50 +199,50 @@ function English() {
 
           <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
             <p className="list-item list-inside p-2">
-              Act as site lead user for HCQ global functions, enabling diligent
-              management over the documentation lifecycle in the electronic
-              quality management system.
+              Acted as site lead user for HCQ global functions, enabling
+              diligent management over the documentation lifecycle in the
+              electronic quality management system.
             </p>
             <p className="list-item list-inside p-2">
-              Implement programs to maintain quality standards for existing
+              Implemented programs to maintain quality standards for existing
               products.
             </p>
             <p className="list-item list-inside p-2">
-              Promote employee engagement in quality improvement initiatives, by
-              developing policies, procedures, and methods.
+              Promoted employee engagement in quality improvement initiatives,
+              by developing policies, procedures, and methods.
             </p>
             <p className="list-item list-inside p-2">
-              Create and maintain data records to enable operations the on-time
-              assessment and evaluation of global documents.
+              Created and maintained data records to enable operations the
+              on-time assessment and evaluation of global documents.
             </p>
             <p className="list-item list-inside p-2">
-              Guarantee the documentation system is effective and compliant,
+              Guaranteed the documentation system is effective and compliant,
               with users and approvals adhering to standards and specific rules.
             </p>
             <p className="list-item list-inside p-2">
-              Support global Process Owners on documentation-related topics,
+              Supported global Process Owners on documentation-related topics,
               ensuring compliance with quality standards and alignment with
               corporate procedures across cross-functional teams.
             </p>
             <p className="list-item list-inside p-2">
-              Ensure that identified risks are appropriately and timely
+              Ensured that identified risks are appropriately and timely
               escalated for immediate remediation.
             </p>
             <p className="list-item list-inside p-2">
-              Actively identify needs of users, to understand requirements and
+              Actively identified needs of users, to understand requirements and
               translate these into specific actions and workflows.
             </p>
             <p className="list-item list-inside p-2">
-              Provide support to users and follow-up items for effective quality
-              documentation control management process.
+              Provided support to users and follow-up items for effective
+              quality documentation control management process.
             </p>
             <p className="list-item list-inside p-2">
-              Provide training and ensure users are adequately trained, to
+              Provided training and ensured users were adequately trained, to
               foster an informed user base that can effectively navigate the
               eQMS.
             </p>
             <p className="list-item list-inside p-2">
-              Generate reports and metrics that help track the compliance and
+              Generated reports and metrics that helped track the compliance and
               efficiency of the processes and contribute the overall digital
               ecosystem with long-term solutions.
             </p>
@@ -267,15 +254,15 @@ function English() {
               Control).
             </p>
             <p className="list-item list-inside p-2">
-              Familiarity with somatropin recombinant DNA biotechnology and its
-              manufacturing processes (upstream and downstream), its critical
-              quality attributes, cell culture media and single-use
+              Built expertise with somatropin recombinant DNA biotechnology and
+              its manufacturing processes (upstream and downstream), its
+              critical quality attributes, cell culture media and single-use
               technologies.
             </p>
           </div>
         </div>
 
-        {/* <!-- #2 --> */}
+        {/* <!-- #3 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             <p className="text-violet-950 text-4xl">Engineering Intern</p>
@@ -305,7 +292,7 @@ function English() {
             </p>
           </div>
         </div>
-        {/* < />!-- #3 --> */}
+        {/* < />!-- #4 --> */}
         <div className="text-primary-600 text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             <p className="text-violet-950 text-4xl">
@@ -369,7 +356,7 @@ function English() {
             </p>
           </div>
         </div>
-        {/* < />!-- #4 --> */}
+        {/* < />!-- #5 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             <p className="text-violet-950 text-4xl">
@@ -433,7 +420,7 @@ function English() {
             </p>
           </div>
         </div>
-        {/* < />!-- #5 --> */}
+        {/* < />!-- #6 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             <p className="text-violet-950 text-4xl">
@@ -469,7 +456,7 @@ function English() {
             </p>
           </div>
         </div>
-        {/* < />!-- #6 --> */}
+        {/* < />!-- #7 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             <p className="text-violet-950 text-4xl">
@@ -504,7 +491,7 @@ function English() {
             </p>
           </div>
         </div>
-        {/* < />!-- #7 --> */}
+        {/* < />!-- #8 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             <p className="text-violet-950 text-4xl">
