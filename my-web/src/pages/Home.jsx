@@ -120,7 +120,66 @@ function Home() {
           </div>
         </div>
         {/* <!-- Edit Experience  --> */}
+        {/* <!-- #1 --> */}
+        <div className="text-center p-4 m-2">
+          <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
+            {" "}
+            <p className="text-violet-950 text-4xl">
+              Commercial & Distribution Quality Assurance
+            </p>
+            <p>
+              <i>Abbott Laboratories</i>
+            </p>
+            <p>
+              <i> Agosto 2025 - Actualmente - (Madrid, España)</i>
+            </p>
+          </h2>
 
+          <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
+            <p className="list-item list-inside p-2">
+              Apoyo los procesos de control de calidad de proveedores
+              comerciales para filiales en las regiones EMEA y LATAM, en
+              consonancia con los sistemas de calidad y los procedimientos
+              regulatorios de Abbott para productos IVD Molecular Diagnostics.
+            </p>
+            <p className="list-item list-inside p-2">
+              Gestiono y elaboro informes periódicos de rendimiento de
+              proveedores con métricas para su revisión, a fin de iniciar las
+              reevaluaciones o planes de acción necesarios de manera oportuna.
+            </p>
+            <p className="list-item list-inside p-2">
+              Asisto en la implementación de planes CAPA, chequeos de
+              efectividad y proyectos de calidad para abordar no conformidades.
+            </p>
+            <p className="list-item list-inside p-2">
+              Coordino auditorías para la evaluación de los sistemas de calidad
+              de los proveedores, incluyendo la planificación, la definición del alcance y la
+              documentación requerida.
+            </p>
+            <p className="list-item list-inside p-2">
+              Apoyo los procesos de control de cambios en la documentación,
+              incluyendo la creación de material de capacitación complementario
+              para abordar los cambios regulatorios y los planes de acción en
+              SmartSolve eQMS.
+            </p>
+            <p className="list-item list-inside p-2">
+              Realizo evaluaciones de brechas para revisar el cumplimiento de
+              todos los elementos de las normas y estándares internacionales que
+              afectan a las buenas prácticas de distribución (BDP).
+            </p>
+            <p className="list-item list-inside p-2">
+              Colaboro con equipos multifuncionales (Gestión de Servicios de
+              Campo y Comercial) para garantizar el cumplimiento de los
+              requisitos de servicio, la gestión de repuestos y los requisitos
+              de calidad de los servicios de terceros.
+            </p>
+            <p className="list-item list-inside p-2">
+              Coordino con los proveedores para recopilar autoevaluaciones de
+              proveedores (SSA) y normas ISO para verificar el cumplimiento de
+              las actividades de reevaluación.
+            </p>
+          </div>
+        </div>
         {/* <!-- #1 --> */}
         <div className="text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
@@ -192,11 +251,11 @@ function Home() {
               ecosistema digital general con soluciones a largo plazo.
             </p>
             <p className="list-item list-inside p-2">
-              Competencias y experiencia práctica en terminología
-              farmacéutica y Buenas Prácticas de Fabricación (GMP), requisitos
-              regulatorios aplicables como FDA 21 CFR Parte 820, ICH Q7, ICH Q9,
-              ICH Q10 y procesos de gestión de calidad (desviaciones, CAPA,
-              control de cambios).
+              Competencias y experiencia práctica en terminología farmacéutica y
+              Buenas Prácticas de Fabricación (GMP), requisitos regulatorios
+              aplicables como FDA 21 CFR Parte 820, ICH Q7, ICH Q9, ICH Q10 y
+              procesos de gestión de calidad (desviaciones, CAPA, control de
+              cambios).
             </p>
             <p className="list-item list-inside p-2">
               Familiaridad con la biotecnología del ADN recombinante de
