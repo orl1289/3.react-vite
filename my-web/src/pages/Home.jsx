@@ -143,6 +143,11 @@ function Home() {
               regulatorios de Abbott para productos IVD Molecular Diagnostics.
             </p>
             <p className="list-item list-inside p-2">
+              Coordino auditorías para la evaluación de los sistemas de calidad
+              de los proveedores, incluyendo la planificación, la definición del
+              alcance y la documentación requerida.
+            </p>
+            <p className="list-item list-inside p-2">
               Gestiono y elaboro informes periódicos de rendimiento de
               proveedores con métricas para su revisión, a fin de iniciar las
               reevaluaciones o planes de acción necesarios de manera oportuna.
@@ -151,27 +156,24 @@ function Home() {
               Asisto en la implementación de planes CAPA, chequeos de
               efectividad y proyectos de calidad para abordar no conformidades.
             </p>
+
             <p className="list-item list-inside p-2">
-              Coordino auditorías para la evaluación de los sistemas de calidad
-              de los proveedores, incluyendo la planificación, la definición del alcance y la
-              documentación requerida.
-            </p>
-            <p className="list-item list-inside p-2">
-              Apoyo los procesos de control de cambios en la documentación,
-              incluyendo la creación de material de capacitación complementario
-              para abordar los cambios regulatorios y los planes de acción en
+              Apoyo y documento los procesos de control de cambios, incluyendo
+              la creación de material de capacitación complementario para
+              abordar los cambios regulatorios y los planes de acción en
               SmartSolve eQMS.
             </p>
             <p className="list-item list-inside p-2">
-              Realizo evaluaciones de brechas para revisar el cumplimiento de
-              todos los elementos de las normas y estándares internacionales que
+              Realizo "gap assessments" para revisar el cumplimiento de todos
+              los elementos de las normas y estándares internacionales que
               afectan a las buenas prácticas de distribución (BDP).
             </p>
             <p className="list-item list-inside p-2">
-              Colaboro con equipos multifuncionales (Gestión de Servicios de
-              Campo y Comercial) para garantizar el cumplimiento de los
-              requisitos de servicio, la gestión de repuestos y los requisitos
-              de calidad de los servicios de terceros.
+              Colaboro con equipos multifuncionales (Global Services Support,
+              Service Compliance, and Commercial) para garantizar el
+              cumplimiento de los requisitos de servicio, la gestión de
+              repuestos y los requisitos de calidad de los servicios de
+              terceros.
             </p>
             <p className="list-item list-inside p-2">
               Coordino con los proveedores para recopilar autoevaluaciones de

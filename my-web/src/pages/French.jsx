@@ -121,6 +121,68 @@ function French() {
           </div>
         </div>
         {/* < />!-- Edit Experience  --> */}
+        {/* <!-- #1 --> */}
+        <div className="text-center p-4 m-2">
+          <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
+            {" "}
+            <p className="text-violet-950 text-4xl">
+              Commercial & Distribution Quality Assurance
+            </p>
+            <p>
+              <i>Abbott Laboratories</i>
+            </p>
+            <p>
+              <i> Août 2025 - Actuellement - (Madrid, Espagne)</i>
+            </p>
+          </h2>
+
+          <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
+            <p className="list-item list-inside p-2">
+              Apporte un soutien aux produits de diagnostic moléculaire IVD et
+              aux processus de contrôle qualité des fournisseurs commerciaux des
+              filiales des régions EMEA et LATAM, conformément aux systèmes
+              qualité et aux procédures réglementaires d'Abbott.
+            </p>
+            <p className="list-item list-inside p-2">
+              Coordonne les audits d'évaluation des systèmes qualité des
+              fournisseurs, notamment la planification, l'ordre du jour, le
+              périmètre et la documentation requise.
+            </p>
+            <p className="list-item list-inside p-2">
+              Gére et élabore des rapports périodiques sur la performance des
+              fournisseurs, incluant des indicateurs de performance, afin de
+              déclencher rapidement les réévaluations ou les plans d'action
+              nécessaires.
+            </p>
+            <p className="list-item list-inside p-2">
+              Contribue à la mise en œuvre des plans d'actions correctives et
+              préventives (CAPA), des contrôles d'efficacité et des projets
+              qualité visant à traiter les non-conformités.
+            </p>
+            <p className="list-item list-inside p-2">
+              Soutenir et documenter les processus de gestion des changements,
+              notamment la création de supports de formation complémentaires
+              pour intégrer les évolutions réglementaires et les plans d'action
+              dans SmartSolve eQMS.
+            </p>
+            <p className="list-item list-inside p-2">
+              Collabore avec les équipes transversales (Support des Services
+              Mondiaux, Conformité des Services et Commercial) pour garantir la
+              conformité aux exigences de qualité en matière de gestion des
+              pièces détachées et des services tiers.
+            </p>
+            <p className="list-item list-inside p-2">
+              Réalise des analyses d'écart pour vérifier la conformité aux
+              normes et standards internationaux ayant un impact sur les bonnes
+              pratiques de distribution (BPD).
+            </p>
+            <p className="list-item list-inside p-2">
+              Collabore avec les fournisseurs pour recueillir les
+              auto-évaluations des fournisseurs (SSA) et les normes ISO afin de
+              vérifier la conformité aux activités de réévaluation.
+            </p>
+          </div>
+        </div>
         {/* < />!-- #1 --> */}
         <div className="text-primary-600 text-center p-4 m-2">
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
@@ -138,57 +200,56 @@ function French() {
 
           <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
             <p className="list-item list-inside p-2">
-              Agir en tant qu'utilisateur principal pour les fonctions globales
+              Agit en tant qu'utilisateur principal pour les fonctions globales
               de HCQ, permettant une gestion diligente du cycle de vie de la
               documentation dans le système électronique de gestion de la
               qualité.
             </p>
             <p className="list-item list-inside p-2">
-              Mettre en œuvre des programmes visant à maintenir les normes de
+              Mis en œuvre des programmes visant à maintenir les normes de
               qualité des produits existants.
             </p>
             <p className="list-item list-inside p-2">
-              Promouvoir la participation des employés aux initiatives
+              Promus la participation des employés aux initiatives
               d’amélioration de la qualité en élaborant des politiques, des
               procédures et des méthodes.
             </p>
             <p className="list-item list-inside p-2">
-              Creation et maintenance des enregistrements de données pour
-              permettre aux opérations d'évaluer en temps voulu les documents
-              globales.
+              Creé et document des enregistrements de données pour permettre aux
+              opérations d'évaluer en temps voulu les documents globales.
             </p>
             <p className="list-item list-inside p-2">
-              Garantir l’efficacité et la conformité du système de
-              documentation, avec utilisateurs et homologations dans le respect
-              de normes et de règles spécifiques.
+              Garanti l’efficacité et la conformité du système de documentation,
+              avec utilisateurs et homologations dans le respect de normes et de
+              règles spécifiques.
             </p>
             <p className="list-item list-inside p-2">
-              Soutenir les global Process Owners sur les sujets liés à la
+              Soutenu les global Process Owners sur les sujets liés à la
               documentation, en garantissant le respect des normes de qualité et
               la conformité avec les procédures de l'entreprise au sein des
               équipes interfonctionnelles.
             </p>
             <p className="list-item list-inside p-2">
-              S’assurer que les risques identifiés sont signalés de manière
+              Assuré que les risques identifiés sont signalés de manière
               appropriée et en temps opportun pour une remédiation immédiate.
             </p>
             <p className="list-item list-inside p-2">
-              Identifier activement les besoins des utilisateurs, comprendre les
+              Identifié activement les besoins des utilisateurs, comprendre les
               exigences et les traduire en actions et flux de travail
               spécifiques.
             </p>
             <p className="list-item list-inside p-2">
-              Fournir un soutien aux utilisateurs et des éléments de suivi pour
+              Fournit un soutien aux utilisateurs et des éléments de suivi pour
               un processus efficace de contrôle de la documentation de qualité
               et de gestion des dossiers.
             </p>
             <p className="list-item list-inside p-2">
-              Assurer la formation et s'assurer que les utilisateurs sont
+              Assuré la formation et s'assurer que les utilisateurs sont
               correctement formés, afin de favoriser une base d'utilisateurs
               informés qui peuvent naviguer efficacement dans l'eQMS.
             </p>
             <p className="list-item list-inside p-2">
-              Générer des rapports et des mesures qui aident à suivre la
+              Généré des rapports et des mesures qui aident à suivre la
               conformité et l'efficacité des processus et contribuent à
               l'écosystème digitale global avec des solutions à long terme.
             </p>
@@ -201,8 +262,9 @@ function French() {
             </p>{" "}
             <p className="list-item list-inside p-2">
               Connaissance de la biotechnologie de l'ADN somatropine
-              recombinante et de ses processus de fabrication (upstream et downstream), des attributs de qualité critiques, des milieux de culture
-              cellulaire et des technologies à usage unique.
+              recombinante et de ses processus de fabrication (upstream et
+              downstream), des attributs de qualité critiques, des milieux de
+              culture cellulaire et des technologies à usage unique.
             </p>
           </div>
         </div>

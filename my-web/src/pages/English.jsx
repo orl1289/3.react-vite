@@ -160,7 +160,7 @@ function English() {
               quality projects to address nonconformance events.
             </p>
             <p className="list-item list-inside p-2">
-              Support anddocument change control processes, including the
+              Support and document change control processes, including the
               creation of supplementary training material to address regulatory
               changes and action plans in SmartSolve eQMS.
             </p>
