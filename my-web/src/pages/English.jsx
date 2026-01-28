@@ -140,10 +140,15 @@ function English() {
 
           <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
             <p className="list-item list-inside p-2">
-              Support commercial supplier quality control processes for
-              affiliates in EMEA and LATAM regions, in alignment with Abbott’s
-              quality systems and regulatory procedures for Molecular
-              Diagnostics IVD products.
+              Support Molecular Diagnostics IVD products and its commercial
+              supplier quality control processes for affiliates in EMEA and
+              LATAM regions, in alignment with Abbott’s quality systems and
+              regulatory procedures.
+            </p>
+            <p className="list-item list-inside p-2">
+              Coordinate audits for the assessment of supplier’s quality
+              systems, including audit planning, agenda, scope and required
+              audit documentation.
             </p>
             <p className="list-item list-inside p-2">
               Manage and build periodic supplier performance reports with
@@ -155,25 +160,19 @@ function English() {
               quality projects to address nonconformance events.
             </p>
             <p className="list-item list-inside p-2">
-              Coordinate audits for the assessment of supplier’s quality
-              systems, including audit planning, scope and required
-              documentation.
+              Support anddocument change control processes, including the
+              creation of supplementary training material to address regulatory
+              changes and action plans in SmartSolve eQMS.
             </p>
             <p className="list-item list-inside p-2">
-              Support document change control processes, including the creation
-              of supplementary training material to address regulatory changes
-              and action plans in SmartSolve eQMS.
+              Collaborate with cross-functional teams (Global Services Support,
+              Service Compliance, and Commercial) to ensure compliance with spare pare management and third-party
+              services quality requirements.
             </p>
             <p className="list-item list-inside p-2">
               Perform gap assessments to review the compliance against all
               elements of international standards and norms impacting good
               distribution practices (GDP).
-            </p>
-            <p className="list-item list-inside p-2">
-              Collaborate with cross-functional teams (Field Services Management
-              and Commercial ) to ensure compliance with service requirements,
-              spare pare management and third-party services quality
-              requirements.
             </p>
             <p className="list-item list-inside p-2">
               Engage with suppliers to gather Supplier Self Assessments (SSA),
