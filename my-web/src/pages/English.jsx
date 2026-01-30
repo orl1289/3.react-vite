@@ -156,18 +156,26 @@ function English() {
               plans on a timely manner.
             </p>
             <p className="list-item list-inside p-2">
-              Assist in implementation plans for CAPAs, effectiveness checks and
-              quality projects to address nonconformance events.
+              Assist in collecting and analyzing data from traceable quality
+              records for implementation plans and effectiveness checks for
+              CAPAs, to address nonconformance events.
             </p>
             <p className="list-item list-inside p-2">
-              Support and document change control processes, including the
-              creation of supplementary training material to address regulatory
-              changes and action plans in SmartSolve eQMS.
+              Engage in quality projects plans to drive continous improvement,
+              in accordance with quality processes for elements related to
+              quality objectives, regulatory implementations, control of records and KPIs.
+            </p>
+
+            <p className="list-item list-inside p-2">
+              Ensure change control packages are initiated appropriately, and
+              confirm the assembly of information, documents and forms is
+              complete and comprehensive in SmartSolve eQMS.
             </p>
             <p className="list-item list-inside p-2">
               Collaborate with cross-functional teams (Global Services Support,
-              Service Compliance, and Commercial) to ensure compliance with spare pare management and third-party
-              services quality requirements.
+              Service Compliance, and Commercial) to ensure compliance with
+              spare part management and third-party services quality
+              requirements.
             </p>
             <p className="list-item list-inside p-2">
               Perform gap assessments to review the compliance against all

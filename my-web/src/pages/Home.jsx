@@ -153,15 +153,22 @@ function Home() {
               reevaluaciones o planes de acción necesarios de manera oportuna.
             </p>
             <p className="list-item list-inside p-2">
-              Asisto en la implementación de planes CAPA, chequeos de
-              efectividad y proyectos de calidad para abordar no conformidades.
+              Asisto en la recopilación y el análisis de datos de registros de
+              calidad trazables para la implementación de planes y chequeos de
+              efectividad de CAPAs, con el fin de abordar las no conformidades.
             </p>
-
             <p className="list-item list-inside p-2">
-              Apoyo y documento los procesos de control de cambios, incluyendo
-              la creación de material de capacitación complementario para
-              abordar los cambios regulatorios y los planes de acción en
-              SmartSolve eQMS.
+              Participo en la planificación de proyectos de calidad para
+              impulsar la mejora continua, de acuerdo con los procesos de
+              calidad para elementos relacionados con los objetivos de calidad,
+              la implementación de normativas, el control de registros y los
+              KPI.
+            </p>
+            <p className="list-item list-inside p-2">
+              Garantizo que los paquetes de control de cambios se inicien
+              correctamente y confirmo que la recopilación de información,
+              documentos y formularios sea completa y exhaustiva en SmartSolve
+              eQMS.
             </p>
             <p className="list-item list-inside p-2">
               Realizo "gap assessments" para revisar el cumplimiento de todos
@@ -176,9 +183,9 @@ function Home() {
               terceros.
             </p>
             <p className="list-item list-inside p-2">
-              Coordino con los proveedores para recopilar autoevaluaciones de
-              proveedores (SSA) y normas ISO para verificar el cumplimiento de
-              las actividades de reevaluación.
+              Facilito la comunicación efectiva con los proveedores para
+              recopilar autoevaluaciones de proveedores (SSA) y normas ISO para
+              verificar el cumplimiento de las actividades de reevaluación.
             </p>
           </div>
         </div>
