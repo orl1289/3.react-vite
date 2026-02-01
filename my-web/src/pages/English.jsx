@@ -153,7 +153,7 @@ function English() {
             <p className="list-item list-inside p-2">
               Manage and build periodic supplier performance reports with
               metrics for review, to initiate required re-evaluations or action
-              plans on a timely manner.
+              plans in a timely manner.
             </p>
             <p className="list-item list-inside p-2">
               Assist in collecting and analyzing data from traceable quality
@@ -163,7 +163,8 @@ function English() {
             <p className="list-item list-inside p-2">
               Engage in quality projects plans to drive continous improvement,
               in accordance with quality processes for elements related to
-              quality objectives, regulatory implementations, control of records and KPIs.
+              quality objectives, regulatory implementations, control of records
+              and KPIs.
             </p>
 
             <p className="list-item list-inside p-2">
@@ -211,8 +212,8 @@ function English() {
               electronic quality management system.
             </p>
             <p className="list-item list-inside p-2">
-              Implemented programs to maintain quality standards for existing
-              products.
+              Implemented programs to maintain quality standards and promote
+              employee engagement in quality improvement initiatives.
             </p>
             <p className="list-item list-inside p-2">
               Promoted employee engagement in quality improvement initiatives,
