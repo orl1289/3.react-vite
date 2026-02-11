@@ -134,57 +134,57 @@ function English() {
               <i>Abbott Laboratories</i>
             </p>
             <p>
-              <i> August 2025 - Currently - (Madrid, Spain)</i>
+              <i> August 2025 - February 2026 - (Madrid, Spain)</i>
             </p>
           </h2>
 
           <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
             <p className="list-item list-inside p-2">
-              Support Molecular Diagnostics IVD products and its commercial
+              Supported Molecular Diagnostics IVD products and its commercial
               supplier quality control processes for affiliates in EMEA and
               LATAM regions, in alignment with Abbott’s quality systems and
               regulatory procedures.
             </p>
             <p className="list-item list-inside p-2">
-              Coordinate audits for the assessment of supplier’s quality
+              Coordinated audits for the assessment of supplier’s quality
               systems, including audit planning, agenda, scope and required
               audit documentation.
             </p>
             <p className="list-item list-inside p-2">
-              Manage and build periodic supplier performance reports with
+              Managed and built periodic supplier performance reports with
               metrics for review, to initiate required re-evaluations or action
               plans in a timely manner.
             </p>
             <p className="list-item list-inside p-2">
-              Assist in collecting and analyzing data from traceable quality
+              Assisted in collecting and analyzing data from traceable quality
               records for implementation plans and effectiveness checks for
               CAPAs, to address nonconformance events.
             </p>
             <p className="list-item list-inside p-2">
-              Engage in quality projects plans to drive continous improvement,
+              Engaged in quality projects plans to drive continous improvement,
               in accordance with quality processes for elements related to
               quality objectives, regulatory implementations, control of records
               and KPIs.
             </p>
 
             <p className="list-item list-inside p-2">
-              Ensure change control packages are initiated appropriately, and
-              confirm the assembly of information, documents and forms is
+              Ensured change control packages were initiated appropriately, and
+              confirmed the assembly of information, documents and forms was
               complete and comprehensive in SmartSolve eQMS.
             </p>
             <p className="list-item list-inside p-2">
-              Collaborate with cross-functional teams (Global Services Support,
+              Collaborated with cross-functional teams (Global Services Support,
               Service Compliance, and Commercial) to ensure compliance with
               spare part management and third-party services quality
               requirements.
             </p>
             <p className="list-item list-inside p-2">
-              Perform gap assessments to review the compliance against all
+              Performed gap assessments to review the compliance against all
               elements of international standards and norms impacting good
               distribution practices (GDP).
             </p>
             <p className="list-item list-inside p-2">
-              Engage with suppliers to gather Supplier Self Assessments (SSA),
+              Engaged with suppliers to gather Supplier Self Assessments (SSA),
               and ISO standards to verify compliance for re-evaluation
               activities.
             </p>

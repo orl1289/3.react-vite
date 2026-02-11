@@ -131,59 +131,59 @@ function Home() {
               <i>Abbott Laboratories</i>
             </p>
             <p>
-              <i> Agosto 2025 - Actualmente - (Madrid, España)</i>
+              <i> Agosto 2025 - Febrero 2026 - (Madrid, España)</i>
             </p>
           </h2>
 
           <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
             <p className="list-item list-inside p-2">
-              Apoyo los procesos de control de calidad de proveedores
+              Apoyé los procesos de control de calidad de proveedores
               comerciales para filiales en las regiones EMEA y LATAM, en
               consonancia con los sistemas de calidad y los procedimientos
               regulatorios de Abbott para productos IVD Molecular Diagnostics.
             </p>
             <p className="list-item list-inside p-2">
-              Coordino auditorías para la evaluación de los sistemas de calidad
+              Coordiné auditorías para la evaluación de los sistemas de calidad
               de los proveedores, incluyendo la planificación, la definición del
               alcance y la documentación requerida.
             </p>
             <p className="list-item list-inside p-2">
-              Gestiono y elaboro informes periódicos de rendimiento de
+              Gestioné y elaboré informes periódicos de rendimiento de
               proveedores con métricas para su revisión, a fin de iniciar las
               reevaluaciones o planes de acción necesarios de manera oportuna.
             </p>
             <p className="list-item list-inside p-2">
-              Asisto en la recopilación y el análisis de datos de registros de
+              Asistí en la recopilación y el análisis de datos de registros de
               calidad trazables para la implementación de planes y chequeos de
               efectividad de CAPAs, con el fin de abordar las no conformidades.
             </p>
             <p className="list-item list-inside p-2">
-              Participo en la planificación de proyectos de calidad para
+              Participé en la planificación de proyectos de calidad para
               impulsar la mejora continua, de acuerdo con los procesos de
               calidad para elementos relacionados con los objetivos de calidad,
               la implementación de normativas, el control de registros y los
               KPI.
             </p>
             <p className="list-item list-inside p-2">
-              Garantizo que los paquetes de control de cambios se inicien
-              correctamente y confirmo que la recopilación de información,
-              documentos y formularios sea completa y exhaustiva en SmartSolve
-              eQMS.
+              Garantizé que los paquetes de control de cambios fueron
+              correctamente iniciados y confirmé la completa y exhaustiva
+              recopilación de información, documentos y formularios en
+              SmartSolve eQMS.
             </p>
             <p className="list-item list-inside p-2">
-              Realizo "gap assessments" para revisar el cumplimiento de todos
+              Realizé "gap assessments" para revisar el cumplimiento de todos
               los elementos de las normas y estándares internacionales que
               afectan a las buenas prácticas de distribución (BDP).
             </p>
             <p className="list-item list-inside p-2">
-              Colaboro con equipos multifuncionales (Global Services Support,
+              Colaboré con equipos multifuncionales (Global Services Support,
               Service Compliance, and Commercial) para garantizar el
               cumplimiento de los requisitos de servicio, la gestión de
               repuestos y los requisitos de calidad de los servicios de
               terceros.
             </p>
             <p className="list-item list-inside p-2">
-              Facilito la comunicación efectiva con los proveedores para
+              Facilité la comunicación efectiva con los proveedores para
               recopilar autoevaluaciones de proveedores (SSA) y normas ISO para
               verificar el cumplimiento de las actividades de reevaluación.
             </p>
