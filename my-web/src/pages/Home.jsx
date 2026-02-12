@@ -36,7 +36,7 @@ function Home() {
                 clip-rule="evenodd"
               />
             </svg>
-            Madrid, 28009
+            Madrid, 28004
           </div>
 
           <div className="flex justify-center items-center">
@@ -90,11 +90,11 @@ function Home() {
 
           <h2 className="text-[1.3rem] p-4 font-semibold list-item list-inside tablet:text-2xl laptop:text-3xl">
             Universidad de Vigo
-            <p className="italic"> Máster en Energía y Sostenibilidad (2023)</p>
+            <p className="italic"> Máster en Energía y Sostenibilidad</p>
           </h2>
           <h2 className="text-[1.3rem] p-4 font-semibold list-item list-inside tablet:text-2xl laptop:text-3xl">
             Universidad de Costa Rica
-            <p className="italic"> Licenciatura en Ingeniería Química (2019)</p>
+            <p className="italic"> Licenciatura en Ingeniería Química</p>
           </h2>
         </div>
 

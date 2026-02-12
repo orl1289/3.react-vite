@@ -37,7 +37,7 @@ function English() {
                 clip-rule="evenodd"
               />
             </svg>
-            Madrid, 28009
+            Madrid, 28004
           </div>
           <div className="flex justify-center items-center">
             <svg
@@ -91,12 +91,12 @@ function English() {
             University of Vigo
             <p className="italic">
               {" "}
-              Energy and Sustainability Master's Degree (2023)
+              Energy and Sustainability Master's Degree
             </p>
           </h2>
           <h2 className="text-[1.3rem] p-4 font-semibold list-item list-inside tablet:text-2xl laptop:text-3xl">
             University of Costa Rica
-            <p className="italic"> License in Chemical Engineering (2019)</p>
+            <p className="italic"> License in Chemical Engineering</p>
           </h2>
         </div>
 
@@ -185,8 +185,8 @@ function English() {
             </p>
             <p className="list-item list-inside p-2">
               Engaged with suppliers to gather Supplier Self Assessments (SSA),
-              and ISO standards to verify compliance for re-evaluation
-              activities.
+              ISO standard certifications and other requirements to ensure
+              compliance for re-evaluation activities.
             </p>
           </div>
         </div>
