@@ -89,10 +89,7 @@ function English() {
 
           <h2 className="text-[1.3rem] p-4 font-semibold list-item list-inside tablet:text-2xl laptop:text-3xl">
             University of Vigo
-            <p className="italic">
-              {" "}
-              Energy and Sustainability Master's Degree
-            </p>
+            <p className="italic"> Energy and Sustainability Master's Degree</p>
           </h2>
           <h2 className="text-[1.3rem] p-4 font-semibold list-item list-inside tablet:text-2xl laptop:text-3xl">
             University of Costa Rica
@@ -730,6 +727,13 @@ function English() {
             <div>Oracle People Soft</div>
             <div>Salesforce CRM</div>
             <div>OnBase ECM</div>
+            <div>Trackwise</div>
+            <div>Veeva Vault</div>
+            <div>Mango CARA eQMS ECM</div>
+            <div>IQVIA SmartSolve eQMs</div>
+            <div>IQVIA Regulatory Intelligence</div>
+            <div>FDA 21 CFR Part 820, Part 210, Part 211</div>
+            <div>CH Q7, ICH Q9, ICH Q10</div>
             <div>Alteryx</div>
             <div>Unisim</div>
             <div>Chemcad</div>
