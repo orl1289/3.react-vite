@@ -139,8 +139,7 @@ function English() {
             <p className="list-item list-inside p-2">
               Supported Molecular Diagnostics IVD products and its commercial
               supplier quality control processes for affiliates in EMEA and
-              LATAM regions, in alignment with Abbott’s quality systems and
-              regulatory procedures.
+              LATAM regions, in alignment with Abbott’s quality systems, in compliance with IVDR, ISO 13485 and applicable regulatory requirements.
             </p>
             <p className="list-item list-inside p-2">
               Coordinated audits for the assessment of supplier’s quality
@@ -158,8 +157,8 @@ function English() {
               CAPAs, to address nonconformance events.
             </p>
             <p className="list-item list-inside p-2">
-              Engaged in quality projects plans to drive continous improvement,
-              in accordance with quality processes for elements related to
+              Engaged in projects and plans to drive continous improvements,
+              in accordance with the standard processes for elements related to
               quality objectives, regulatory implementations, control of records
               and KPIs.
             </p>
