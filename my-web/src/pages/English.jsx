@@ -197,13 +197,13 @@ function English() {
               <i>Merck Healthcare</i>
             </p>
             <p>
-              <i> July 2024 - Currently - (Madrid, Spain)</i>
+              <i> July 2024 - July 2025 - (Madrid, Spain)</i>
             </p>
           </h2>
 
           <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
             <p className="list-item list-inside p-2">
-              Acted as site lead user for HCQ global functions, enabling
+              Acted as site lead user for Healthcare global functions, enabling
               diligent management over the documentation lifecycle in the
               electronic quality management system.
             </p>
@@ -220,7 +220,7 @@ function English() {
               on-time assessment and evaluation of global documents.
             </p>
             <p className="list-item list-inside p-2">
-              Guaranteed the documentation system is effective and compliant,
+              Guaranteed the documentation system was effective and compliant,
               with users and approvals adhering to standards and specific rules.
             </p>
             <p className="list-item list-inside p-2">
@@ -229,7 +229,7 @@ function English() {
               corporate procedures across cross-functional teams.
             </p>
             <p className="list-item list-inside p-2">
-              Ensured that identified risks are appropriately and timely
+              Ensured that identified risks were appropriately and timely
               escalated for immediate remediation.
             </p>
             <p className="list-item list-inside p-2">
@@ -586,6 +586,20 @@ function English() {
             <h1 className="text-[1.6rem] font-bold tablet:text-3xl laptop:text-4xl">
               Courses and Certifications
             </h1>
+          </div>
+                    <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
+            <h2 className="font-semibold list-item list-inside p-2">
+              {" "}
+              Quality Process Analyst Certification (CQPA)
+              <p className="italic"> ASQ (Ongoing) - edX Certificate</p>
+            </h2>
+          </div>
+                              <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
+            <h2 className="font-semibold list-item list-inside p-2">
+              {" "}
+              Certified Associate in Project Management (CAPM)
+              <p className="italic"> PMI (Ongoing) - edX Certificate</p>
+            </h2>
           </div>
           <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
             <h2 className="font-semibold list-item list-inside p-2">
