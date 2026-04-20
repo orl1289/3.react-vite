@@ -591,21 +591,21 @@ function English() {
             <h2 className="font-semibold list-item list-inside p-2">
               {" "}
               Quality Process Analyst Certification (CQPA)
-              <p className="italic"> ASQ (Ongoing) - edX Certificate</p>
+              <p className="italic"> ASQ (Ongoing)</p>
             </h2>
           </div>
                               <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
             <h2 className="font-semibold list-item list-inside p-2">
               {" "}
               Certified Associate in Project Management (CAPM)
-              <p className="italic"> PMI (Ongoing) - edX Certificate</p>
+              <p className="italic"> PMI (Ongoing)</p>
             </h2>
           </div>
           <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
             <h2 className="font-semibold list-item list-inside p-2">
               {" "}
               Measuring Sustainable Development
-              <p className="italic"> SDG Academy (2024) - edX Certificate</p>
+              <p className="italic"> SDG Academy - edX Certificate</p>
             </h2>
           </div>
           <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
@@ -614,7 +614,7 @@ function English() {
               AWS Cloud Quest: Cloud Practitioner
               <p className="italic">
                 {" "}
-                Amazon Web Services (2023) - Certificate{" "}
+                Amazon Web Services - Certificate{" "}
               </p>
             </h2>
           </div>
@@ -622,7 +622,7 @@ function English() {
             <h2 className="font-semibold list-item list-inside p-2">
               {" "}
               Alianza Francesa de San José
-              <p className="italic"> DELF Niveau B1 (2012)</p>
+              <p className="italic"> DELF Niveau B1</p>
             </h2>
           </div>
         </div>
