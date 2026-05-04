@@ -139,7 +139,9 @@ function English() {
             <p className="list-item list-inside p-2">
               Supported Molecular Diagnostics IVD products and its commercial
               supplier quality control processes for affiliates in EMEA and
-              LATAM regions, in alignment with Abbott’s quality systems, in compliance with IVDR, ISO 13485 and applicable regulatory requirements.
+              LATAM regions, in alignment with Abbott’s quality systems, in
+              compliance with IVDR, ISO 13485 and applicable regulatory
+              requirements.
             </p>
             <p className="list-item list-inside p-2">
               Coordinated audits for the assessment of supplier’s quality
@@ -157,8 +159,8 @@ function English() {
               CAPAs, to address nonconformance events.
             </p>
             <p className="list-item list-inside p-2">
-              Engaged in projects and plans to drive continous improvements,
-              in accordance with the standard processes for elements related to
+              Engaged in projects and plans to drive continous improvements, in
+              accordance with the standard processes for elements related to
               quality objectives, regulatory implementations, control of records
               and KPIs.
             </p>
@@ -204,24 +206,26 @@ function English() {
           <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
             <p className="list-item list-inside p-2">
               Acted as site lead user for Healthcare global functions, enabling
-              diligent management over the documentation lifecycle in the
-              electronic quality management system.
+              a diligent management over the documentation lifecycle in the
+              electronic quality management system (Mango CARA).
             </p>
             <p className="list-item list-inside p-2">
-              Implemented programs to maintain quality standards and promote
-              employee engagement in quality improvement initiatives.
+              Performed as Quality Approver of global QMS procedures, to
+              guarantee the documentation was complete and consistent, with
+              users and approvals adhering to standards, specific rules and
+              ALCOA+ principles (including properties and quality metadata in
+              the eQMS).
             </p>
+
             <p className="list-item list-inside p-2">
               Promoted employee engagement in quality improvement initiatives,
-              by developing policies, procedures, and methods.
+              by developing policies, procedures, and training sessions.
             </p>
             <p className="list-item list-inside p-2">
-              Created and maintained data records to enable operations the
-              on-time assessment and evaluation of global documents.
-            </p>
-            <p className="list-item list-inside p-2">
-              Guaranteed the documentation system was effective and compliant,
-              with users and approvals adhering to standards and specific rules.
+              Created and maintained data records through a workflow initiation,
+              to enable operations in local subsidiaries across the globe the
+              on-time assessment and evaluation of recently approved global
+              documentation.
             </p>
             <p className="list-item list-inside p-2">
               Supported global Process Owners on documentation-related topics,
@@ -587,14 +591,14 @@ function English() {
               Courses and Certifications
             </h1>
           </div>
-                    <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
+          <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
             <h2 className="font-semibold list-item list-inside p-2">
               {" "}
               Quality Process Analyst Certification (CQPA)
               <p className="italic"> ASQ (Ongoing)</p>
             </h2>
           </div>
-                              <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
+          <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
             <h2 className="font-semibold list-item list-inside p-2">
               {" "}
               Certified Associate in Project Management (CAPM)
@@ -612,10 +616,7 @@ function English() {
             <h2 className="font-semibold list-item list-inside p-2">
               {" "}
               AWS Cloud Quest: Cloud Practitioner
-              <p className="italic">
-                {" "}
-                Amazon Web Services - Certificate{" "}
-              </p>
+              <p className="italic"> Amazon Web Services - Certificate </p>
             </h2>
           </div>
           <div className="text-xl text-center p-1 m-auto tablet:text-2xl tablet:mx-20">
