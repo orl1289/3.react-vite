@@ -144,13 +144,13 @@ function English() {
             </p>
             <p className="list-item list-inside p-2">
               Collaborated with commercial and operational teams for IVD
-              products with regards to traceability, cold chain logistics,
+              products, with regards to traceability, cold chain logistics,
               temperature-controlled warehousing, and local labeling
               specifications.
             </p>
             <p className="list-item list-inside p-2">
               Coordinated audits for the assessment of supplier’s quality
-              systems, including audit planning, agenda, scope and requiredSS
+              systems, including audit planning, agenda, scope and required
               audit documentation.
             </p>
             <p className="list-item list-inside p-2">
@@ -189,7 +189,7 @@ function English() {
               Engaged with suppliers to gather Supplier Self Assessments (SSA),
               ISO standard certifications and other requirements to ensure
               compliance for re-evaluation activities, and followed up on
-              Supplier Corrective Action Request (SCAR).
+              Supplier Corrective Action Requests (SCAR).
             </p>
           </div>
         </div>
