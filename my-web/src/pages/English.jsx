@@ -139,19 +139,24 @@ function English() {
             <p className="list-item list-inside p-2">
               Supported Molecular Diagnostics IVD products and its commercial
               supplier quality control processes for affiliates in EMEA and
-              LATAM regions, in alignment with Abbott’s quality systems, in
-              compliance with IVDR, ISO 13485 and applicable regulatory
-              requirements.
+              LATAM regions, in alignment with Abbott’s quality systems,
+              applicable IVDR regulations and ISO 13485.
+            </p>
+            <p className="list-item list-inside p-2">
+              Collaborated with commercial and operational teams for IVD
+              products with regards to traceability, cold chain logistics,
+              temperature-controlled warehousing, and local labeling
+              specifications.
             </p>
             <p className="list-item list-inside p-2">
               Coordinated audits for the assessment of supplier’s quality
-              systems, including audit planning, agenda, scope and required
+              systems, including audit planning, agenda, scope and requiredSS
               audit documentation.
             </p>
             <p className="list-item list-inside p-2">
               Managed and built periodic supplier performance reports with
               metrics for review, to initiate required re-evaluations or action
-              plans in a timely manner.
+              plans in a timely manner (Excel and Power BI dashboards).
             </p>
             <p className="list-item list-inside p-2">
               Assisted in collecting and analyzing data from traceable quality
@@ -162,9 +167,8 @@ function English() {
               Engaged in projects and plans to drive continous improvements, in
               accordance with the standard processes for elements related to
               quality objectives, regulatory implementations, control of records
-              and KPIs.
+              and KPIs (Sharepoint optimization, reporting tools).
             </p>
-
             <p className="list-item list-inside p-2">
               Ensured change control packages were initiated appropriately, and
               confirmed the assembly of information, documents and forms was
@@ -172,9 +176,9 @@ function English() {
             </p>
             <p className="list-item list-inside p-2">
               Collaborated with cross-functional teams (Global Services Support,
-              Service Compliance, and Commercial) to ensure compliance with
-              spare part management and third-party services quality
-              requirements.
+              Service Compliance, and Commercial) to ensure adherence with spare
+              part management and third-party services quality requirements
+              (such as spare parts inventory and review of service agreements).
             </p>
             <p className="list-item list-inside p-2">
               Performed gap assessments to review the compliance against all
@@ -184,7 +188,8 @@ function English() {
             <p className="list-item list-inside p-2">
               Engaged with suppliers to gather Supplier Self Assessments (SSA),
               ISO standard certifications and other requirements to ensure
-              compliance for re-evaluation activities.
+              compliance for re-evaluation activities, and followed up on
+              Supplier Corrective Action Request (SCAR).
             </p>
           </div>
         </div>
