@@ -143,7 +143,7 @@ function English() {
               applicable IVDR regulations and ISO 13485.
             </p>
             <p className="list-item list-inside p-2">
-              Collaborated with commercial and operational teams for IVD
+              Collaborated with Commercial and Operational teams for IVD
               products, with regards to traceability, cold chain logistics,
               temperature-controlled warehousing, and local labeling
               specifications.
@@ -331,8 +331,10 @@ function English() {
               and Spanish.
             </p>
             <p className="list-item list-inside p-2">
-              Determined KPI’s, team objectives and higher-level strategies for
-              the operational business.
+              Determined capacity and productivity KPI’s such as FTE
+              requirements and Time to Resolution (TTR); established team
+              objectives and higher-level strategies for the operational
+              business.
             </p>
             <p className="list-item list-inside p-2">
               Presented biweekly data briefings to level up management for the
