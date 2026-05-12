@@ -125,7 +125,7 @@ function English() {
           <h2 className="text-xl m-5 font-semibold tablet:text-2xl laptop:text-3xl">
             {" "}
             <p className="text-violet-950 text-4xl">
-              Commercial & Distribution Quality Assurance
+              Commercial Suppliers & Distribution Quality Assurance
             </p>
             <p>
               <i>Abbott Laboratories</i>
@@ -210,9 +210,10 @@ function English() {
 
           <div className="text-xl text-justify p-1 m-auto tablet:text-2xl tablet:mx-20">
             <p className="list-item list-inside p-2">
-              Acted as site lead user for Healthcare global functions, enabling
-              a diligent management over the documentation lifecycle in the
-              electronic quality management system (Mango CARA).
+              Acted as lead user for Healthcare global functions, enabling
+              diligent management processes and compliant documentation
+              lifecycle in the electronic quality management system (Mango
+              CARA).
             </p>
             <p className="list-item list-inside p-2">
               Performed as Quality Approver of global QMS procedures, to
@@ -221,16 +222,11 @@ function English() {
               ALCOA+ principles (including properties and quality metadata in
               the eQMS).
             </p>
-
             <p className="list-item list-inside p-2">
-              Promoted employee engagement in quality improvement initiatives,
-              by developing policies, procedures, and training sessions.
-            </p>
-            <p className="list-item list-inside p-2">
-              Created and maintained data records through a workflow initiation,
-              to enable operations in local subsidiaries across the globe the
-              on-time assessment and evaluation of recently approved global
-              documentation.
+              Created and owned data records through a workflow initiation, to
+              enable subsidiaries across the global the on-time assessment and
+              evaluation of recently approved global procedures and standards
+              (quality documentation KPI’s).
             </p>
             <p className="list-item list-inside p-2">
               Supported global Process Owners on documentation-related topics,
@@ -238,16 +234,16 @@ function English() {
               corporate procedures across cross-functional teams.
             </p>
             <p className="list-item list-inside p-2">
-              Ensured that identified risks were appropriately and timely
-              escalated for immediate remediation.
+              Provided support to users by actively identifying their needs, and
+              created follow-up items for effective quality documentation
+              control processes through specific actions and
+              workflows (periodic reviews workflows, new drafts or obsoletion)
             </p>
             <p className="list-item list-inside p-2">
-              Actively identified needs of users, to understand requirements and
-              translate these into specific actions and workflows.
-            </p>
-            <p className="list-item list-inside p-2">
-              Provided support to users and follow-up items for effective
-              quality documentation control management process.
+              Generated reports and metrics to assess the compliance and
+              efficiency of the eQMS processes, by ensuring appropriate data
+              governance, integrity and quality as overall strategy in the
+              long-term (metadata reports, creation of process owners database).
             </p>
             <p className="list-item list-inside p-2">
               Provided training and ensured users were adequately trained, to
@@ -255,9 +251,12 @@ function English() {
               eQMS.
             </p>
             <p className="list-item list-inside p-2">
-              Generated reports and metrics that helped track the compliance and
-              efficiency of the processes and contribute the overall digital
-              ecosystem with long-term solutions.
+              Ensured that identified risks were appropriately and timely
+              escalated for immediate remediation.
+            </p>
+            <p className="list-item list-inside p-2">
+              Promoted employee engagement in quality improvement initiatives,
+              by developing policies, procedures, and training sessions.
             </p>
             <p className="list-item list-inside p-2">
               Developed excellent practical expertise of pharma terminology and
@@ -349,7 +348,7 @@ function English() {
               monthly analysis findings, feedback and improvement opportunities.
             </p>
             <p className="list-item list-inside p-2">
-              Created and implemented mechanisms to forecast demand needs to
+              Created and implemented mechanisms to forecast FTE demand needs to
               ensure headcount availability.
             </p>
             <p className="list-item list-inside p-2">
@@ -361,8 +360,8 @@ function English() {
               assignments accordingly.
             </p>
             <p className="list-item list-inside p-2">
-              Anticipated the successful implementation of tools, information,
-              and resources for the team.
+              Provided proactive support for the successful implementation of
+              reactive process guidelines, methodologies and tools for the team.
             </p>
             <p className="list-item list-inside p-2">
               Developed effective professional network opportunities by
@@ -394,6 +393,10 @@ function English() {
             <p className="list-item list-inside p-2">
               Ensured optimum personnel utilization by allocating tasks timely
               and efficiently based on their availability and expertise.
+            </p>
+            <p className="list-item list-inside p-2">
+              Hands-on experience with IT Service Management processes
+              (Incident, SLA targets missed).
             </p>
             <p className="list-item list-inside p-2">
               Monitored the compliance of daily metric values (SLA and other
